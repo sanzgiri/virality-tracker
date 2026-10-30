@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-30T03:43:35.487078+00:00",
+ "generated_at": "2026-10-30T03:51:27.299437+00:00",
  "coverage": [
   {
    "platform": "youtube",
@@ -265,12 +265,14 @@
    "rank": 4,
    "list_size": 25,
    "author": "",
-   "summary_src": "via NBA.com",
+   "summary_src": "Kia Rookie Ladder: Cameron Boozer grabs No. 1 spot in debut Top 10 ranking (via NBA.com)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 2000,
     "news_url": "https://www.nba.com/news/kia-rookie-ladder-october-28-2026",
+    "news_title": "Kia Rookie Ladder: Cameron Boozer grabs No. 1 spot in debut Top 10 ranking",
+    "news_source": "NBA.com",
     "_group_size": 10,
     "_reach_pct": 100.0,
     "_velocity": 88.0,
@@ -971,12 +973,14 @@
    "rank": 10,
    "list_size": 25,
    "author": "",
-   "summary_src": "via Detroit Lions",
+   "summary_src": "Lions vs. Vikings practice report: Oct. 29 (via Detroit Lions)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.detroitlions.com/news/lions-vs-vikings-practice-report-oct-29-gibbs-stbrown-joseph",
+    "news_title": "Lions vs. Vikings practice report: Oct. 29",
+    "news_source": "Detroit Lions",
     "_group_size": 10,
     "_reach_pct": 88.9,
     "_velocity": 64.0,
@@ -1169,12 +1173,14 @@
    "rank": 9,
    "list_size": 25,
    "author": "",
-   "summary_src": "via The Troy Times Tribune",
+   "summary_src": "IDPH reminds Illinoisans: it\u2019s time to get seasonal respiratory illness immunizations (via The Troy Times Tribune)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.timestribunenews.com/2026/10/29/idph-reminds-illinoisans-its-time-to-get-seasonal-respiratory-illness-immunizations/",
+    "news_title": "IDPH reminds Illinoisans: it\u2019s time to get seasonal respiratory illness immunizations",
+    "news_source": "The Troy Times Tribune",
     "_group_size": 10,
     "_reach_pct": 77.8,
     "_velocity": 68.0,
@@ -1368,12 +1374,14 @@
    "rank": 8,
    "list_size": 25,
    "author": "",
-   "summary_src": "via CIDRAP",
+   "summary_src": "Experts say don't wait. Now is the time to get your flu shot. (via CIDRAP)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.cidrap.umn.edu/influenza-vaccines/experts-say-dont-wait-now-time-get-your-flu-shot",
+    "news_title": "Experts say don't wait. Now is the time to get your flu shot.",
+    "news_source": "CIDRAP",
     "_group_size": 10,
     "_reach_pct": 66.7,
     "_velocity": 72.0,
@@ -1648,12 +1656,14 @@
    "rank": 7,
    "list_size": 25,
    "author": "",
-   "summary_src": "via Tampa Bay Buccaneers",
+   "summary_src": "2026 Game Preview: Falcons-Buccaneers, Week 8 (via Tampa Bay Buccaneers)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.buccaneers.com/news/2026-game-preview-falcons-buccaneers-week-8",
+    "news_title": "2026 Game Preview: Falcons-Buccaneers, Week 8",
+    "news_source": "Tampa Bay Buccaneers",
     "_group_size": 10,
     "_reach_pct": 55.6,
     "_velocity": 76.0,
@@ -1979,12 +1989,14 @@
    "rank": 6,
    "list_size": 25,
    "author": "",
-   "summary_src": "via WRGB",
+   "summary_src": "Babies may need new Hep B vaccine after storage issue at Albany Med (via WRGB)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://cbs6albany.com/news/local/babies-may-need-new-hep-b-vaccine-after-storage-issue-at-albany-medical-center-new-york-state-department-of-health-wrgb",
+    "news_title": "Babies may need new Hep B vaccine after storage issue at Albany Med",
+    "news_source": "WRGB",
     "_group_size": 10,
     "_reach_pct": 44.4,
     "_velocity": 80.0,
@@ -2235,12 +2247,14 @@
    "rank": 1,
    "list_size": 25,
    "author": "",
-   "summary_src": "via ESPN",
+   "summary_src": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds (via ESPN)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions",
+    "news_title": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
+    "news_source": "ESPN",
     "_group_size": 10,
     "_reach_pct": 22.2,
     "_velocity": 100.0,
@@ -2260,12 +2274,14 @@
    "rank": 5,
    "list_size": 25,
    "author": "",
-   "summary_src": "via The New York Times",
+   "summary_src": "First-of-Its-Kind Vaccine Ushers in New Hope for Cancer Patients (via The New York Times)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
     "news_url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "news_title": "First-of-Its-Kind Vaccine Ushers in New Hope for Cancer Patients",
+    "news_source": "The New York Times",
     "_group_size": 10,
     "_reach_pct": 33.3,
     "_velocity": 84.0,
@@ -2638,12 +2654,14 @@
    "rank": 2,
    "list_size": 25,
    "author": "",
-   "summary_src": "via The New York Times",
+   "summary_src": "WTA Tokyo Quarterfinal Predictions Including Elena Rybakina vs Leylah Fernandez (via Last Word On Sports)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 500,
-    "news_url": "https://www.nytimes.com/athletic/7737336/2026/10/29/womens-toray-pan-pacific-open-tennis-stream-how-to-watch-october-30/",
+    "news_url": "https://lastwordonsports.com/tennis/2026/10/29/wta-tokyo-quarterfinal-predictions-rybakina-fernandez/",
+    "news_title": "WTA Tokyo Quarterfinal Predictions Including Elena Rybakina vs Leylah Fernandez",
+    "news_source": "Last Word On Sports",
     "_group_size": 10,
     "_reach_pct": 11.1,
     "_velocity": 96.0,
@@ -3023,12 +3041,14 @@
    "rank": 3,
    "list_size": 25,
    "author": "",
-   "summary_src": "via The Guardian",
+   "summary_src": "A Mississippi Democrat is unexpectedly threatening Republicans\u2019 grip on the US Senate (via The Guardian)",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 200,
     "news_url": "https://www.theguardian.com/us-news/2026/oct/29/mississippi-scott-colom-democrats",
+    "news_title": "A Mississippi Democrat is unexpectedly threatening Republicans\u2019 grip on the US Senate",
+    "news_source": "The Guardian",
     "_group_size": 10,
     "_reach_pct": 0.0,
     "_velocity": 92.0,
@@ -4301,8 +4321,8 @@
     "trek"
    ],
    "common_tokens": [
-    "trek",
-    "star"
+    "star",
+    "trek"
    ],
    "max_virality": 57.9,
    "any_meme": false
@@ -4332,10 +4352,10 @@
    "common_tokens": [
     "front",
     "right",
-    "well",
     "trump",
-    "nothing",
-    "70s"
+    "jonestown",
+    "well",
+    "south"
    ],
    "max_virality": 56.7,
    "any_meme": true
@@ -4402,8 +4422,8 @@
     "worth"
    ],
    "common_tokens": [
-    "tell",
-    "worth"
+    "worth",
+    "tell"
    ],
    "max_virality": 70.0,
    "any_meme": true
@@ -5978,12 +5998,12 @@
     "warm"
    ],
    "common_tokens": [
+    "ingredients",
+    "cup",
+    "warm",
     "cut",
     "seasoning",
-    "ingredients",
-    "sour",
-    "cup",
-    "warm"
+    "cream"
    ],
    "max_virality": 28.7,
    "any_meme": false
