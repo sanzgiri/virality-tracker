@@ -203,8 +203,20 @@ def render_today(date_str, payload, stories, sets, media_map, prefix=""):
     trends = sorted([Item.from_dict(d) for d in payload["items"] if d["platform"] == "google_trends"],
                     key=lambda i: i.rank or 999)
     if trends:
-        chips = "".join(f'<a class="gchip" href="{esc(it.url)}">{esc(it.title)}</a>' for it in trends)
-        parts.append(f'<section><h2>US is searching</h2><div class="chipsrow">{chips}</div></section>')
+        rows = []
+        for it in trends:
+            headline = (it.metrics or {}).get("news_title", "")
+            src = (it.metrics or {}).get("news_source", "")
+            nurl = (it.metrics or {}).get("news_url", "")
+            if headline:
+                expl = (f'<a href="{esc(nurl)}">{esc(headline)}</a>' if nurl else esc(headline))
+                if src: expl += f' <span class="tsrc">· {esc(src)}</span>'
+            else:
+                expl = '<span class="tsrc">No single story is driving this one.</span>'
+            rows.append(f'<div class="trow"><a class="gchip" href="{esc(it.url)}">{esc(it.title)}</a>'
+                        f'<span class="texpl">{expl}</span></div>')
+        parts.append('<section><h2>US is searching</h2><p class="sub">The headline driving each search, per Google Trends.</p>'
+                     f'<div class="tlist">{"".join(rows)}</div></section>')
     return _page(pretty_date(date_str), "".join(parts), prefix, "today", date_str)
 
 def render_details(date_str, payload, stories, sets, media_map, prefix=""):
@@ -309,6 +321,9 @@ section{margin-top:28px}h2{font-size:22px;margin:0 0 4px}h3{margin:18px 0 6px}.s
 .video-fallback{position:absolute;inset:0;z-index:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;background:linear-gradient(160deg,#1a2230,#0a0d12);color:var(--dim)}
 .video-fallback .play{font-size:44px;color:var(--ink)}.video-fallback a{font-weight:700}
 .chipsrow{display:flex;gap:8px;flex-wrap:wrap}
+.tlist{display:flex;flex-direction:column;gap:8px}
+.trow{display:flex;gap:12px;align-items:baseline;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+.trow .gchip{flex:none}.texpl{color:var(--dim);font-size:14px}.texpl a{color:var(--ink);text-decoration:none}.texpl a:hover{color:var(--accent)}.tsrc{color:var(--gray)}
 .gchip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:7px 13px;text-decoration:none;font-weight:600}
 .gchip:hover{border-color:var(--accent);color:var(--accent)}
 .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
