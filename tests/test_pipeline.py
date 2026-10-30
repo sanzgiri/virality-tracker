@@ -34,3 +34,18 @@ def test_containment():
     multi = [c for c in cs if len(c["platforms"]) >= 2]
     assert multi and set(multi[0]["platforms"]) == {"x", "youtube", "tiktok"}, multi
     print("ok containment")
+
+def test_reddit_image_parse():
+    from virality.sources.reddit import parse_feed
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <entry>
+  <title>Test post</title>
+  <link href="https://www.reddit.com/r/memes/comments/abc123/test_post/"/>
+  <author><name>/u/tester</name></author>
+  <content type="html">&lt;span&gt;&lt;a href="https://i.redd.it/xyz789.jpg"&gt;[link]&lt;/a&gt;&lt;/span&gt;</content>
+ </entry>
+</feed>"""
+    items = parse_feed(xml, "memes", True, 15)
+    assert len(items) == 1, items
+    assert items[0].metrics["image"] == "https://i.redd.it/xyz789.jpg", items[0].metrics

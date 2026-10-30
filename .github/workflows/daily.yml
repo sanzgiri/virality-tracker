@@ -2,11 +2,11 @@ name: Daily virality digest + site
 
 # Runs the collector, rebuilds the static site in docs/ (GitHub Pages
 # serves it from the main branch), and commits data + site back to the
-# repo. 17:00 UTC lands ~9-10am Pacific (Actions schedules are UTC-only,
-# so it drifts one hour across DST changes).
+# repo. 16:00 UTC lands 8-9am Pacific, ahead of the 9:40am PT chat digest
+# in both DST phases (Actions schedules are UTC-only).
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Collect, score and render today's digest
+        env:
+          TZ: America/Los_Angeles
         run: python3 run_daily.py
       - name: Build the site
         run: python3 build_site.py

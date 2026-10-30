@@ -35,7 +35,7 @@ def parse_feed(xml_text: str, sub: str, is_meme: bool, limit: int) -> list[Item]
             platform="reddit", title=title, url=url, rank=i, list_size=limit,
             author=f"r/{sub} {author}".strip(),
             summary_src=f"Top of r/{sub} today on Reddit.",
-            metrics={"image": im.group(1) if im else ""},
+            metrics={"image": im.group(0) if im else ""},
             is_meme=is_meme or sub == "memes",
         ))
         if len(items) >= limit: break
