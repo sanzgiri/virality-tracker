@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated_at": "2026-10-30T02:22:55.553868+00:00",
+ "generated_at": "2026-10-30T03:43:35.487078+00:00",
  "coverage": [
   {
    "platform": "youtube",
@@ -16,7 +16,7 @@
   },
   {
    "platform": "reddit",
-   "status": "FAILED (collector crashed: IndexError: no such group)"
+   "status": "OK \u2014 r/popular 25, r/memes 15, r/funny 10"
   },
   {
    "platform": "google_trends",
@@ -68,9 +68,33 @@
    "uid": "97c26cbc3d80"
   },
   {
+   "platform": "memes",
+   "title": "Memes",
+   "url": "https://knowyourmeme.com/memes/memes",
+   "rank": 2,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/002/058/meme.jpg",
+    "_group_size": 12,
+    "_reach_pct": 90.9,
+    "_velocity": 95.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 70.6,
+   "tier": "Viral",
+   "why": [],
+   "uid": "b3cfc50fbf77"
+  },
+  {
    "platform": "x",
-   "title": "Panthers",
-   "url": "https://twitter.com/search?q=Panthers",
+   "title": "Christian Watson",
+   "url": "https://twitter.com/search?q=Christian%20Watson",
    "rank": 1,
    "list_size": 50,
    "author": "",
@@ -89,7 +113,31 @@
    "virality": 70.0,
    "tier": "Viral",
    "why": [],
-   "uid": "0caaa25e4cc8"
+   "uid": "bb2617034486"
+  },
+  {
+   "platform": "reddit",
+   "title": "How can I tell man, It's just not worth it.",
+   "url": "https://www.reddit.com/r/memes/comments/1xihmra/how_can_i_tell_man_its_just_not_worth_it/",
+   "rank": 1,
+   "list_size": 15,
+   "author": "r/memes /u/_FIZZRIX_",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/vsulirrm8eyh1.gif",
+    "_group_size": 40,
+    "_reach_pct": 100.0,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 70.0,
+   "tier": "Viral",
+   "why": [],
+   "uid": "ddf01db3362e"
   },
   {
    "platform": "memes",
@@ -116,6 +164,30 @@
    "uid": "5cc19d8636fe"
   },
   {
+   "platform": "reddit",
+   "title": "Mexico upgraded to free health care!",
+   "url": "https://www.reddit.com/r/interesting/comments/1xiafkr/mexico_upgraded_to_free_health_care/",
+   "rank": 1,
+   "list_size": 25,
+   "author": "r/popular /u/Negative_1by12_aura",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/fml5yx9t3cyh1.png",
+    "_group_size": 40,
+    "_reach_pct": 97.4,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 69.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "fd5210a0abc4"
+  },
+  {
    "platform": "linkedin",
    "title": "LinkedIn let people ask me anything about building Listen Labs ",
    "url": "https://www.linkedin.com/posts/linkedin-news_activity-7521311503363334145-qfJ6",
@@ -140,8 +212,8 @@
   },
   {
    "platform": "x",
-   "title": "Packers",
-   "url": "https://twitter.com/search?q=Packers",
+   "title": "Panthers",
+   "url": "https://twitter.com/search?q=Panthers",
    "rank": 2,
    "list_size": 50,
    "author": "",
@@ -160,12 +232,12 @@
    "virality": 68.6,
    "tier": "Rising",
    "why": [],
-   "uid": "147e22b80604"
+   "uid": "0caaa25e4cc8"
   },
   {
    "platform": "x",
-   "title": "Patrick Stewart",
-   "url": "https://twitter.com/search?q=Patrick%20Stewart",
+   "title": "Packers",
+   "url": "https://twitter.com/search?q=Packers",
    "rank": 3,
    "list_size": 50,
    "author": "",
@@ -184,12 +256,85 @@
    "virality": 67.2,
    "tier": "Rising",
    "why": [],
-   "uid": "98e5067a7c28"
+   "uid": "147e22b80604"
+  },
+  {
+   "platform": "google_trends",
+   "title": "cameron boozer",
+   "url": "https://trends.google.com/trending?geo=US&search=cameron%20boozer",
+   "rank": 4,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via NBA.com",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 2000,
+    "news_url": "https://www.nba.com/news/kia-rookie-ladder-october-28-2026",
+    "_group_size": 10,
+    "_reach_pct": 100.0,
+    "_velocity": 88.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 67.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "587f02ee3bb9"
+  },
+  {
+   "platform": "reddit",
+   "title": "Here comes the sun",
+   "url": "https://www.reddit.com/r/memes/comments/1xin1z4/here_comes_the_sun/",
+   "rank": 2,
+   "list_size": 15,
+   "author": "r/memes /u/pajdbdksnsjsjsjs",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/bjw3brpncfyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 94.9,
+    "_velocity": 93.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 66.5,
+   "tier": "Rising",
+   "why": [],
+   "uid": "c848c9fc3508"
+  },
+  {
+   "platform": "reddit",
+   "title": "RIP Patrick Stewart",
+   "url": "https://www.reddit.com/r/TopGear/comments/1xivhzk/rip_patrick_stewart/",
+   "rank": 2,
+   "list_size": 25,
+   "author": "r/popular /u/TheDowntownPonce",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/3yg5u3w8wgyh1.png",
+    "_group_size": 40,
+    "_reach_pct": 92.3,
+    "_velocity": 96.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 66.3,
+   "tier": "Rising",
+   "why": [],
+   "uid": "513ee75993ed"
   },
   {
    "platform": "x",
-   "title": "Binance",
-   "url": "https://twitter.com/search?q=Binance",
+   "title": "Bryce",
+   "url": "https://twitter.com/search?q=Bryce",
    "rank": 4,
    "list_size": 50,
    "author": "",
@@ -208,31 +353,7 @@
    "virality": 65.8,
    "tier": "Rising",
    "why": [],
-   "uid": "d84b304b0882"
-  },
-  {
-   "platform": "memes",
-   "title": "Malfoid Female Draco Malfoy",
-   "url": "https://knowyourmeme.com/memes/malfoid-female-draco-malfoy",
-   "rank": 2,
-   "list_size": 20,
-   "author": "Know Your Meme",
-   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
-   "published_hint": "",
-   "is_meme": true,
-   "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/554/malfoidcover.jpg",
-    "_group_size": 12,
-    "_reach_pct": 90.9,
-    "_velocity": 95.0,
-    "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
-   },
-   "virality": 65.6,
-   "tier": "Rising",
-   "why": [],
-   "uid": "565640dbcf01"
+   "uid": "977b276d1818"
   },
   {
    "platform": "tiktok",
@@ -289,6 +410,30 @@
    "uid": "edd7816b156a"
   },
   {
+   "platform": "x",
+   "title": "Patrick Stewart",
+   "url": "https://twitter.com/search?q=Patrick%20Stewart",
+   "rank": 8,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 82.1,
+    "_velocity": 86.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 65.2,
+   "tier": "Rising",
+   "why": [],
+   "uid": "98e5067a7c28"
+  },
+  {
    "platform": "youtube",
    "title": "In This Card Game... Everyone Cheats",
    "url": "https://www.youtube.com/watch?v=RNeNdrH40WE",
@@ -340,29 +485,52 @@
    "uid": "6dfe5a4ac0ca"
   },
   {
-   "platform": "google_trends",
-   "title": "darius acuff jr.",
-   "url": "https://trends.google.com/trending?geo=US&search=darius%20acuff%20jr.",
-   "rank": 7,
+   "platform": "reddit",
+   "title": "Cat with a natural mullet",
+   "url": "https://www.reddit.com/r/interesting/comments/1xijcci/cat_with_a_natural_mullet/",
+   "rank": 3,
    "list_size": 25,
-   "author": "",
-   "summary_src": "via NBA.com",
+   "author": "r/popular /u/Steve_Apple0",
+   "summary_src": "Top of r/popular today on Reddit.",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
-    "search_volume": 2000,
-    "news_url": "https://www.nba.com/watch/video/darius-acuff-jr-erupts-at-the-rim?plsrc=nba&collection=must-watch-videos",
-    "_group_size": 10,
-    "_reach_pct": 100.0,
-    "_velocity": 76.0,
+    "image": "https://i.redd.it/tnz8iggvmeyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 87.2,
+    "_velocity": 92.0,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 64.0,
+   "virality": 63.5,
    "tier": "Rising",
    "why": [],
-   "uid": "d2cbb078f826"
+   "uid": "5021b949eead"
+  },
+  {
+   "platform": "reddit",
+   "title": "It's a losing battle",
+   "url": "https://www.reddit.com/r/memes/comments/1xi9xwi/its_a_losing_battle/",
+   "rank": 3,
+   "list_size": 15,
+   "author": "r/memes /u/RaccoonCityTacos",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/zr4m28k2zbyh1.gif",
+    "_group_size": 40,
+    "_reach_pct": 89.7,
+    "_velocity": 86.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "ba19d4df38c6"
   },
   {
    "platform": "tiktok",
@@ -393,8 +561,8 @@
   },
   {
    "platform": "x",
-   "title": "Matthew Golden",
-   "url": "https://twitter.com/search?q=Matthew%20Golden",
+   "title": "Binance",
+   "url": "https://twitter.com/search?q=Binance",
    "rank": 6,
    "list_size": 50,
    "author": "",
@@ -413,7 +581,7 @@
    "virality": 63.0,
    "tier": "Rising",
    "why": [],
-   "uid": "19c64f6f85b5"
+   "uid": "d84b304b0882"
   },
   {
    "platform": "youtube",
@@ -497,6 +665,30 @@
    "uid": "6c6b969a9491"
   },
   {
+   "platform": "reddit",
+   "title": "Patrick Stewart Dies: \u2018Star Trek: The Next Generation\u2019 Actor Was 86",
+   "url": "https://www.reddit.com/r/news/comments/1xiu6de/patrick_stewart_dies_star_trek_the_next/",
+   "rank": 5,
+   "list_size": 25,
+   "author": "r/popular /u/sunblade16",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 76.9,
+    "_velocity": 84.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 62.9,
+   "tier": "Rising",
+   "why": [],
+   "uid": "9a3ad5028e62"
+  },
+  {
    "platform": "youtube",
    "title": "XLOV 'Hush' MV",
    "url": "https://www.youtube.com/watch?v=ae9Xvl-eln8",
@@ -551,9 +743,33 @@
    "uid": "7c9b9584e665"
   },
   {
+   "platform": "memes",
+   "title": "Really Right In Front Of My X",
+   "url": "https://knowyourmeme.com/memes/really-right-in-front-of-my-x",
+   "rank": 4,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/048/558/3.jpg",
+    "_group_size": 12,
+    "_reach_pct": 72.7,
+    "_velocity": 85.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 61.7,
+   "tier": "Rising",
+   "why": [],
+   "uid": "d97d33050bc1"
+  },
+  {
    "platform": "x",
-   "title": "Christian Watson",
-   "url": "https://twitter.com/search?q=Christian%20Watson",
+   "title": "Jordan Love",
+   "url": "https://twitter.com/search?q=Jordan%20Love",
    "rank": 7,
    "list_size": 50,
    "author": "",
@@ -572,12 +788,12 @@
    "virality": 61.6,
    "tier": "Rising",
    "why": [],
-   "uid": "bb2617034486"
+   "uid": "636fe11dd5db"
   },
   {
    "platform": "memes",
-   "title": "I Hate Gay Halloween",
-   "url": "https://knowyourmeme.com/memes/i-hate-gay-halloween",
+   "title": "Malfoid Female Draco Malfoy",
+   "url": "https://knowyourmeme.com/memes/malfoid-female-draco-malfoy",
    "rank": 3,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -585,7 +801,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/051/860/gay_halloween.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/554/malfoidcover.jpg",
     "_group_size": 12,
     "_reach_pct": 81.8,
     "_velocity": 90.0,
@@ -596,36 +812,60 @@
    "virality": 61.1,
    "tier": "Rising",
    "why": [],
-   "uid": "316df4407d5a"
+   "uid": "565640dbcf01"
   },
   {
-   "platform": "x",
-   "title": "Bryce",
-   "url": "https://twitter.com/search?q=Bryce",
-   "rank": 8,
-   "list_size": 50,
-   "author": "",
-   "summary_src": "Trending topic on X in the United States right now.",
+   "platform": "reddit",
+   "title": "Meirl",
+   "url": "https://www.reddit.com/r/meirl/comments/1xilaq1/meirl/",
+   "rank": 4,
+   "list_size": 25,
+   "author": "r/popular /u/lonewolff321",
+   "summary_src": "Top of r/popular today on Reddit.",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
-    "tweet_volume": 0,
+    "image": "https://i.redd.it/n8nxplno0fyh1.jpeg",
     "_group_size": 40,
     "_reach_pct": 82.1,
-    "_velocity": 86.0,
+    "_velocity": 88.0,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 60.2,
+   "virality": 60.7,
    "tier": "Rising",
    "why": [],
-   "uid": "977b276d1818"
+   "uid": "521daeb3edcf"
+  },
+  {
+   "platform": "reddit",
+   "title": "Three green shells in a row",
+   "url": "https://www.reddit.com/r/memes/comments/1xis6lz/three_green_shells_in_a_row/",
+   "rank": 4,
+   "list_size": 15,
+   "author": "r/memes /u/Graeleaf",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/p8zpiob5agyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 84.6,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 59.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4af1d29ef733"
   },
   {
    "platform": "x",
-   "title": "Trey Smack",
-   "url": "https://twitter.com/search?q=Trey%20Smack",
+   "title": "Matthew Golden",
+   "url": "https://twitter.com/search?q=Matthew%20Golden",
    "rank": 9,
    "list_size": 50,
    "author": "",
@@ -644,7 +884,7 @@
    "virality": 58.8,
    "tier": "Watch",
    "why": [],
-   "uid": "1fb99dfc4d19"
+   "uid": "19c64f6f85b5"
   },
   {
    "platform": "tiktok",
@@ -675,8 +915,8 @@
   },
   {
    "platform": "x",
-   "title": "Jordan Love",
-   "url": "https://twitter.com/search?q=Jordan%20Love",
+   "title": "#GoPackGo",
+   "url": "https://twitter.com/search?q=#GoPackGo",
    "rank": 10,
    "list_size": 50,
    "author": "",
@@ -695,32 +935,7 @@
    "virality": 57.4,
    "tier": "Watch",
    "why": [],
-   "uid": "636fe11dd5db"
-  },
-  {
-   "platform": "google_trends",
-   "title": "sacramento kings",
-   "url": "https://trends.google.com/trending?geo=US&search=sacramento%20kings",
-   "rank": 2,
-   "list_size": 25,
-   "author": "",
-   "summary_src": "via ESPN",
-   "published_hint": "",
-   "is_meme": false,
-   "metrics": {
-    "search_volume": 1000,
-    "news_url": "https://www.espn.com/nba/game/_/gameId/401909879/kings-spurs",
-    "_group_size": 10,
-    "_reach_pct": 66.7,
-    "_velocity": 96.0,
-    "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
-   },
-   "virality": 57.3,
-   "tier": "Watch",
-   "why": [],
-   "uid": "25aeefebe889"
+   "uid": "1ca3f3c258b4"
   },
   {
    "platform": "youtube",
@@ -751,42 +966,17 @@
   },
   {
    "platform": "google_trends",
-   "title": "kevin harlan",
-   "url": "https://trends.google.com/trending?geo=US&search=kevin%20harlan",
-   "rank": 6,
-   "list_size": 25,
-   "author": "",
-   "summary_src": "via Pittsburgh Post-Gazette",
-   "published_hint": "",
-   "is_meme": false,
-   "metrics": {
-    "search_volume": 1000,
-    "news_url": "https://www.post-gazette.com/sports/steelers/2026/10/29/steelers-browns-matchup-rivalry/stories/202610290037",
-    "_group_size": 10,
-    "_reach_pct": 77.8,
-    "_velocity": 80.0,
-    "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
-   },
-   "virality": 57.2,
-   "tier": "Watch",
-   "why": [],
-   "uid": "cd2b1c167eec"
-  },
-  {
-   "platform": "google_trends",
-   "title": "sac kings",
-   "url": "https://trends.google.com/trending?geo=US&search=sac%20kings",
+   "title": "nfc north",
+   "url": "https://trends.google.com/trending?geo=US&search=nfc%20north",
    "rank": 10,
    "list_size": 25,
    "author": "",
-   "summary_src": "via NOLA.com",
+   "summary_src": "via Detroit Lions",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
     "search_volume": 1000,
-    "news_url": "https://www.nola.com/no-pelicanskings-103026--006-jpg/image_f8fef646-9527-55dc-a9bb-ca296f17fddd.html",
+    "news_url": "https://www.detroitlions.com/news/lions-vs-vikings-practice-report-oct-29-gibbs-stbrown-joseph",
     "_group_size": 10,
     "_reach_pct": 88.9,
     "_velocity": 64.0,
@@ -797,7 +987,7 @@
    "virality": 57.1,
    "tier": "Watch",
    "why": [],
-   "uid": "28e98e3c459e"
+   "uid": "6a7b90155155"
   },
   {
    "platform": "tiktok",
@@ -827,33 +1017,33 @@
    "uid": "e922c9190906"
   },
   {
-   "platform": "memes",
-   "title": "Memes",
-   "url": "https://knowyourmeme.com/memes/memes",
-   "rank": 4,
-   "list_size": 20,
-   "author": "Know Your Meme",
-   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "platform": "reddit",
+   "title": "Farewell, Captain.",
+   "url": "https://www.reddit.com/r/memes/comments/1xiuxxc/farewell_captain/",
+   "rank": 5,
+   "list_size": 15,
+   "author": "r/memes /u/Particular_Speed4647",
+   "summary_src": "Top of r/memes today on Reddit.",
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/002/058/meme.jpg",
-    "_group_size": 12,
-    "_reach_pct": 72.7,
-    "_velocity": 85.0,
+    "image": "https://i.redd.it/zzeucrgisgyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 79.5,
+    "_velocity": 73.3,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 56.7,
+   "virality": 56.2,
    "tier": "Watch",
    "why": [],
-   "uid": "b3cfc50fbf77"
+   "uid": "fd747def86f5"
   },
   {
    "platform": "x",
-   "title": "#GoPackGo",
-   "url": "https://twitter.com/search?q=#GoPackGo",
+   "title": "Josh Jacobs",
+   "url": "https://twitter.com/search?q=Josh%20Jacobs",
    "rank": 11,
    "list_size": 50,
    "author": "",
@@ -872,7 +1062,7 @@
    "virality": 56.0,
    "tier": "Watch",
    "why": [],
-   "uid": "1ca3f3c258b4"
+   "uid": "02d72d843c75"
   },
   {
    "platform": "linkedin",
@@ -925,9 +1115,33 @@
    "uid": "ee6bec1fa238"
   },
   {
+   "platform": "reddit",
+   "title": "Sir Patrick Stewart dead at 86.",
+   "url": "https://www.reddit.com/r/movies/comments/1xitw9q/sir_patrick_stewart_dead_at_86/",
+   "rank": 6,
+   "list_size": 25,
+   "author": "r/popular /u/Minifig81",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 71.8,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 55.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "746007f15c65"
+  },
+  {
    "platform": "x",
-   "title": "Josh Jacobs",
-   "url": "https://twitter.com/search?q=Josh%20Jacobs",
+   "title": "Trey Smack",
+   "url": "https://twitter.com/search?q=Trey%20Smack",
    "rank": 12,
    "list_size": 50,
    "author": "",
@@ -946,7 +1160,32 @@
    "virality": 54.6,
    "tier": "Watch",
    "why": [],
-   "uid": "02d72d843c75"
+   "uid": "1fb99dfc4d19"
+  },
+  {
+   "platform": "google_trends",
+   "title": "immunizations",
+   "url": "https://trends.google.com/trending?geo=US&search=immunizations",
+   "rank": 9,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via The Troy Times Tribune",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://www.timestribunenews.com/2026/10/29/idph-reminds-illinoisans-its-time-to-get-seasonal-respiratory-illness-immunizations/",
+    "_group_size": 10,
+    "_reach_pct": 77.8,
+    "_velocity": 68.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 54.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "353c128a0ffc"
   },
   {
    "platform": "youtube",
@@ -977,8 +1216,8 @@
   },
   {
    "platform": "x",
-   "title": "#911onABC",
-   "url": "https://twitter.com/search?q=#911onABC",
+   "title": "Lambeau",
+   "url": "https://twitter.com/search?q=Lambeau",
    "rank": 13,
    "list_size": 50,
    "author": "",
@@ -997,12 +1236,60 @@
    "virality": 53.2,
    "tier": "Watch",
    "why": [],
-   "uid": "82d3f13a53e4"
+   "uid": "44b53ed41b3e"
+  },
+  {
+   "platform": "reddit",
+   "title": "Introverts be like\ud83d\ude42",
+   "url": "https://www.reddit.com/r/memes/comments/1xifh6o/introverts_be_like/",
+   "rank": 6,
+   "list_size": 15,
+   "author": "r/memes /u/Cultural-Plate-9657",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/xf7f7c9lndyh1.png",
+    "_group_size": 40,
+    "_reach_pct": 74.4,
+    "_velocity": 66.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "566dbc9a782e"
+  },
+  {
+   "platform": "reddit",
+   "title": "Real horrors (OC)",
+   "url": "https://www.reddit.com/r/comics/comments/1xiiugd/real_horrors_oc/",
+   "rank": 7,
+   "list_size": 25,
+   "author": "r/popular /u/Glasshousescomics",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/my04q56vieyh1.jpeg?width=140&height=140&auto=webp&s=21c45d0f10bf3714ceb0a30cfeb4af4829b29ec4",
+    "_group_size": 40,
+    "_reach_pct": 66.7,
+    "_velocity": 76.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "458ffa6f5cef"
   },
   {
    "platform": "memes",
-   "title": "Quirk Chungus",
-   "url": "https://knowyourmeme.com/memes/quirk-chungus",
+   "title": "Eve Barlow Eve Fartlow",
+   "url": "https://knowyourmeme.com/memes/events/eve-barlow-eve-fartlow",
    "rank": 5,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -1010,7 +1297,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/048/877/quirk_chungus_(1).jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/037/337/eb-playboy-2560x1440.jpeg",
     "_group_size": 12,
     "_reach_pct": 63.6,
     "_velocity": 80.0,
@@ -1021,7 +1308,7 @@
    "virality": 52.3,
    "tier": "Watch",
    "why": [],
-   "uid": "76038c27ea4d"
+   "uid": "688ba8d77a55"
   },
   {
    "platform": "tiktok",
@@ -1052,8 +1339,8 @@
   },
   {
    "platform": "x",
-   "title": "Star Trek",
-   "url": "https://twitter.com/search?q=Star%20Trek",
+   "title": "Rasheed Walker",
+   "url": "https://twitter.com/search?q=Rasheed%20Walker",
    "rank": 14,
    "list_size": 50,
    "author": "",
@@ -1072,7 +1359,32 @@
    "virality": 51.8,
    "tier": "Watch",
    "why": [],
-   "uid": "db315fbb0097"
+   "uid": "c5d70788e21a"
+  },
+  {
+   "platform": "google_trends",
+   "title": "flu shots",
+   "url": "https://trends.google.com/trending?geo=US&search=flu%20shots",
+   "rank": 8,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via CIDRAP",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://www.cidrap.umn.edu/influenza-vaccines/experts-say-dont-wait-now-time-get-your-flu-shot",
+    "_group_size": 10,
+    "_reach_pct": 66.7,
+    "_velocity": 72.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 51.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "9dd5f0aa24b0"
   },
   {
    "platform": "youtube",
@@ -1103,8 +1415,8 @@
   },
   {
    "platform": "x",
-   "title": "Hopper",
-   "url": "https://twitter.com/search?q=Hopper",
+   "title": "#KeepPounding",
+   "url": "https://twitter.com/search?q=#KeepPounding",
    "rank": 15,
    "list_size": 50,
    "author": "",
@@ -1123,7 +1435,7 @@
    "virality": 50.4,
    "tier": "Watch",
    "why": [],
-   "uid": "de458fa02f46"
+   "uid": "67a8212c1f15"
   },
   {
    "platform": "youtube",
@@ -1180,6 +1492,54 @@
    "uid": "72702337138b"
   },
   {
+   "platform": "reddit",
+   "title": "When you lie on your resume and get the job",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xiob1w/when_you_lie_on_your_resume_and_get_the_job/",
+   "rank": 8,
+   "list_size": 25,
+   "author": "r/popular /u/ambachk",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 61.5,
+    "_velocity": 72.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "55a555b42018"
+  },
+  {
+   "platform": "reddit",
+   "title": "It's not that bad....",
+   "url": "https://www.reddit.com/r/memes/comments/1xinrgi/its_not_that_bad/",
+   "rank": 7,
+   "list_size": 15,
+   "author": "r/memes /u/Average-Lemon",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/1ptl4qiehfyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 69.2,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cfc2538b8071"
+  },
+  {
    "platform": "youtube",
    "title": "Yeat - Lil Krazy (Official Music Video)",
    "url": "https://www.youtube.com/watch?v=qAAifLfNnKQ",
@@ -1208,8 +1568,8 @@
   },
   {
    "platform": "x",
-   "title": "#KeepPounding",
-   "url": "https://twitter.com/search?q=#KeepPounding",
+   "title": "Jalen Coker",
+   "url": "https://twitter.com/search?q=Jalen%20Coker",
    "rank": 16,
    "list_size": 50,
    "author": "",
@@ -1228,7 +1588,7 @@
    "virality": 49.0,
    "tier": "Watch",
    "why": [],
-   "uid": "67a8212c1f15"
+   "uid": "24a7972af225"
   },
   {
    "platform": "tiktok",
@@ -1256,6 +1616,55 @@
    "tier": "Watch",
    "why": [],
    "uid": "6ffb04a547e1"
+  },
+  {
+   "platform": "x",
+   "title": "Star Trek",
+   "url": "https://twitter.com/search?q=Star%20Trek",
+   "rank": 20,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 51.3,
+    "_velocity": 62.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 48.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "db315fbb0097"
+  },
+  {
+   "platform": "google_trends",
+   "title": "nfc south",
+   "url": "https://trends.google.com/trending?geo=US&search=nfc%20south",
+   "rank": 7,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via Tampa Bay Buccaneers",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://www.buccaneers.com/news/2026-game-preview-falcons-buccaneers-week-8",
+    "_group_size": 10,
+    "_reach_pct": 55.6,
+    "_velocity": 76.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 48.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "1b469c0f587c"
   },
   {
    "platform": "youtube",
@@ -1313,8 +1722,8 @@
   },
   {
    "platform": "memes",
-   "title": "Glup Shitto",
-   "url": "https://knowyourmeme.com/memes/glup-shitto",
+   "title": "Dictator Mbappe",
+   "url": "https://knowyourmeme.com/memes/dictator-mbappe",
    "rank": 6,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -1322,7 +1731,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/036/096/46b.png",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/056/628/dictatorcover.jpg",
     "_group_size": 12,
     "_reach_pct": 54.5,
     "_velocity": 75.0,
@@ -1333,7 +1742,7 @@
    "virality": 47.8,
    "tier": "Watch",
    "why": [],
-   "uid": "cd9b61e2ca75"
+   "uid": "edbd61d18be0"
   },
   {
    "platform": "youtube",
@@ -1391,8 +1800,8 @@
   },
   {
    "platform": "x",
-   "title": "Lambeau",
-   "url": "https://twitter.com/search?q=Lambeau",
+   "title": "Green Bay",
+   "url": "https://twitter.com/search?q=Green%20Bay",
    "rank": 17,
    "list_size": 50,
    "author": "",
@@ -1411,37 +1820,36 @@
    "virality": 47.6,
    "tier": "Watch",
    "why": [],
-   "uid": "44b53ed41b3e"
+   "uid": "9e8f8f562dc5"
   },
   {
-   "platform": "google_trends",
-   "title": "dr annie andrews",
-   "url": "https://trends.google.com/trending?geo=US&search=dr%20annie%20andrews",
+   "platform": "reddit",
+   "title": "Photo of an East German Stasi agent taking a photo of a CIA agent taking a photo of him at the same time",
+   "url": "https://www.reddit.com/r/interestingasfuck/comments/1xig79v/photo_of_an_east_german_stasi_agent_taking_a/",
    "rank": 9,
    "list_size": 25,
-   "author": "",
-   "summary_src": "via The Washington Post",
+   "author": "r/popular /u/Battlefleet_Sol",
+   "summary_src": "Top of r/popular today on Reddit.",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
-    "search_volume": 500,
-    "news_url": "https://www.washingtonpost.com/politics/2026/10/29/darline-graham-increasingly-endangered-south-carolina-senate-race-nears-end/",
-    "_group_size": 10,
-    "_reach_pct": 55.6,
+    "image": "https://i.redd.it/9ohty2g3vdyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 56.4,
     "_velocity": 68.0,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 46.4,
+   "virality": 46.7,
    "tier": "Watch",
    "why": [],
-   "uid": "b103c9c815be"
+   "uid": "b385929876b8"
   },
   {
    "platform": "x",
-   "title": "Picard",
-   "url": "https://twitter.com/search?q=Picard",
+   "title": "#TNFonPrime",
+   "url": "https://twitter.com/search?q=#TNFonPrime",
    "rank": 18,
    "list_size": 50,
    "author": "",
@@ -1460,7 +1868,31 @@
    "virality": 46.2,
    "tier": "Watch",
    "why": [],
-   "uid": "c3f1a0aeb7ab"
+   "uid": "0a97797fdb00"
+  },
+  {
+   "platform": "reddit",
+   "title": "Trump rally attendee to Fox News: \"Well, in the late 70s, I was a little too young to go to South America for the Jonestown Massacre. But this is as close as I'll ever get, so that's why I'm here. There's nothing like seeing a cult right up front.\"",
+   "url": "https://www.reddit.com/r/PoursTea/comments/1xip04u/trump_rally_attendee_to_fox_news_well_in_the_late/",
+   "rank": 11,
+   "list_size": 25,
+   "author": "r/popular /u/MoreMotivation",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 46.2,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 46.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "abc0c6780cf7"
   },
   {
    "platform": "youtube",
@@ -1490,6 +1922,30 @@
    "uid": "cf024544f1e9"
   },
   {
+   "platform": "reddit",
+   "title": "We want good, original movies but we won't pay to watch them? Go watch it please.",
+   "url": "https://www.reddit.com/r/memes/comments/1xii0tt/we_want_good_original_movies_but_we_wont_pay_to/",
+   "rank": 8,
+   "list_size": 15,
+   "author": "r/memes /u/One_Acanthisitta_886",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/3cy1fh7vbeyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 64.1,
+    "_velocity": 53.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 45.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "482c8be88432"
+  },
+  {
    "platform": "tiktok",
    "title": "Will never get over the view of my hostel \ud83d\ude2d  \ud83d\udccdMountain Hostel, Gimmelwald #switzerland #gimmelwald #gimmelwaldmountainhostel",
    "url": "https://www.tiktok.com/@sorinaxo/video/7686059382760606989",
@@ -1515,6 +1971,31 @@
    "tier": "Watch",
    "why": [],
    "uid": "923ad956e7bd"
+  },
+  {
+   "platform": "google_trends",
+   "title": "vaccinations",
+   "url": "https://trends.google.com/trending?geo=US&search=vaccinations",
+   "rank": 6,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via WRGB",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://cbs6albany.com/news/local/babies-may-need-new-hep-b-vaccine-after-storage-issue-at-albany-medical-center-new-york-state-department-of-health-wrgb",
+    "_group_size": 10,
+    "_reach_pct": 44.4,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 45.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d0405b120986"
   },
   {
    "platform": "youtube",
@@ -1626,8 +2107,8 @@
   },
   {
    "platform": "x",
-   "title": "Will Lee",
-   "url": "https://twitter.com/search?q=Will%20Lee",
+   "title": "#911onABC",
+   "url": "https://twitter.com/search?q=#911onABC",
    "rank": 19,
    "list_size": 50,
    "author": "",
@@ -1646,32 +2127,31 @@
    "virality": 44.8,
    "tier": "Watch",
    "why": [],
-   "uid": "6ca0760b87c6"
+   "uid": "82d3f13a53e4"
   },
   {
-   "platform": "google_trends",
-   "title": "evan mobley",
-   "url": "https://trends.google.com/trending?geo=US&search=evan%20mobley",
-   "rank": 3,
+   "platform": "reddit",
+   "title": "It looks like someone is stealing vegetables, just like in the cartoons",
+   "url": "https://www.reddit.com/r/interestingasfuck/comments/1xi9o0x/it_looks_like_someone_is_stealing_vegetables_just/",
+   "rank": 10,
    "list_size": 25,
-   "author": "",
-   "summary_src": "via Cleveland.com",
+   "author": "r/popular /u/Zyad7770__",
+   "summary_src": "Top of r/popular today on Reddit.",
    "published_hint": "",
    "is_meme": false,
    "metrics": {
-    "search_volume": 500,
-    "news_url": "https://www.cleveland.com/cavs/2026/10/how-evan-mobleys-outside-in-game-is-the-cavs-skeleton-key.html",
-    "_group_size": 10,
-    "_reach_pct": 33.3,
-    "_velocity": 92.0,
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 51.3,
+    "_velocity": 64.0,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 44.7,
+   "virality": 43.9,
    "tier": "Watch",
    "why": [],
-   "uid": "b0c53dcaad65"
+   "uid": "f678a480803c"
   },
   {
    "platform": "youtube",
@@ -1701,58 +2181,33 @@
    "uid": "844034256caa"
   },
   {
-   "platform": "google_trends",
-   "title": "zach lavine",
-   "url": "https://trends.google.com/trending?geo=US&search=zach%20lavine",
-   "rank": 8,
-   "list_size": 25,
-   "author": "",
-   "summary_src": "via Yahoo Sports",
+   "platform": "reddit",
+   "title": "Thanks for the memes Patrick stewart",
+   "url": "https://www.reddit.com/r/memes/comments/1xiwcv3/thanks_for_the_memes_patrick_stewart/",
+   "rank": 10,
+   "list_size": 15,
+   "author": "r/memes /u/Zan_in_NZ",
+   "summary_src": "Top of r/memes today on Reddit.",
    "published_hint": "",
-   "is_meme": false,
+   "is_meme": true,
    "metrics": {
-    "search_volume": 500,
-    "news_url": "https://sports.yahoo.com/articles/kings-lavine-shows-support-former-230011481.html",
-    "_group_size": 10,
-    "_reach_pct": 44.4,
-    "_velocity": 72.0,
-    "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
-   },
-   "virality": 43.6,
-   "tier": "Watch",
-   "why": [],
-   "uid": "61358a2674b7"
-  },
-  {
-   "platform": "x",
-   "title": "Logan Cooley",
-   "url": "https://twitter.com/search?q=Logan%20Cooley",
-   "rank": 20,
-   "list_size": 50,
-   "author": "",
-   "summary_src": "Trending topic on X in the United States right now.",
-   "published_hint": "",
-   "is_meme": false,
-   "metrics": {
-    "tweet_volume": 0,
+    "image": "https://i.redd.it/4opnmx942hyh1.png",
     "_group_size": 40,
-    "_reach_pct": 51.3,
-    "_velocity": 62.0,
+    "_reach_pct": 53.8,
+    "_velocity": 40.0,
     "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
    },
-   "virality": 43.4,
+   "virality": 43.8,
    "tier": "Watch",
    "why": [],
-   "uid": "be648cf9358d"
+   "uid": "77c9f6523934"
   },
   {
    "platform": "memes",
-   "title": "Eve Barlow Eve Fartlow",
-   "url": "https://knowyourmeme.com/memes/events/eve-barlow-eve-fartlow",
+   "title": "Facepalm",
+   "url": "https://knowyourmeme.com/memes/facepalm",
    "rank": 7,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -1760,7 +2215,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/037/337/eb-playboy-2560x1440.jpeg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/000/554/picard-facepalm.jpg",
     "_group_size": 12,
     "_reach_pct": 45.5,
     "_velocity": 70.0,
@@ -1771,12 +2226,12 @@
    "virality": 43.4,
    "tier": "Watch",
    "why": [],
-   "uid": "688ba8d77a55"
+   "uid": "d2ba5d6e4f32"
   },
   {
    "platform": "google_trends",
-   "title": "de'andre hunter",
-   "url": "https://trends.google.com/trending?geo=US&search=de'andre%20hunter",
+   "title": "nfc north standings",
+   "url": "https://trends.google.com/trending?geo=US&search=nfc%20north%20standings",
    "rank": 1,
    "list_size": 25,
    "author": "",
@@ -1784,8 +2239,8 @@
    "published_hint": "",
    "is_meme": false,
    "metrics": {
-    "search_volume": 500,
-    "news_url": "https://www.espn.com/watch/player/_/id/50323658",
+    "search_volume": 1000,
+    "news_url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions",
     "_group_size": 10,
     "_reach_pct": 22.2,
     "_velocity": 100.0,
@@ -1796,7 +2251,32 @@
    "virality": 42.8,
    "tier": "Watch",
    "why": [],
-   "uid": "c61309882110"
+   "uid": "51631ed9b390"
+  },
+  {
+   "platform": "google_trends",
+   "title": "vaccines",
+   "url": "https://trends.google.com/trending?geo=US&search=vaccines",
+   "rank": 5,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via The New York Times",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "_group_size": 10,
+    "_reach_pct": 33.3,
+    "_velocity": 84.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "1b98ee24359c"
   },
   {
    "platform": "youtube",
@@ -1826,9 +2306,33 @@
    "uid": "ea28d3648f31"
   },
   {
+   "platform": "reddit",
+   "title": "Life long trauma",
+   "url": "https://www.reddit.com/r/memes/comments/1xik6wc/life_long_trauma/",
+   "rank": 9,
+   "list_size": 15,
+   "author": "r/memes /u/Better-Compote399",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/et6ad3e6teyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 59.0,
+    "_velocity": 46.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "78486e8b7022"
+  },
+  {
    "platform": "x",
-   "title": "#AHS13",
-   "url": "https://twitter.com/search?q=#AHS13",
+   "title": "#CARvsGB",
+   "url": "https://twitter.com/search?q=#CARvsGB",
    "rank": 21,
    "list_size": 50,
    "author": "",
@@ -1847,7 +2351,7 @@
    "virality": 42.1,
    "tier": "Watch",
    "why": [],
-   "uid": "01308575c026"
+   "uid": "6865dad04302"
   },
   {
    "platform": "linkedin",
@@ -1874,8 +2378,8 @@
   },
   {
    "platform": "x",
-   "title": "#CARvsGB",
-   "url": "https://twitter.com/search?q=#CARvsGB",
+   "title": "Walt",
+   "url": "https://twitter.com/search?q=Walt",
    "rank": 22,
    "list_size": 50,
    "author": "",
@@ -1894,7 +2398,7 @@
    "virality": 40.7,
    "tier": "Watch",
    "why": [],
-   "uid": "6865dad04302"
+   "uid": "1852636b5e6c"
   },
   {
    "platform": "youtube",
@@ -2030,8 +2534,8 @@
   },
   {
    "platform": "memes",
-   "title": "Dictator Mbappe",
-   "url": "https://knowyourmeme.com/memes/dictator-mbappe",
+   "title": "Snicker Cat",
+   "url": "https://knowyourmeme.com/memes/snicker-cat",
    "rank": 8,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -2039,7 +2543,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/056/628/dictatorcover.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/056/783/cc2d91d5-2886-4075-8498-daecf0749263.jpg",
     "_group_size": 12,
     "_reach_pct": 36.4,
     "_velocity": 65.0,
@@ -2050,7 +2554,7 @@
    "virality": 39.0,
    "tier": "Watch",
    "why": [],
-   "uid": "edbd61d18be0"
+   "uid": "f89820804b0e"
   },
   {
    "platform": "youtube",
@@ -2080,9 +2584,33 @@
    "uid": "704f27ac9ef9"
   },
   {
+   "platform": "reddit",
+   "title": "Winning",
+   "url": "https://www.reddit.com/r/videogames/comments/1xialj6/winning/",
+   "rank": 12,
+   "list_size": 25,
+   "author": "r/popular /u/TheSkelagon",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/9anxar5j5cyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 41.0,
+    "_velocity": 56.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "fa37eafeb811"
+  },
+  {
    "platform": "x",
-   "title": "Walt",
-   "url": "https://twitter.com/search?q=Walt",
+   "title": "Picard",
+   "url": "https://twitter.com/search?q=Picard",
    "rank": 24,
    "list_size": 50,
    "author": "",
@@ -2101,7 +2629,32 @@
    "virality": 37.9,
    "tier": "Watch",
    "why": [],
-   "uid": "1852636b5e6c"
+   "uid": "c3f1a0aeb7ab"
+  },
+  {
+   "platform": "google_trends",
+   "title": "maya joint",
+   "url": "https://trends.google.com/trending?geo=US&search=maya%20joint",
+   "rank": 2,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via The New York Times",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 500,
+    "news_url": "https://www.nytimes.com/athletic/7737336/2026/10/29/womens-toray-pan-pacific-open-tennis-stream-how-to-watch-october-30/",
+    "_group_size": 10,
+    "_reach_pct": 11.1,
+    "_velocity": 96.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 37.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0968535d2184"
   },
   {
    "platform": "youtube",
@@ -2132,8 +2685,8 @@
   },
   {
    "platform": "x",
-   "title": "Coker",
-   "url": "https://twitter.com/search?q=Coker",
+   "title": "Logan Cooley",
+   "url": "https://twitter.com/search?q=Logan%20Cooley",
    "rank": 25,
    "list_size": 50,
    "author": "",
@@ -2152,7 +2705,31 @@
    "virality": 36.5,
    "tier": "Watch",
    "why": [],
-   "uid": "118509326f89"
+   "uid": "be648cf9358d"
+  },
+  {
+   "platform": "reddit",
+   "title": "Me_irl",
+   "url": "https://www.reddit.com/r/me_irl/comments/1xik11t/me_irl/",
+   "rank": 13,
+   "list_size": 25,
+   "author": "r/popular /u/Spotter24o5",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/sww1fwpzreyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 35.9,
+    "_velocity": 52.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "1dda68405f47"
   },
   {
    "platform": "youtube",
@@ -2182,9 +2759,33 @@
    "uid": "ebfa4f9d9f09"
   },
   {
+   "platform": "reddit",
+   "title": "AHH I'M MORE POWERFUL THAN YOU!",
+   "url": "https://www.reddit.com/r/memes/comments/1xijsn1/ahh_im_more_powerful_than_you/",
+   "rank": 11,
+   "list_size": 15,
+   "author": "r/memes /u/Im_a_Morty",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/z93z77u8qeyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 48.7,
+    "_velocity": 33.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "92318c0c94b2"
+  },
+  {
    "platform": "x",
-   "title": "Nick Scott",
-   "url": "https://twitter.com/search?q=Nick%20Scott",
+   "title": "Acuff",
+   "url": "https://twitter.com/search?q=Acuff",
    "rank": 26,
    "list_size": 50,
    "author": "",
@@ -2203,32 +2804,7 @@
    "virality": 35.1,
    "tier": "Watch",
    "why": [],
-   "uid": "d34975daee2e"
-  },
-  {
-   "platform": "google_trends",
-   "title": "luguentz dort",
-   "url": "https://trends.google.com/trending?geo=US&search=luguentz%20dort",
-   "rank": 5,
-   "list_size": 25,
-   "author": "",
-   "summary_src": "via NBA.com",
-   "published_hint": "",
-   "is_meme": false,
-   "metrics": {
-    "search_volume": 200,
-    "news_url": "https://www.nba.com/rockets/photos/red-hot-rockets-four-straight-wins",
-    "_group_size": 10,
-    "_reach_pct": 11.1,
-    "_velocity": 84.0,
-    "_engagement_pct": 50.0,
-    "_spread": 0.0,
-    "_platforms_in_cluster": 1
-   },
-   "virality": 34.9,
-   "tier": "Watch",
-   "why": [],
-   "uid": "6ad6797d3ef0"
+   "uid": "b8586ac358b6"
   },
   {
    "platform": "youtube",
@@ -2259,8 +2835,8 @@
   },
   {
    "platform": "memes",
-   "title": "Facepalm",
-   "url": "https://knowyourmeme.com/memes/facepalm",
+   "title": "Scientists Reveal The Hi",
+   "url": "https://knowyourmeme.com/memes/scientists-reveal-the-hi",
    "rank": 9,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -2268,7 +2844,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/000/554/picard-facepalm.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/623/srth.jpg",
     "_group_size": 12,
     "_reach_pct": 27.3,
     "_velocity": 60.0,
@@ -2279,7 +2855,7 @@
    "virality": 34.5,
    "tier": "Watch",
    "why": [],
-   "uid": "d2ba5d6e4f32"
+   "uid": "13a2c548458a"
   },
   {
    "platform": "tiktok",
@@ -2391,8 +2967,8 @@
   },
   {
    "platform": "x",
-   "title": "Chuba Hubbard",
-   "url": "https://twitter.com/search?q=Chuba%20Hubbard",
+   "title": "Hopper",
+   "url": "https://twitter.com/search?q=Hopper",
    "rank": 27,
    "list_size": 50,
    "author": "",
@@ -2411,7 +2987,7 @@
    "virality": 33.7,
    "tier": "Watch",
    "why": [],
-   "uid": "e8ef5cea4667"
+   "uid": "de458fa02f46"
   },
   {
    "platform": "tiktok",
@@ -2441,9 +3017,58 @@
    "uid": "23a8b7e20606"
   },
   {
+   "platform": "google_trends",
+   "title": "scott colom",
+   "url": "https://trends.google.com/trending?geo=US&search=scott%20colom",
+   "rank": 3,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "via The Guardian",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 200,
+    "news_url": "https://www.theguardian.com/us-news/2026/oct/29/mississippi-scott-colom-democrats",
+    "_group_size": 10,
+    "_reach_pct": 0.0,
+    "_velocity": 92.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 33.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "6809e43159ee"
+  },
+  {
+   "platform": "reddit",
+   "title": "Extremely polite moose bull gently reminds a tourist that wildlife should be respected",
+   "url": "https://www.reddit.com/r/interesting/comments/1xil49f/extremely_polite_moose_bull_gently_reminds_a/",
+   "rank": 14,
+   "list_size": 25,
+   "author": "r/popular /u/Lui_Belmont",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 30.8,
+    "_velocity": 48.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 32.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "382da8fa4cbf"
+  },
+  {
    "platform": "x",
-   "title": "Rasheed Walker",
-   "url": "https://twitter.com/search?q=Rasheed%20Walker",
+   "title": "Evero",
+   "url": "https://twitter.com/search?q=Evero",
    "rank": 28,
    "list_size": 50,
    "author": "",
@@ -2462,32 +3087,31 @@
    "virality": 32.3,
    "tier": "Watch",
    "why": [],
-   "uid": "c5d70788e21a"
+   "uid": "5c7142a0846c"
   },
   {
-   "platform": "google_trends",
-   "title": "carl lentz",
-   "url": "https://trends.google.com/trending?geo=US&search=carl%20lentz",
-   "rank": 4,
-   "list_size": 25,
-   "author": "",
-   "summary_src": "via The Cut",
+   "platform": "reddit",
+   "title": "I dont like V for Vendetta that much",
+   "url": "https://www.reddit.com/r/memes/comments/1xiup97/i_dont_like_v_for_vendetta_that_much/",
+   "rank": 12,
+   "list_size": 15,
+   "author": "r/memes /u/Weird_Progress8849",
+   "summary_src": "Top of r/memes today on Reddit.",
    "published_hint": "",
-   "is_meme": false,
+   "is_meme": true,
    "metrics": {
-    "search_volume": 200,
-    "news_url": "https://www.thecut.com/article/hillsong-carl-lentz-is-rehashing-his-beef-with-the-biebers.html",
-    "_group_size": 10,
-    "_reach_pct": 0.0,
-    "_velocity": 88.0,
+    "image": "https://i.redd.it/4azh6w8tqgyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 43.6,
+    "_velocity": 26.7,
     "_engagement_pct": 50.0,
     "_spread": 0.0,
     "_platforms_in_cluster": 1
    },
-   "virality": 32.0,
+   "virality": 31.9,
    "tier": "Watch",
    "why": [],
-   "uid": "ad37b3697f19"
+   "uid": "80fed86143bf"
   },
   {
    "platform": "tiktok",
@@ -2518,8 +3142,8 @@
   },
   {
    "platform": "x",
-   "title": "Marco Wilson",
-   "url": "https://twitter.com/search?q=Marco%20Wilson",
+   "title": "Matthew Schaefer",
+   "url": "https://twitter.com/search?q=Matthew%20Schaefer",
    "rank": 29,
    "list_size": 50,
    "author": "",
@@ -2538,12 +3162,12 @@
    "virality": 30.9,
    "tier": "Watch",
    "why": [],
-   "uid": "16170fdfbc10"
+   "uid": "2331e4ea3e77"
   },
   {
    "platform": "memes",
-   "title": "Snicker Cat",
-   "url": "https://knowyourmeme.com/memes/snicker-cat",
+   "title": "Biddy Blas Scrib Doon",
+   "url": "https://knowyourmeme.com/memes/biddy-blas-scrib-doon",
    "rank": 10,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -2551,7 +3175,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/056/783/cc2d91d5-2886-4075-8498-daecf0749263.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/604/scribdooncover.jpg",
     "_group_size": 12,
     "_reach_pct": 18.2,
     "_velocity": 55.0,
@@ -2562,7 +3186,31 @@
    "virality": 30.1,
    "tier": "Watch",
    "why": [],
-   "uid": "f89820804b0e"
+   "uid": "f01ea634105a"
+  },
+  {
+   "platform": "reddit",
+   "title": "I would stay there for another half hour...",
+   "url": "https://www.reddit.com/r/funny/comments/1xibkoy/i_would_stay_there_for_another_half_hour/",
+   "rank": 15,
+   "list_size": 25,
+   "author": "r/popular /u/Skyton_wil",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 25.6,
+    "_velocity": 44.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 30.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0ca06d9ee4dd"
   },
   {
    "platform": "youtube",
@@ -2593,8 +3241,8 @@
   },
   {
    "platform": "x",
-   "title": "Professor X",
-   "url": "https://twitter.com/search?q=Professor%20X",
+   "title": "Al Michaels",
+   "url": "https://twitter.com/search?q=Al%20Michaels",
    "rank": 30,
    "list_size": 50,
    "author": "",
@@ -2613,7 +3261,7 @@
    "virality": 29.5,
    "tier": "Watch",
    "why": [],
-   "uid": "943e06c89ba7"
+   "uid": "f4f482e38996"
   },
   {
    "platform": "tiktok",
@@ -2670,9 +3318,33 @@
    "uid": "8d3706fcc132"
   },
   {
+   "platform": "reddit",
+   "title": "One encounter and you'll never trust a chest again",
+   "url": "https://www.reddit.com/r/memes/comments/1xiqpwo/one_encounter_and_youll_never_trust_a_chest_again/",
+   "rank": 13,
+   "list_size": 15,
+   "author": "r/memes /u/mammalian_alien",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/qnybno7g0gyh1.png",
+    "_group_size": 40,
+    "_reach_pct": 38.5,
+    "_velocity": 20.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0a86d73cb7e3"
+  },
+  {
    "platform": "x",
-   "title": "Tucker Kraft",
-   "url": "https://twitter.com/search?q=Tucker%20Kraft",
+   "title": "Will Lee",
+   "url": "https://twitter.com/search?q=Will%20Lee",
    "rank": 31,
    "list_size": 50,
    "author": "",
@@ -2691,7 +3363,31 @@
    "virality": 28.1,
    "tier": "Watch",
    "why": [],
-   "uid": "b1ac282fb632"
+   "uid": "6ca0760b87c6"
+  },
+  {
+   "platform": "reddit",
+   "title": "Stokes County is pleased to announce their first female Eagle Scout!",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xikp7r/stokes_county_is_pleased_to_announce_their_first/",
+   "rank": 16,
+   "list_size": 25,
+   "author": "r/popular /u/TrumpsDoubleChin",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/4bmf252mweyh1.png",
+    "_group_size": 40,
+    "_reach_pct": 23.1,
+    "_velocity": 40.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3774d319bd52"
   },
   {
    "platform": "linkedin",
@@ -2772,8 +3468,8 @@
   },
   {
    "platform": "x",
-   "title": "maddie",
-   "url": "https://twitter.com/search?q=maddie",
+   "title": "Wheatley",
+   "url": "https://twitter.com/search?q=Wheatley",
    "rank": 32,
    "list_size": 50,
    "author": "",
@@ -2792,12 +3488,36 @@
    "virality": 26.7,
    "tier": "Watch",
    "why": [],
-   "uid": "d7413401f7a1"
+   "uid": "35fdfd5c2f50"
+  },
+  {
+   "platform": "reddit",
+   "title": "\ud83d\udd25 so Salmon Sharks exist",
+   "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xij8y3/so_salmon_sharks_exist/",
+   "rank": 17,
+   "list_size": 25,
+   "author": "r/popular /u/TerraByteTerror",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/liingod6meyh1.jpeg?width=140&height=140&auto=webp&s=67f784225f6f997b60b8c4d18cf9cfbc9ae4dc25",
+    "_group_size": 40,
+    "_reach_pct": 20.5,
+    "_velocity": 36.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 26.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "f9e156d4705c"
   },
   {
    "platform": "memes",
-   "title": "Scientists Reveal The Hi",
-   "url": "https://knowyourmeme.com/memes/scientists-reveal-the-hi",
+   "title": "Youre Blatantly Just Not Me Nan",
+   "url": "https://knowyourmeme.com/memes/youre-blatantly-just-not-me-nan",
    "rank": 11,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -2805,7 +3525,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/623/srth.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/563/bjnmn.jpg",
     "_group_size": 12,
     "_reach_pct": 9.1,
     "_velocity": 50.0,
@@ -2816,12 +3536,12 @@
    "virality": 25.7,
    "tier": "Watch",
    "why": [],
-   "uid": "13a2c548458a"
+   "uid": "ff950f97c385"
   },
   {
    "platform": "x",
-   "title": "Evero",
-   "url": "https://twitter.com/search?q=Evero",
+   "title": "Chuba Hubbard",
+   "url": "https://twitter.com/search?q=Chuba%20Hubbard",
    "rank": 33,
    "list_size": 50,
    "author": "",
@@ -2840,7 +3560,7 @@
    "virality": 25.3,
    "tier": "Watch",
    "why": [],
-   "uid": "5c7142a0846c"
+   "uid": "e8ef5cea4667"
   },
   {
    "platform": "tiktok",
@@ -2868,6 +3588,30 @@
    "tier": "Watch",
    "why": [],
    "uid": "b1651fe99633"
+  },
+  {
+   "platform": "reddit",
+   "title": "Friendship",
+   "url": "https://www.reddit.com/r/memes/comments/1xiqcq1/friendship/",
+   "rank": 14,
+   "list_size": 15,
+   "author": "r/memes /u/Financial-Result-502",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/965uv2n1yfyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 33.3,
+    "_velocity": 13.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 25.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a77dc4346831"
   },
   {
    "platform": "tiktok",
@@ -2924,9 +3668,33 @@
    "uid": "44ad2bbe755e"
   },
   {
+   "platform": "reddit",
+   "title": "meirl",
+   "url": "https://www.reddit.com/r/meirl/comments/1xispkw/meirl/",
+   "rank": 18,
+   "list_size": 25,
+   "author": "r/popular /u/EmergencyRead5254",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/ruoa84cndgyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 17.9,
+    "_velocity": 32.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 24.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "8f3f728a5cf5"
+  },
+  {
    "platform": "x",
-   "title": "Coleman Owen",
-   "url": "https://twitter.com/search?q=Coleman%20Owen",
+   "title": "Nick Scott",
+   "url": "https://twitter.com/search?q=Nick%20Scott",
    "rank": 34,
    "list_size": 50,
    "author": "",
@@ -2945,12 +3713,12 @@
    "virality": 23.9,
    "tier": "Watch",
    "why": [],
-   "uid": "8cd31b9b9d4c"
+   "uid": "d34975daee2e"
   },
   {
    "platform": "x",
-   "title": "SAFU",
-   "url": "https://twitter.com/search?q=SAFU",
+   "title": "Canales",
+   "url": "https://twitter.com/search?q=Canales",
    "rank": 35,
    "list_size": 50,
    "author": "",
@@ -2969,7 +3737,55 @@
    "virality": 22.5,
    "tier": "Watch",
    "why": [],
-   "uid": "378e4acb78de"
+   "uid": "8894131d574b"
+  },
+  {
+   "platform": "reddit",
+   "title": "2026 continues.",
+   "url": "https://www.reddit.com/r/comics/comments/1xixdvi/2026_continues/",
+   "rank": 19,
+   "list_size": 25,
+   "author": "r/popular /u/reddot_comic",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/u2tqoo6h9hyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 15.4,
+    "_velocity": 28.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 22.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e3357bc71dd9"
+  },
+  {
+   "platform": "reddit",
+   "title": "Patrick Stewart, the voice of Poop in The Emoji Movie, has passed away",
+   "url": "https://www.reddit.com/r/shittymoviedetails/comments/1xiujfz/patrick_stewart_the_voice_of_poop_in_the_emoji/",
+   "rank": 22,
+   "list_size": 25,
+   "author": "r/popular /u/804Brady",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/7smuprzupgyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 7.7,
+    "_velocity": 16.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 21.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a2a9439ea995"
   },
   {
    "platform": "tiktok",
@@ -2999,9 +3815,33 @@
    "uid": "30333642d0a0"
   },
   {
+   "platform": "reddit",
+   "title": "I never cried making a meme before.",
+   "url": "https://www.reddit.com/r/memes/comments/1xj0huf/i_never_cried_making_a_meme_before/",
+   "rank": 15,
+   "list_size": 15,
+   "author": "r/memes /u/Numerous-Gur-9008",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/k6lrs6powhyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 28.2,
+    "_velocity": 6.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 21.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "8e3d46a6123b"
+  },
+  {
    "platform": "memes",
-   "title": "Biddy Blas Scrib Doon",
-   "url": "https://knowyourmeme.com/memes/biddy-blas-scrib-doon",
+   "title": "Ai Rumpelstiltskin Tip Toein In My Jordans",
+   "url": "https://knowyourmeme.com/memes/ai-rumpelstiltskin-tip-toein-in-my-jordans",
    "rank": 12,
    "list_size": 20,
    "author": "Know Your Meme",
@@ -3009,7 +3849,7 @@
    "published_hint": "",
    "is_meme": true,
    "metrics": {
-    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/604/scribdooncover.jpg",
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/575/tiptoeing.jpg",
     "_group_size": 12,
     "_reach_pct": 0.0,
     "_velocity": 45.0,
@@ -3020,12 +3860,12 @@
    "virality": 21.2,
    "tier": "Watch",
    "why": [],
-   "uid": "f01ea634105a"
+   "uid": "a9bf3db85b62"
   },
   {
    "platform": "x",
-   "title": "Athena",
-   "url": "https://twitter.com/search?q=Athena",
+   "title": "Donovan Mitchell",
+   "url": "https://twitter.com/search?q=Donovan%20Mitchell",
    "rank": 36,
    "list_size": 50,
    "author": "",
@@ -3044,12 +3884,60 @@
    "virality": 21.1,
    "tier": "Watch",
    "why": [],
-   "uid": "5c442c8ed6db"
+   "uid": "f0e5e53bb026"
+  },
+  {
+   "platform": "reddit",
+   "title": "How can I tell man, It's just not worth it.",
+   "url": "https://www.reddit.com/r/memes/comments/1xihmra/how_can_i_tell_man_its_just_not_worth_it/",
+   "rank": 20,
+   "list_size": 25,
+   "author": "r/popular /u/_FIZZRIX_",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/vsulirrm8eyh1.gif",
+    "_group_size": 40,
+    "_reach_pct": 12.8,
+    "_velocity": 24.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 20.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "ddf01db3362e"
+  },
+  {
+   "platform": "reddit",
+   "title": "Fox News asks man why he\u2019s attending Trump rally: \u201cWell, in the late 70s, I was a little too young to go to South America for the Jonestown Massacre. But this is as close as I\u2019ll ever get, so that\u2019s why I\u2019m here. There\u2019s nothing like seeing a cult right up front.\u201d",
+   "url": "https://www.reddit.com/r/Fauxmoi/comments/1xiph8j/fox_news_asks_man_why_hes_attending_trump_rally/",
+   "rank": 23,
+   "list_size": 25,
+   "author": "r/popular /u/Independent-Bet-8772",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 5.1,
+    "_velocity": 12.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 19.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "8fe8c8204ccf"
   },
   {
    "platform": "x",
-   "title": "Letang",
-   "url": "https://twitter.com/search?q=Letang",
+   "title": "Full Self-Driving",
+   "url": "https://twitter.com/search?q=Full%20Self-Driving",
    "rank": 37,
    "list_size": 50,
    "author": "",
@@ -3068,7 +3956,7 @@
    "virality": 19.7,
    "tier": "Watch",
    "why": [],
-   "uid": "333fa5b931df"
+   "uid": "fced55d236fc"
   },
   {
    "platform": "tiktok",
@@ -3125,9 +4013,33 @@
    "uid": "a16215068ade"
   },
   {
+   "platform": "reddit",
+   "title": "So my father mistook my niece's drawing tab toy for a cutting board",
+   "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xiip7c/so_my_father_mistook_my_nieces_drawing_tab_toy/",
+   "rank": 21,
+   "list_size": 25,
+   "author": "r/popular /u/ApprehensiveBat7108",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/sj0lntrnheyh1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 10.3,
+    "_velocity": 20.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 18.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "eb967d04b1ac"
+  },
+  {
    "platform": "x",
-   "title": "X-Men",
-   "url": "https://twitter.com/search?q=X-Men",
+   "title": "Tucker Kraft",
+   "url": "https://twitter.com/search?q=Tucker%20Kraft",
    "rank": 38,
    "list_size": 50,
    "author": "",
@@ -3146,12 +4058,12 @@
    "virality": 18.3,
    "tier": "Watch",
    "why": [],
-   "uid": "c577fa2def80"
+   "uid": "b1ac282fb632"
   },
   {
    "platform": "x",
-   "title": "Rest in Peace",
-   "url": "https://twitter.com/search?q=Rest%20in%20Peace",
+   "title": "Jeremiah Fears",
+   "url": "https://twitter.com/search?q=Jeremiah%20Fears",
    "rank": 39,
    "list_size": 50,
    "author": "",
@@ -3170,12 +4082,12 @@
    "virality": 16.9,
    "tier": "Watch",
    "why": [],
-   "uid": "03f78e8026c0"
+   "uid": "a31ca8b9b736"
   },
   {
    "platform": "x",
-   "title": "Red Wings",
-   "url": "https://twitter.com/search?q=Red%20Wings",
+   "title": "Marco Wilson",
+   "url": "https://twitter.com/search?q=Marco%20Wilson",
    "rank": 40,
    "list_size": 50,
    "author": "",
@@ -3194,7 +4106,55 @@
    "virality": 15.5,
    "tier": "Watch",
    "why": [],
-   "uid": "b64c4e73e7d0"
+   "uid": "16170fdfbc10"
+  },
+  {
+   "platform": "reddit",
+   "title": "An Egyptian mummy in the Louvre Museum",
+   "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xign57/an_egyptian_mummy_in_the_louvre_museum/",
+   "rank": 24,
+   "list_size": 25,
+   "author": "r/popular /u/ABDOOUU99",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/mq3rw4e8zdyh1.jpeg?width=140&height=132&auto=webp&s=35211eaa8f944efb1d4807c6100e88e797857886",
+    "_group_size": 40,
+    "_reach_pct": 2.6,
+    "_velocity": 8.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 12.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "bea969c07551"
+  },
+  {
+   "platform": "reddit",
+   "title": "Argentinian reporter stops live broadcast to save a dog being swept away by flood waters",
+   "url": "https://www.reddit.com/r/BeAmazed/comments/1xii9mx/argentinian_reporter_stops_live_broadcast_to_save/",
+   "rank": 25,
+   "list_size": 25,
+   "author": "r/popular /u/Separate_Finance_183",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 0.0,
+    "_velocity": 4.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 11.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "206227be9abc"
   },
   {
    "platform": "tiktok",
@@ -3262,21 +4222,124 @@
   "6c6b969a9491",
   "7c9b9584e665",
   "4c6e202e8011",
+  "bb2617034486",
   "0caaa25e4cc8",
   "147e22b80604",
-  "98e5067a7c28",
-  "d84b304b0882",
-  "6dfe5a4ac0ca",
-  "19c64f6f85b5",
-  "bb2617034486",
   "977b276d1818",
-  "d2cbb078f826",
+  "6dfe5a4ac0ca",
+  "d84b304b0882",
+  "636fe11dd5db",
+  "98e5067a7c28",
+  "fd5210a0abc4",
+  "513ee75993ed",
+  "5021b949eead",
+  "521daeb3edcf",
+  "9a3ad5028e62",
+  "ddf01db3362e",
+  "c848c9fc3508",
+  "ba19d4df38c6",
+  "587f02ee3bb9",
   "5237c8315829",
   "5cc19d8636fe",
+  "b3cfc50fbf77",
   "565640dbcf01",
-  "316df4407d5a"
+  "d97d33050bc1"
  ],
  "clusters": [
+  {
+   "uids": [
+    "77c9f6523934",
+    "b3cfc50fbf77"
+   ],
+   "platforms": [
+    "memes",
+    "reddit"
+   ],
+   "size": 2,
+   "label": "Memes",
+   "shared_terms": [
+    "memes"
+   ],
+   "common_tokens": [
+    "memes"
+   ],
+   "max_virality": 65.6,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "98e5067a7c28",
+    "a2a9439ea995"
+   ],
+   "platforms": [
+    "reddit",
+    "x"
+   ],
+   "size": 2,
+   "label": "Patrick Stewart",
+   "shared_terms": [
+    "patrick stewart"
+   ],
+   "common_tokens": [],
+   "max_virality": 60.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "db315fbb0097",
+    "9a3ad5028e62"
+   ],
+   "platforms": [
+    "reddit",
+    "x"
+   ],
+   "size": 2,
+   "label": "Patrick Stewart Dies: \u2018Star Trek: The Next Generation\u2019 Actor Was 86",
+   "shared_terms": [
+    "star",
+    "star trek",
+    "trek"
+   ],
+   "common_tokens": [
+    "trek",
+    "star"
+   ],
+   "max_virality": 57.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "abc0c6780cf7",
+    "8fe8c8204ccf",
+    "d97d33050bc1"
+   ],
+   "platforms": [
+    "memes",
+    "reddit"
+   ],
+   "size": 3,
+   "label": "Really Right In Front Of My X",
+   "shared_terms": [
+    "70s",
+    "america",
+    "close",
+    "cult",
+    "fox",
+    "front",
+    "jonestown",
+    "jonestown massacre"
+   ],
+   "common_tokens": [
+    "front",
+    "right",
+    "well",
+    "trump",
+    "nothing",
+    "70s"
+   ],
+   "max_virality": 56.7,
+   "any_meme": true
+  },
   {
    "uids": [
     "97c26cbc3d80",
@@ -3312,17 +4375,38 @@
   },
   {
    "uids": [
-    "0caaa25e4cc8"
+    "bb2617034486"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Panthers",
+   "label": "Christian Watson",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 70.0,
    "any_meme": false
+  },
+  {
+   "uids": [
+    "ddf01db3362e",
+    "ddf01db3362e"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 2,
+   "label": "How can I tell man, It's just not worth it.",
+   "shared_terms": [
+    "tell",
+    "worth"
+   ],
+   "common_tokens": [
+    "tell",
+    "worth"
+   ],
+   "max_virality": 70.0,
+   "any_meme": true
   },
   {
    "uids": [
@@ -3354,6 +4438,34 @@
   },
   {
    "uids": [
+    "fd5210a0abc4"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Mexico upgraded to free health care!",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 69.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "0caaa25e4cc8"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Panthers",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 68.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
     "147e22b80604"
    ],
    "platforms": [
@@ -3363,50 +4475,64 @@
    "label": "Packers",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 68.6,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "98e5067a7c28"
-   ],
-   "platforms": [
-    "x"
-   ],
-   "size": 1,
-   "label": "Patrick Stewart",
-   "shared_terms": [],
-   "common_tokens": [],
    "max_virality": 67.2,
    "any_meme": false
   },
   {
    "uids": [
-    "d84b304b0882"
+    "587f02ee3bb9"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "cameron boozer",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 67.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c848c9fc3508"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Here comes the sun",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 66.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "513ee75993ed"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "RIP Patrick Stewart",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 66.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "977b276d1818"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Binance",
+   "label": "Bryce",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 65.8,
    "any_meme": false
-  },
-  {
-   "uids": [
-    "565640dbcf01"
-   ],
-   "platforms": [
-    "memes"
-   ],
-   "size": 1,
-   "label": "Malfoid Female Draco Malfoy",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 65.6,
-   "any_meme": true
   },
   {
    "uids": [
@@ -3466,27 +4592,41 @@
   },
   {
    "uids": [
-    "d2cbb078f826"
+    "5021b949eead"
    ],
    "platforms": [
-    "google_trends"
+    "reddit"
    ],
    "size": 1,
-   "label": "darius acuff jr.",
+   "label": "Cat with a natural mullet",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 64.0,
+   "max_virality": 63.5,
    "any_meme": false
   },
   {
    "uids": [
-    "19c64f6f85b5"
+    "ba19d4df38c6"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "It's a losing battle",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "d84b304b0882"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Matthew Golden",
+   "label": "Binance",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 63.0,
@@ -3550,13 +4690,13 @@
   },
   {
    "uids": [
-    "bb2617034486"
+    "636fe11dd5db"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Christian Watson",
+   "label": "Jordan Love",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 61.6,
@@ -3564,13 +4704,13 @@
   },
   {
    "uids": [
-    "316df4407d5a"
+    "565640dbcf01"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "I Hate Gay Halloween",
+   "label": "Malfoid Female Draco Malfoy",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 61.1,
@@ -3578,27 +4718,46 @@
   },
   {
    "uids": [
-    "977b276d1818"
+    "521daeb3edcf",
+    "8f3f728a5cf5"
    ],
    "platforms": [
-    "x"
+    "reddit"
    ],
-   "size": 1,
-   "label": "Bryce",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 60.2,
+   "size": 2,
+   "label": "Meirl",
+   "shared_terms": [
+    "meirl"
+   ],
+   "common_tokens": [
+    "meirl"
+   ],
+   "max_virality": 60.7,
    "any_meme": false
   },
   {
    "uids": [
-    "1fb99dfc4d19"
+    "4af1d29ef733"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Three green shells in a row",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 59.6,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "19c64f6f85b5"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Trey Smack",
+   "label": "Matthew Golden",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 58.8,
@@ -3620,30 +4779,16 @@
   },
   {
    "uids": [
-    "636fe11dd5db"
+    "1ca3f3c258b4"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Jordan Love",
+   "label": "#GoPackGo",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 57.4,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "25aeefebe889"
-   ],
-   "platforms": [
-    "google_trends"
-   ],
-   "size": 1,
-   "label": "sacramento kings",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 57.3,
    "any_meme": false
   },
   {
@@ -3662,29 +4807,22 @@
   },
   {
    "uids": [
-    "cd2b1c167eec"
+    "51631ed9b390",
+    "6a7b90155155"
    ],
    "platforms": [
     "google_trends"
    ],
-   "size": 1,
-   "label": "kevin harlan",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 57.2,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "28e98e3c459e"
+   "size": 2,
+   "label": "nfc north",
+   "shared_terms": [
+    "nfc",
+    "north"
    ],
-   "platforms": [
-    "google_trends"
+   "common_tokens": [
+    "nfc",
+    "north"
    ],
-   "size": 1,
-   "label": "sac kings",
-   "shared_terms": [],
-   "common_tokens": [],
    "max_virality": 57.1,
    "any_meme": false
   },
@@ -3704,27 +4842,27 @@
   },
   {
    "uids": [
-    "b3cfc50fbf77"
+    "fd747def86f5"
    ],
    "platforms": [
-    "memes"
+    "reddit"
    ],
    "size": 1,
-   "label": "Memes",
+   "label": "Farewell, Captain.",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 56.7,
+   "max_virality": 56.2,
    "any_meme": true
   },
   {
    "uids": [
-    "1ca3f3c258b4"
+    "02d72d843c75"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "#GoPackGo",
+   "label": "Josh Jacobs",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 56.0,
@@ -3760,16 +4898,44 @@
   },
   {
    "uids": [
-    "02d72d843c75"
+    "746007f15c65"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Sir Patrick Stewart dead at 86.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 55.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "1fb99dfc4d19"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Josh Jacobs",
+   "label": "Trey Smack",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 54.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "353c128a0ffc"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "immunizations",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 54.2,
    "any_meme": false
   },
   {
@@ -3788,13 +4954,13 @@
   },
   {
    "uids": [
-    "82d3f13a53e4"
+    "44b53ed41b3e"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "#911onABC",
+   "label": "Lambeau",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 53.2,
@@ -3802,13 +4968,41 @@
   },
   {
    "uids": [
-    "76038c27ea4d"
+    "566dbc9a782e"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Introverts be like\ud83d\ude42",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 52.7,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "458ffa6f5cef"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Real horrors (OC)",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 52.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "688ba8d77a55"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Quirk Chungus",
+   "label": "Eve Barlow Eve Fartlow",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 52.3,
@@ -3830,16 +5024,30 @@
   },
   {
    "uids": [
-    "db315fbb0097"
+    "c5d70788e21a"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Star Trek",
+   "label": "Rasheed Walker",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 51.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9dd5f0aa24b0"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "flu shots",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 51.3,
    "any_meme": false
   },
   {
@@ -3858,13 +5066,13 @@
   },
   {
    "uids": [
-    "de458fa02f46"
+    "67a8212c1f15"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Hopper",
+   "label": "#KeepPounding",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 50.4,
@@ -3899,11 +5107,39 @@
     "doomsday"
    ],
    "common_tokens": [
-    "avengers",
-    "doomsday"
+    "doomsday",
+    "avengers"
    ],
    "max_virality": 49.9,
    "any_meme": false
+  },
+  {
+   "uids": [
+    "55a555b42018"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "When you lie on your resume and get the job",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 49.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "cfc2538b8071"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "It's not that bad....",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 49.2,
+   "any_meme": true
   },
   {
    "uids": [
@@ -3921,13 +5157,13 @@
   },
   {
    "uids": [
-    "67a8212c1f15"
+    "24a7972af225"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "#KeepPounding",
+   "label": "Jalen Coker",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 49.0,
@@ -3945,6 +5181,20 @@
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 48.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "1b469c0f587c"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "nfc south",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 48.4,
    "any_meme": false
   },
   {
@@ -3976,21 +5226,21 @@
     "giant"
    ],
    "common_tokens": [
-    "giant",
-    "across"
+    "across",
+    "giant"
    ],
    "max_virality": 47.8,
    "any_meme": false
   },
   {
    "uids": [
-    "cd9b61e2ca75"
+    "edbd61d18be0"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Glup Shitto",
+   "label": "Dictator Mbappe",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 47.8,
@@ -4015,8 +5265,8 @@
    ],
    "common_tokens": [
     "terrifier",
-    "daylight",
     "dead",
+    "daylight",
     "killer"
    ],
    "max_virality": 47.7,
@@ -4038,13 +5288,13 @@
   },
   {
    "uids": [
-    "44b53ed41b3e"
+    "9e8f8f562dc5"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Lambeau",
+   "label": "Green Bay",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 47.6,
@@ -4052,27 +5302,27 @@
   },
   {
    "uids": [
-    "b103c9c815be"
+    "b385929876b8"
    ],
    "platforms": [
-    "google_trends"
+    "reddit"
    ],
    "size": 1,
-   "label": "dr annie andrews",
+   "label": "Photo of an East German Stasi agent taking a photo of a CIA agent taking a photo of him at the same time",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 46.4,
+   "max_virality": 46.7,
    "any_meme": false
   },
   {
    "uids": [
-    "c3f1a0aeb7ab"
+    "0a97797fdb00"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Picard",
+   "label": "#TNFonPrime",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 46.2,
@@ -4094,6 +5344,20 @@
   },
   {
    "uids": [
+    "482c8be88432"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "We want good, original movies but we won't pay to watch them? Go watch it please.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 45.8,
+   "any_meme": true
+  },
+  {
+   "uids": [
     "923ad956e7bd"
    ],
    "platforms": [
@@ -4101,6 +5365,20 @@
    ],
    "size": 1,
    "label": "Will never get over the view of my hostel \ud83d\ude2d  \ud83d\udccdMountain Hostel, Gimmelwald #switzerland #gimmelwald #gimmelwaldmountainhostel",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 45.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d0405b120986"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "vaccinations",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 45.6,
@@ -4136,13 +5414,13 @@
   },
   {
    "uids": [
-    "6ca0760b87c6"
+    "82d3f13a53e4"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Will Lee",
+   "label": "#911onABC",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 44.8,
@@ -4150,16 +5428,16 @@
   },
   {
    "uids": [
-    "b0c53dcaad65"
+    "f678a480803c"
    ],
    "platforms": [
-    "google_trends"
+    "reddit"
    ],
    "size": 1,
-   "label": "evan mobley",
+   "label": "It looks like someone is stealing vegetables, just like in the cartoons",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 44.7,
+   "max_virality": 43.9,
    "any_meme": false
   },
   {
@@ -4178,41 +5456,13 @@
   },
   {
    "uids": [
-    "61358a2674b7"
-   ],
-   "platforms": [
-    "google_trends"
-   ],
-   "size": 1,
-   "label": "zach lavine",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 43.6,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "be648cf9358d"
-   ],
-   "platforms": [
-    "x"
-   ],
-   "size": 1,
-   "label": "Logan Cooley",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 43.4,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "688ba8d77a55"
+    "d2ba5d6e4f32"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Eve Barlow Eve Fartlow",
+   "label": "Facepalm",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 43.4,
@@ -4220,27 +5470,41 @@
   },
   {
    "uids": [
-    "c61309882110"
+    "1b98ee24359c"
    ],
    "platforms": [
     "google_trends"
    ],
    "size": 1,
-   "label": "de'andre hunter",
+   "label": "vaccines",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 42.8,
+   "max_virality": 42.7,
    "any_meme": false
   },
   {
    "uids": [
-    "01308575c026"
+    "78486e8b7022"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Life long trauma",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.3,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "6865dad04302"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "#AHS13",
+   "label": "#CARvsGB",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 42.1,
@@ -4262,13 +5526,13 @@
   },
   {
    "uids": [
-    "6865dad04302"
+    "1852636b5e6c"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "#CARvsGB",
+   "label": "Walt",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 40.7,
@@ -4318,13 +5582,13 @@
   },
   {
    "uids": [
-    "edbd61d18be0"
+    "f89820804b0e"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Dictator Mbappe",
+   "label": "Snicker Cat",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 39.0,
@@ -4346,13 +5610,41 @@
   },
   {
    "uids": [
-    "1852636b5e6c"
+    "fa37eafeb811"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Winning",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 38.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c3f1a0aeb7ab"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Walt",
+   "label": "Picard",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 37.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "0968535d2184"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "maya joint",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 37.9,
@@ -4374,16 +5666,30 @@
   },
   {
    "uids": [
-    "118509326f89"
+    "be648cf9358d"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Coker",
+   "label": "Logan Cooley",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 36.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "1dda68405f47"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Me_irl",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.6,
    "any_meme": false
   },
   {
@@ -4402,30 +5708,30 @@
   },
   {
    "uids": [
-    "d34975daee2e"
+    "92318c0c94b2"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "AHH I'M MORE POWERFUL THAN YOU!",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.4,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "b8586ac358b6"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Nick Scott",
+   "label": "Acuff",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 35.1,
-   "any_meme": false
-  },
-  {
-   "uids": [
-    "6ad6797d3ef0"
-   ],
-   "platforms": [
-    "google_trends"
-   ],
-   "size": 1,
-   "label": "luguentz dort",
-   "shared_terms": [],
-   "common_tokens": [],
-   "max_virality": 34.9,
    "any_meme": false
   },
   {
@@ -4444,13 +5750,13 @@
   },
   {
    "uids": [
-    "d2ba5d6e4f32"
+    "13a2c548458a"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Facepalm",
+   "label": "Scientists Reveal The Hi",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 34.5,
@@ -4500,13 +5806,13 @@
   },
   {
    "uids": [
-    "e8ef5cea4667"
+    "de458fa02f46"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Chuba Hubbard",
+   "label": "Hopper",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 33.7,
@@ -4528,13 +5834,41 @@
   },
   {
    "uids": [
-    "c5d70788e21a"
+    "6809e43159ee"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "scott colom",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 33.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "382da8fa4cbf"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Extremely polite moose bull gently reminds a tourist that wildlife should be respected",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 32.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "5c7142a0846c"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Rasheed Walker",
+   "label": "Evero",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 32.3,
@@ -4542,27 +5876,27 @@
   },
   {
    "uids": [
-    "ad37b3697f19"
+    "80fed86143bf"
    ],
    "platforms": [
-    "google_trends"
+    "reddit"
    ],
    "size": 1,
-   "label": "carl lentz",
+   "label": "I dont like V for Vendetta that much",
    "shared_terms": [],
    "common_tokens": [],
-   "max_virality": 32.0,
-   "any_meme": false
+   "max_virality": 31.9,
+   "any_meme": true
   },
   {
    "uids": [
-    "16170fdfbc10"
+    "2331e4ea3e77"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Marco Wilson",
+   "label": "Matthew Schaefer",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 30.9,
@@ -4570,17 +5904,31 @@
   },
   {
    "uids": [
-    "f89820804b0e"
+    "f01ea634105a"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Snicker Cat",
+   "label": "Biddy Blas Scrib Doon",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 30.1,
    "any_meme": true
+  },
+  {
+   "uids": [
+    "0ca06d9ee4dd"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "I would stay there for another half hour...",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 30.0,
+   "any_meme": false
   },
   {
    "uids": [
@@ -4598,13 +5946,13 @@
   },
   {
    "uids": [
-    "943e06c89ba7"
+    "f4f482e38996"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Professor X",
+   "label": "Al Michaels",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 29.5,
@@ -4631,9 +5979,9 @@
    ],
    "common_tokens": [
     "cut",
-    "ingredients",
-    "cream",
     "seasoning",
+    "ingredients",
+    "sour",
     "cup",
     "warm"
    ],
@@ -4642,13 +5990,41 @@
   },
   {
    "uids": [
-    "b1ac282fb632"
+    "0a86d73cb7e3"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "One encounter and you'll never trust a chest again",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "6ca0760b87c6"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Tucker Kraft",
+   "label": "Will Lee",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "3774d319bd52"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Stokes County is pleased to announce their first female Eagle Scout!",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 28.1,
@@ -4698,13 +6074,13 @@
   },
   {
    "uids": [
-    "d7413401f7a1"
+    "35fdfd5c2f50"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "maddie",
+   "label": "Wheatley",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 26.7,
@@ -4712,13 +6088,27 @@
   },
   {
    "uids": [
-    "13a2c548458a"
+    "f9e156d4705c"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "\ud83d\udd25 so Salmon Sharks exist",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 26.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "ff950f97c385"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Scientists Reveal The Hi",
+   "label": "Youre Blatantly Just Not Me Nan",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 25.7,
@@ -4726,17 +6116,31 @@
   },
   {
    "uids": [
-    "5c7142a0846c"
+    "e8ef5cea4667"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Evero",
+   "label": "Chuba Hubbard",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 25.3,
    "any_meme": false
+  },
+  {
+   "uids": [
+    "a77dc4346831"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Friendship",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 25.0,
+   "any_meme": true
   },
   {
    "uids": [
@@ -4754,13 +6158,13 @@
   },
   {
    "uids": [
-    "8cd31b9b9d4c"
+    "d34975daee2e"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Coleman Owen",
+   "label": "Nick Scott",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 23.9,
@@ -4768,13 +6172,13 @@
   },
   {
    "uids": [
-    "378e4acb78de"
+    "8894131d574b"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "SAFU",
+   "label": "Canales",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 22.5,
@@ -4782,13 +6186,41 @@
   },
   {
    "uids": [
-    "f01ea634105a"
+    "e3357bc71dd9"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "2026 continues.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 22.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "8e3d46a6123b"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "I never cried making a meme before.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 21.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "a9bf3db85b62"
    ],
    "platforms": [
     "memes"
    ],
    "size": 1,
-   "label": "Biddy Blas Scrib Doon",
+   "label": "Ai Rumpelstiltskin Tip Toein In My Jordans",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 21.2,
@@ -4796,13 +6228,13 @@
   },
   {
    "uids": [
-    "5c442c8ed6db"
+    "f0e5e53bb026"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Athena",
+   "label": "Donovan Mitchell",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 21.1,
@@ -4810,13 +6242,13 @@
   },
   {
    "uids": [
-    "333fa5b931df"
+    "fced55d236fc"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Letang",
+   "label": "Full Self-Driving",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 19.7,
@@ -4838,13 +6270,27 @@
   },
   {
    "uids": [
-    "c577fa2def80"
+    "eb967d04b1ac"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "So my father mistook my niece's drawing tab toy for a cutting board",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 18.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b1ac282fb632"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "X-Men",
+   "label": "Tucker Kraft",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 18.3,
@@ -4852,13 +6298,13 @@
   },
   {
    "uids": [
-    "03f78e8026c0"
+    "a31ca8b9b736"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Rest in Peace",
+   "label": "Jeremiah Fears",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 16.9,
@@ -4866,16 +6312,44 @@
   },
   {
    "uids": [
-    "b64c4e73e7d0"
+    "16170fdfbc10"
    ],
    "platforms": [
     "x"
    ],
    "size": 1,
-   "label": "Red Wings",
+   "label": "Marco Wilson",
    "shared_terms": [],
    "common_tokens": [],
    "max_virality": 15.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "bea969c07551"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "An Egyptian mummy in the Louvre Museum",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 12.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "206227be9abc"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Argentinian reporter stops live broadcast to save a dog being swept away by flood waters",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 11.0,
    "any_meme": false
   },
   {
