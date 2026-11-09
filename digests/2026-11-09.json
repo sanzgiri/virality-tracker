@@ -1,0 +1,6386 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T23:58:28.801080+00:00",
+ "coverage": [
+  {
+   "platform": "youtube",
+   "status": "OK \u2014 30 trending US videos (snapshot 2026-11-09) (daily mirror of YouTube's official US chart)"
+  },
+  {
+   "platform": "tiktok",
+   "status": "OK \u2014 30 most-viewed US TikToks, last 24h (Endless radar of TikTok's trending feed)"
+  },
+  {
+   "platform": "x",
+   "status": "OK \u2014 40 US trends (latest hourly card, via trends24 mirror of X)"
+  },
+  {
+   "platform": "reddit",
+   "status": "OK \u2014 r/popular 25, r/memes 15, r/funny 10"
+  },
+  {
+   "platform": "google_trends",
+   "status": "OK \u2014 10 trending US searches (RSS)"
+  },
+  {
+   "platform": "linkedin",
+   "status": "LIMITED \u2014 4 LinkedIn News editor-pick posts (no public trending feed or metrics exist)"
+  },
+  {
+   "platform": "facebook",
+   "status": "BLOCKED \u2014 facebook: login/app shell, no public items served; instagram: login/app shell, no public items served. No public anonymous trending surface exists post-CrowdTangle."
+  },
+  {
+   "platform": "instagram",
+   "status": "Same Meta surface as Facebook \u2014 see above."
+  },
+  {
+   "platform": "memes",
+   "status": "OK \u2014 12 meme entries from Know Your Meme front page"
+  }
+ ],
+ "items": [
+  {
+   "platform": "tiktok",
+   "title": "A journey through a world beyond reality \ud83c\udf0c\ud83c\udff0\u2728 #darkfantasy #fyp #nostalgia #fantasygame #aesthetic",
+   "url": "https://www.tiktok.com/@.dark.reverie/video/7699633942424538398",
+   "rank": 1,
+   "list_size": 30,
+   "author": "@.dark.reverie",
+   "summary_src": "Sound: original sound - .dark.reverie.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 36300000,
+    "likes": 8300000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7699633942424538398.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7699633942424538398?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 100.0,
+    "_velocity": 100.0,
+    "_engagement_pct": 82.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 76.6,
+   "tier": "Viral",
+   "why": [],
+   "uid": "c4378eaa5f85"
+  },
+  {
+   "platform": "x",
+   "title": "Jags",
+   "url": "https://twitter.com/search?q=Jags",
+   "rank": 1,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 100.0,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 70.0,
+   "tier": "Viral",
+   "why": [],
+   "uid": "475a82bae453"
+  },
+  {
+   "platform": "reddit",
+   "title": "Pack your bags",
+   "url": "https://www.reddit.com/r/memes/comments/1xrn5ut/pack_your_bags/",
+   "rank": 1,
+   "list_size": 15,
+   "author": "r/memes /u/ZealousidealChain473",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/dtg0dqv61k0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 100.0,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 70.0,
+   "tier": "Viral",
+   "why": [],
+   "uid": "7b8d338ec237"
+  },
+  {
+   "platform": "reddit",
+   "title": "Do you also still keep the original box your cat came in, or have you thrown it away?",
+   "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xrspth/do_you_also_still_keep_the_original_box_your_cat/",
+   "rank": 1,
+   "list_size": 25,
+   "author": "r/popular /u/Uarungar",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/s26mfmcthl0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 97.4,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 69.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "c4aa4054c34d"
+  },
+  {
+   "platform": "memes",
+   "title": "Snow Leopard Paws At You",
+   "url": "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
+   "rank": 1,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/688/Screenshot_2026-10-29_132139.png",
+    "_group_size": 12,
+    "_reach_pct": 100.0,
+    "_returning": true,
+    "_velocity": 96.4,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 69.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "d0e52eca57a6"
+  },
+  {
+   "platform": "linkedin",
+   "title": "If you\u2019re trying to make a pivot, but the market keeps trying to hand you a role like the one you're leaving, ",
+   "url": "https://www.linkedin.com/posts/linkedin-news_activity-7525617862808600576-l6cB",
+   "rank": 1,
+   "list_size": 10,
+   "author": "LinkedIn News",
+   "summary_src": "If you\u2019re trying to make a pivot, but the market keeps trying to hand you a role like the one you're leaving, Molly Graham has an exercise to help you widen your search. Molly helped build teams at Facebook, was COO of Quip, and led operations at the Chan Zuckerberg Initiative. She got so good at helping visionary founders turn their ideas into companies that people kept coming to her to do it\u2026",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "_group_size": 4,
+    "_reach_pct": 100.0,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 69.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "c9ebbad0c93f"
+  },
+  {
+   "platform": "x",
+   "title": "Jordan Davis",
+   "url": "https://twitter.com/search?q=Jordan%20Davis",
+   "rank": 2,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 97.4,
+    "_velocity": 98.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 68.6,
+   "tier": "Rising",
+   "why": [],
+   "uid": "044927db0f50"
+  },
+  {
+   "platform": "tiktok",
+   "title": "The atmosphere at 7 p.m. in Chongqing is so amazing. #travel#fyp#sunsetvibes#china#chongqing",
+   "url": "https://www.tiktok.com/@zhangsanbarbecue/video/7684252586286927135",
+   "rank": 4,
+   "list_size": 30,
+   "author": "@zhangsanbarbecue",
+   "summary_src": "Sound: original sound - johengaming.official.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 14800000,
+    "likes": 2500000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7684252586286927135.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7684252586286927135?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 89.7,
+    "_velocity": 90.0,
+    "_engagement_pct": 69.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 67.7,
+   "tier": "Rising",
+   "why": [],
+   "uid": "7c9b9584e665"
+  },
+  {
+   "platform": "x",
+   "title": "Massie",
+   "url": "https://twitter.com/search?q=Massie",
+   "rank": 3,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 94.9,
+    "_velocity": 96.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 67.2,
+   "tier": "Rising",
+   "why": [],
+   "uid": "2a73ad76908d"
+  },
+  {
+   "platform": "youtube",
+   "title": "Aeon \u2605 Aha Character Trailer: \"Let the Die Fly\" | Honkai: Star Rail",
+   "url": "https://www.youtube.com/watch?v=rMcFUTECbMQ",
+   "rank": 5,
+   "list_size": 50,
+   "author": "Honkai: Star Rail",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 760000,
+    "likes": 50000,
+    "comments": 2130,
+    "image": "https://i.ytimg.com/vi/rMcFUTECbMQ/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 72.4,
+    "_returning": true,
+    "_velocity": 95.2,
+    "_engagement_pct": 89.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 67.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "e92c7e9c7007"
+  },
+  {
+   "platform": "tiktok",
+   "title": "I turned her frown upside down #downsyndrome #Siblings #wholesome #viral #funny",
+   "url": "https://www.tiktok.com/@vallitfit/video/7695147722957016333",
+   "rank": 3,
+   "list_size": 30,
+   "author": "@vallitfit",
+   "summary_src": "Sound: My Love Mine All Mine.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "views": 15300000,
+    "likes": 2400000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7695147722957016333.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7695147722957016333?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 93.1,
+    "_velocity": 93.3,
+    "_engagement_pct": 55.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 67.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "0503f4af0ab9"
+  },
+  {
+   "platform": "reddit",
+   "title": "Nobody can agree on anything",
+   "url": "https://www.reddit.com/r/memes/comments/1xrvfp9/nobody_can_agree_on_anything/",
+   "rank": 2,
+   "list_size": 15,
+   "author": "r/memes /u/Pure-Working-2207",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/tcgt0qmn0m0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 94.9,
+    "_velocity": 93.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 66.5,
+   "tier": "Rising",
+   "why": [],
+   "uid": "18ab34999320"
+  },
+  {
+   "platform": "reddit",
+   "title": "Me_irl",
+   "url": "https://www.reddit.com/r/me_irl/comments/1xrgfaf/me_irl/",
+   "rank": 2,
+   "list_size": 25,
+   "author": "r/popular /u/FuriNorm",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/c6olo28j3i0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 92.3,
+    "_velocity": 96.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 66.3,
+   "tier": "Rising",
+   "why": [],
+   "uid": "638bdbf35cb0"
+  },
+  {
+   "platform": "memes",
+   "title": "Frutiger Aero Yams",
+   "url": "https://knowyourmeme.com/memes/frutiger-aero-yams",
+   "rank": 2,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/706/faytyrcover.jpg",
+    "_group_size": 12,
+    "_reach_pct": 90.9,
+    "_returning": true,
+    "_velocity": 97.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 66.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "69428704cad9"
+  },
+  {
+   "platform": "x",
+   "title": "Howie",
+   "url": "https://twitter.com/search?q=Howie",
+   "rank": 4,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 92.3,
+    "_velocity": 94.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 65.8,
+   "tier": "Rising",
+   "why": [],
+   "uid": "46f438c9e8f2"
+  },
+  {
+   "platform": "x",
+   "title": "Jaguars",
+   "url": "https://twitter.com/search?q=Jaguars",
+   "rank": 5,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 89.7,
+    "_velocity": 92.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 64.4,
+   "tier": "Rising",
+   "why": [],
+   "uid": "9c37d4e51bb2"
+  },
+  {
+   "platform": "youtube",
+   "title": "\ud83c\udfaePLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 4\ud83c\udfae",
+   "url": "https://www.youtube.com/watch?v=n3GlNNBwMcg",
+   "rank": 21,
+   "list_size": 50,
+   "author": "Kai Cenat Live",
+   "summary_src": "People & Blogs video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 3010000,
+    "likes": 23200,
+    "comments": 107,
+    "image": "https://i.ytimg.com/vi/n3GlNNBwMcg/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 96.6,
+    "_velocity": 60.0,
+    "_engagement_pct": 24.1,
+    "_spread": 50.0,
+    "_platforms_in_cluster": 3
+   },
+   "virality": 63.6,
+   "tier": "Rising",
+   "why": [],
+   "uid": "60ea9ad290af"
+  },
+  {
+   "platform": "reddit",
+   "title": "Bullish for $APPL \ud83d\ude80",
+   "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrpiwg/bullish_for_appl/",
+   "rank": 3,
+   "list_size": 25,
+   "author": "r/popular /u/heisthemaincharacter",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 87.2,
+    "_velocity": 92.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.5,
+   "tier": "Rising",
+   "why": [],
+   "uid": "7d4fa1fed82a"
+  },
+  {
+   "platform": "youtube",
+   "title": "T1 vs BLG | WORLDS 2026 | Semis Day 2",
+   "url": "https://www.youtube.com/watch?v=gf50dvLAORc",
+   "rank": 3,
+   "list_size": 50,
+   "author": "LoL Esports",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 3400000,
+    "likes": 19700,
+    "comments": 248,
+    "image": "https://i.ytimg.com/vi/gf50dvLAORc/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 100.0,
+    "_velocity": 96.0,
+    "_engagement_pct": 20.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "a9c21d053779"
+  },
+  {
+   "platform": "reddit",
+   "title": "this is controversy manifest",
+   "url": "https://www.reddit.com/r/memes/comments/1xrqqsg/this_is_controversy_manifest/",
+   "rank": 3,
+   "list_size": 15,
+   "author": "r/memes /u/REAL__NOWHEREMAN",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/8pgj24yg1l0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 89.7,
+    "_velocity": 86.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "2ddf059a9479"
+  },
+  {
+   "platform": "youtube",
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.youtube.com/watch?v=3Ae0gNYzaSQ",
+   "rank": 6,
+   "list_size": 50,
+   "author": "videogamedunkey",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1060000,
+    "likes": 27900,
+    "comments": 1400,
+    "image": "https://i.ytimg.com/vi/3Ae0gNYzaSQ/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 86.2,
+    "_velocity": 90.0,
+    "_engagement_pct": 51.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "36fdf73e36b1"
+  },
+  {
+   "platform": "x",
+   "title": "Gunn",
+   "url": "https://twitter.com/search?q=Gunn",
+   "rank": 6,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 87.2,
+    "_velocity": 90.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 63.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "09e7229fc6e9"
+  },
+  {
+   "platform": "memes",
+   "title": "Memes",
+   "url": "https://knowyourmeme.com/memes/memes",
+   "rank": 3,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/002/058/meme.jpg",
+    "_group_size": 12,
+    "_reach_pct": 81.8,
+    "_returning": true,
+    "_velocity": 93.1,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.9,
+   "tier": "Rising",
+   "why": [],
+   "uid": "b3cfc50fbf77"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Video by @_hhazza",
+   "url": "https://www.tiktok.com/@_hhazza/video/7698668315635387700",
+   "rank": 9,
+   "list_size": 30,
+   "author": "@_hhazza",
+   "summary_src": "Sound: original sound - j3llyrio.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 4099999,
+    "likes": 973200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7698668315635387700.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7698668315635387700?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 72.4,
+    "_velocity": 73.3,
+    "_engagement_pct": 89.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.6,
+   "tier": "Rising",
+   "why": [],
+   "uid": "917b003deed0"
+  },
+  {
+   "platform": "x",
+   "title": "Fable 5.2",
+   "url": "https://twitter.com/search?q=Fable%205.2",
+   "rank": 7,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 84.6,
+    "_velocity": 88.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.6,
+   "tier": "Rising",
+   "why": [],
+   "uid": "1db6ac73877b"
+  },
+  {
+   "platform": "tiktok",
+   "title": "It\u2019s been 3 hours and only one table is built #work #bluecollar #fyp #builder #job",
+   "url": "https://www.tiktok.com/@wilsons_m3____40i/video/7691327111486885151",
+   "rank": 2,
+   "list_size": 30,
+   "author": "@wilsons_m3____40i",
+   "summary_src": "Sound: original sound - wilsons_m3____40i.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 25100000,
+    "likes": 2200000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7691327111486885151.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7691327111486885151?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 96.6,
+    "_velocity": 96.7,
+    "_engagement_pct": 17.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.4,
+   "tier": "Rising",
+   "why": [],
+   "uid": "5827fad972fa"
+  },
+  {
+   "platform": "youtube",
+   "title": "We are not qualified for this...",
+   "url": "https://www.youtube.com/watch?v=byyrywdt9_0",
+   "rank": 12,
+   "list_size": 50,
+   "author": "SMii7Y",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 2930000,
+    "likes": 75600,
+    "comments": 2300,
+    "image": "https://i.ytimg.com/vi/byyrywdt9_0/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 93.1,
+    "_returning": true,
+    "_velocity": 75.6,
+    "_engagement_pct": 48.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.2,
+   "tier": "Rising",
+   "why": [],
+   "uid": "8f1362a78ed5"
+  },
+  {
+   "platform": "google_trends",
+   "title": "syracuse vs indiana",
+   "url": "https://trends.google.com/trending?geo=US&search=syracuse%20vs%20indiana",
+   "rank": 6,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Syracuse basketball vs. Indiana: Live score, updates (via Syracuse.com)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 5000,
+    "news_url": "https://www.syracuse.com/orangebasketball/2026/11/syracuse-basketball-vs-indiana-live-score-updates.html",
+    "news_title": "Syracuse basketball vs. Indiana: Live score, updates",
+    "news_source": "Syracuse.com",
+    "_group_size": 10,
+    "_reach_pct": 88.9,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "dc38fbf548d9"
+  },
+  {
+   "platform": "google_trends",
+   "title": "cavaliers vs hornets",
+   "url": "https://trends.google.com/trending?geo=US&search=cavaliers%20vs%20hornets",
+   "rank": 10,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "NBA Matchups: November 9 (via Establish The Run)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 20000,
+    "news_url": "https://establishtherun.com/nba-matchups-november-9-2/",
+    "news_title": "NBA Matchups: November 9",
+    "news_source": "Establish The Run",
+    "_group_size": 10,
+    "_reach_pct": 100.0,
+    "_velocity": 64.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 61.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "9572f83bbe82"
+  },
+  {
+   "platform": "reddit",
+   "title": "My grandma turned 105",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xrwyda/my_grandma_turned_105/",
+   "rank": 4,
+   "list_size": 25,
+   "author": "r/popular /u/Number_Fluffy",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/888fuxwjam0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c21a63e998b19cbd57dec8a517858f96c6aafd0f",
+    "_group_size": 40,
+    "_reach_pct": 82.1,
+    "_velocity": 88.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 60.7,
+   "tier": "Rising",
+   "why": [],
+   "uid": "e100f0e0dec8"
+  },
+  {
+   "platform": "youtube",
+   "title": "The Strokes - Lonely in the Future (Official Video)",
+   "url": "https://www.youtube.com/watch?v=Yl6F10Bm44Q",
+   "rank": 16,
+   "list_size": 50,
+   "author": "The Strokes",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 564000,
+    "likes": 39300,
+    "comments": 2790,
+    "image": "https://i.ytimg.com/vi/Yl6F10Bm44Q/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 69.0,
+    "_velocity": 70.0,
+    "_engagement_pct": 93.1,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 60.3,
+   "tier": "Rising",
+   "why": [],
+   "uid": "598c293c3db7"
+  },
+  {
+   "platform": "x",
+   "title": "Hegseth",
+   "url": "https://twitter.com/search?q=Hegseth",
+   "rank": 8,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 82.1,
+    "_velocity": 86.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 60.2,
+   "tier": "Rising",
+   "why": [],
+   "uid": "01fbff896ff4"
+  },
+  {
+   "platform": "google_trends",
+   "title": "bills schedule",
+   "url": "https://trends.google.com/trending?geo=US&search=bills%20schedule",
+   "rank": 8,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "S Geno Stone and WR Trent Sherfield Sr. elevated, WR Joshua Palmer placed on Injured Reserve | Week 9 (via Buffalo Bills)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 2000,
+    "news_url": "https://www.buffalobills.com/news/s-geno-stone-and-wr-trent-sherfield-sr-elevated-wr-joshua-palmer-placed-on-injured-reserve-week-9",
+    "news_title": "S Geno Stone and WR Trent Sherfield Sr. elevated, WR Joshua Palmer placed on Injured Reserve | Week 9",
+    "news_source": "Buffalo Bills",
+    "_group_size": 10,
+    "_reach_pct": 77.8,
+    "_velocity": 72.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 60.2,
+   "tier": "Rising",
+   "why": [],
+   "uid": "53dcdc8ef6c7"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Is this real? \ud83d\ude2d\ud83e\udd23 #relatable #trending",
+   "url": "https://www.tiktok.com/@quinn_mendenhall28/video/7687127834380307743",
+   "rank": 6,
+   "list_size": 30,
+   "author": "@quinn_mendenhall28",
+   "summary_src": "Sound: original sound - maystxn.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 6900000,
+    "likes": 1000000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7687127834380307743.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7687127834380307743?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 82.8,
+    "_velocity": 83.3,
+    "_engagement_pct": 51.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 60.1,
+   "tier": "Rising",
+   "why": [],
+   "uid": "4b8a8241c2bb"
+  },
+  {
+   "platform": "youtube",
+   "title": "Salish's 12 Games of Christmas | Official Trailer | Netflix",
+   "url": "https://www.youtube.com/watch?v=ylYSnvZEH0Y",
+   "rank": 2,
+   "list_size": 50,
+   "author": "Netflix",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 860000,
+    "likes": 15400,
+    "comments": 560,
+    "image": "https://i.ytimg.com/vi/ylYSnvZEH0Y/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 79.3,
+    "_returning": true,
+    "_velocity": 98.8,
+    "_engagement_pct": 37.9,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 60.0,
+   "tier": "Rising",
+   "why": [],
+   "uid": "9d26d9253074"
+  },
+  {
+   "platform": "reddit",
+   "title": "Jensen wants to go deep \ud83e\udd40\ud83e\udd40",
+   "url": "https://www.reddit.com/r/memes/comments/1xry7bh/jensen_wants_to_go_deep/",
+   "rank": 4,
+   "list_size": 15,
+   "author": "r/memes /u/divinevortex78",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/arwlstsnim0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 84.6,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 59.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "c7ff3cb0a231"
+  },
+  {
+   "platform": "youtube",
+   "title": "SUIATSU",
+   "url": "https://www.youtube.com/watch?v=VPQr2dedikk",
+   "rank": 18,
+   "list_size": 50,
+   "author": "Stray Kids - Topic",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 561000,
+    "likes": 117000,
+    "comments": 8100,
+    "image": "https://i.ytimg.com/vi/VPQr2dedikk/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 65.5,
+    "_velocity": 66.0,
+    "_engagement_pct": 100.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 59.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5c01fb002ccc"
+  },
+  {
+   "platform": "x",
+   "title": "Superman",
+   "url": "https://twitter.com/search?q=Superman",
+   "rank": 9,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 79.5,
+    "_velocity": 84.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 58.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "afdcb4e6823c"
+  },
+  {
+   "platform": "google_trends",
+   "title": "grizzlies vs raptors",
+   "url": "https://trends.google.com/trending?geo=US&search=grizzlies%20vs%20raptors",
+   "rank": 1,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Grizzlies vs. Raptors injury report: Scottie Barnes, Immanuel Quickley the names to watch with Kawhi Leonard still out (via Yahoo Sports)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 2000,
+    "news_url": "https://sports.yahoo.com/articles/grizzlies-vs-raptors-injury-report-173946328.html",
+    "news_title": "Grizzlies vs. Raptors injury report: Scottie Barnes, Immanuel Quickley the names to watch with Kawhi Leonard still out",
+    "news_source": "Yahoo Sports",
+    "_group_size": 10,
+    "_reach_pct": 66.7,
+    "_velocity": 100.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 58.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "39f72aab7d8c"
+  },
+  {
+   "platform": "x",
+   "title": "Bills",
+   "url": "https://twitter.com/search?q=Bills",
+   "rank": 13,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 69.2,
+    "_velocity": 76.0,
+    "_engagement_pct": 50.0,
+    "_spread": 25.0,
+    "_platforms_in_cluster": 2
+   },
+   "virality": 58.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "dab2b77787c6"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Part 1| Scooby-Doo! And the Ghoul School (1988) #fyp #scoobydooandtheghoulschool",
+   "url": "https://www.tiktok.com/@daphneblake_is.my.queen/video/7691024899489500447",
+   "rank": 8,
+   "list_size": 30,
+   "author": "@daphneblake_is.my.queen",
+   "summary_src": "Sound: original sound - daphneblake_is.my.queen.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 4200000,
+    "likes": 681600,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7691024899489500447.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7691024899489500447?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 75.9,
+    "_returning": true,
+    "_velocity": 76.4,
+    "_engagement_pct": 62.1,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 58.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4380fb69c467"
+  },
+  {
+   "platform": "reddit",
+   "title": "Clarice Phelps",
+   "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrgujv/clarice_phelps/",
+   "rank": 5,
+   "list_size": 25,
+   "author": "r/popular /u/InterestBear62",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/9u8p3kk77i0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 76.9,
+    "_velocity": 84.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 57.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "ab0d14103f4d"
+  },
+  {
+   "platform": "x",
+   "title": "Carson Beck",
+   "url": "https://twitter.com/search?q=Carson%20Beck",
+   "rank": 10,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 76.9,
+    "_velocity": 82.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 57.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "f3166ebcb3ac"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Video by @zachscenic",
+   "url": "https://www.tiktok.com/@zachscenic/video/7690148258617756942",
+   "rank": 12,
+   "list_size": 30,
+   "author": "@zachscenic",
+   "summary_src": "Sound: original sound - pentag0needits.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 2900000,
+    "likes": 700500,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7690148258617756942.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7690148258617756942?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 62.1,
+    "_velocity": 63.3,
+    "_engagement_pct": 96.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 56.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5ce4d0da896d"
+  },
+  {
+   "platform": "memes",
+   "title": "Mrbeast Chill Out Crashout Edits",
+   "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+   "rank": 4,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/739/mbeastchill.jpg",
+    "_group_size": 12,
+    "_reach_pct": 72.7,
+    "_velocity": 85.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 56.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d382999cda51"
+  },
+  {
+   "platform": "reddit",
+   "title": "Internet gives, internet takes.",
+   "url": "https://www.reddit.com/r/memes/comments/1xrts3p/internet_gives_internet_takes/",
+   "rank": 5,
+   "list_size": 15,
+   "author": "r/memes /u/SirDoritos1",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/6wrk5ijhpl0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 79.5,
+    "_velocity": 73.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 56.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "44799e62b329"
+  },
+  {
+   "platform": "x",
+   "title": "Eagles",
+   "url": "https://twitter.com/search?q=Eagles",
+   "rank": 11,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 74.4,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 56.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "9956e2794e69"
+  },
+  {
+   "platform": "reddit",
+   "title": "George Luca's Wife Couldn't Afford Food on School Trips. So Their Museum Now Sells $2 grilled Cheese Sandwiches",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xrxdb9/george_lucas_wife_couldnt_afford_food_on_school/",
+   "rank": 6,
+   "list_size": 25,
+   "author": "r/popular /u/Alternative-Dot-34",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/x08k4jr5dm0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=f39e27821d858153a8617e1774e8701487e0210a",
+    "_group_size": 40,
+    "_reach_pct": 71.8,
+    "_velocity": 80.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 55.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7ec2edfb376b"
+  },
+  {
+   "platform": "linkedin",
+   "title": "One of my favorite parts of Paris Creator Week was getting to spend time with the creators who are shaping thi",
+   "url": "https://www.linkedin.com/posts/linkedin-news_activity-7524431423601139713-TL_U",
+   "rank": 2,
+   "list_size": 10,
+   "author": "LinkedIn News",
+   "summary_src": "One of my favorite parts of Paris Creator Week was getting to spend time with the creators who are shaping this industry, hearing what they're building, how they're growing their businesses, and what they're excited about next. There was a lot to talk about! Creators are increasingly thinking like entrepreneurs, looking to build new partnerships, revenue streams, and opportunities to connect with\u2026",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "_group_size": 4,
+    "_reach_pct": 66.7,
+    "_returning": true,
+    "_velocity": 86.4,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 54.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a652d7d72601"
+  },
+  {
+   "platform": "tiktok",
+   "title": "TikTok video by @nbcthevoice",
+   "url": "https://www.tiktok.com/@nbcthevoice/video/7688529299984387358",
+   "rank": 7,
+   "list_size": 30,
+   "author": "@nbcthevoice",
+   "summary_src": "Sound: LexiStephens_BlindAudition.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 6300000,
+    "likes": 718700,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7688529299984387358.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7688529299984387358?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 79.3,
+    "_velocity": 80.0,
+    "_engagement_pct": 34.5,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 54.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cbb14ec111cf"
+  },
+  {
+   "platform": "youtube",
+   "title": "\u0950 \u091c\u092f \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092e\u093e\u0924\u093e \u0906\u0930\u0924\u0940 | Om Jai Lakshmi Mata Aarti | ANURADHA PAUDWAL | \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092e\u093e\u0924\u093e \u0915\u0940 \u0906\u0930\u0924\u0940",
+   "url": "https://www.youtube.com/watch?v=u8b7TnmZ8J4",
+   "rank": 10,
+   "list_size": 50,
+   "author": "T-Series Bhakti Sagar",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 2870000,
+    "likes": 12700,
+    "comments": 373,
+    "image": "https://i.ytimg.com/vi/u8b7TnmZ8J4/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 89.7,
+    "_velocity": 82.0,
+    "_engagement_pct": 13.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 54.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b8d0629810a9"
+  },
+  {
+   "platform": "x",
+   "title": "Ojomo",
+   "url": "https://twitter.com/search?q=Ojomo",
+   "rank": 12,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 71.8,
+    "_velocity": 78.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 54.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "588b6bbcb2a3"
+  },
+  {
+   "platform": "reddit",
+   "title": "100s of people gathered at Millennium Park today to move the iconic Bean 7 inches.",
+   "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrr07v/100s_of_people_gathered_at_millennium_park_today/",
+   "rank": 10,
+   "list_size": 25,
+   "author": "r/popular /u/HimelTy",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 51.3,
+    "_velocity": 64.0,
+    "_engagement_pct": 50.0,
+    "_spread": 50.0,
+    "_platforms_in_cluster": 3
+   },
+   "virality": 53.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "61d6ac9632c3"
+  },
+  {
+   "platform": "youtube",
+   "title": "Kash Doll - I'm The Prize (feat. Ebony Riley) [Official Music Video]",
+   "url": "https://www.youtube.com/watch?v=_m47swxun0c",
+   "rank": 30,
+   "list_size": 50,
+   "author": "Kash Doll",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 950000,
+    "likes": 42800,
+    "comments": 2930,
+    "image": "https://i.ytimg.com/vi/_m47swxun0c/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 82.8,
+    "_returning": true,
+    "_velocity": 40.8,
+    "_engagement_pct": 72.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 53.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "6933be76e880"
+  },
+  {
+   "platform": "google_trends",
+   "title": "claudia sheinbaum",
+   "url": "https://trends.google.com/trending?geo=US&search=claudia%20sheinbaum",
+   "rank": 2,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "M\u00e9xico alcanza r\u00e9cord de empleo formal con 23.8 millones de puestos: Sheinbaum (via Yahoo)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 1000,
+    "news_url": "https://es-us.noticias.yahoo.com/m%C3%A9xico-alcanza-r%C3%A9cord-empleo-formal-144404865.html",
+    "news_title": "M\u00e9xico alcanza r\u00e9cord de empleo formal con 23.8 millones de puestos: Sheinbaum",
+    "news_source": "Yahoo",
+    "_group_size": 10,
+    "_reach_pct": 55.6,
+    "_velocity": 96.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 53.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "fc8eabb94179"
+  },
+  {
+   "platform": "reddit",
+   "title": "Do you agree?",
+   "url": "https://www.reddit.com/r/memes/comments/1xryj7u/do_you_agree/",
+   "rank": 6,
+   "list_size": 15,
+   "author": "r/memes /u/ohnag_eryeah",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/rxrn2znrkm0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 74.4,
+    "_velocity": 66.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e25e18c47af6"
+  },
+  {
+   "platform": "tiktok",
+   "title": "#horse #horseshoe #horsecare #farrier #tiktokgrowthchallenge",
+   "url": "https://www.tiktok.com/@jymmy.horsecare.farm/video/7698379673863982367",
+   "rank": 5,
+   "list_size": 30,
+   "author": "@jymmy.horsecare.farm",
+   "summary_src": "Sound: \u7fbd\u80bf - Windy Hill.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 9800000,
+    "likes": 212800,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7698379673863982367.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7698379673863982367?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 86.2,
+    "_velocity": 86.7,
+    "_engagement_pct": 3.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "1e53b357279d"
+  },
+  {
+   "platform": "reddit",
+   "title": "President Volodymyr Zelensky has announced that Russian forces used North Korean KN-23 ballistic missiles in an overnight strike on a key Ukrainian energy facility, with air defenses able to intercept only four of 36 ballistic missiles due to an acute shortage of Patriot interceptors",
+   "url": "https://www.reddit.com/r/worldnews/comments/1xrd9vc/president_volodymyr_zelensky_has_announced_that/",
+   "rank": 7,
+   "list_size": 25,
+   "author": "r/popular /u/RoninSolutions",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 66.7,
+    "_velocity": 76.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d76214329f8a"
+  },
+  {
+   "platform": "memes",
+   "title": "Malfoid Female Draco Malfoy",
+   "url": "https://knowyourmeme.com/memes/malfoid-female-draco-malfoy",
+   "rank": 5,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/554/malfoidcover.jpg",
+    "_group_size": 12,
+    "_reach_pct": 63.6,
+    "_returning": true,
+    "_velocity": 79.6,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 52.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "565640dbcf01"
+  },
+  {
+   "platform": "x",
+   "title": "Batman",
+   "url": "https://twitter.com/search?q=Batman",
+   "rank": 14,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 66.7,
+    "_velocity": 74.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 51.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "666955dc7e07"
+  },
+  {
+   "platform": "x",
+   "title": "Snyder",
+   "url": "https://twitter.com/search?q=Snyder",
+   "rank": 15,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 64.1,
+    "_velocity": 72.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 50.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "272587f7263d"
+  },
+  {
+   "platform": "reddit",
+   "title": "Bro sacrifice his forehead for this",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xrqq2f/bro_sacrifice_his_forehead_for_this/",
+   "rank": 8,
+   "list_size": 25,
+   "author": "r/popular /u/Mintangah17",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 61.5,
+    "_velocity": 72.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7f089b548a9a"
+  },
+  {
+   "platform": "reddit",
+   "title": "Reality mimics fiction",
+   "url": "https://www.reddit.com/r/memes/comments/1xrnsvy/reality_mimics_fiction/",
+   "rank": 7,
+   "list_size": 15,
+   "author": "r/memes /u/A_MAAN123",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/ldwpzrbj8k0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 69.2,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4b941e94bbee"
+  },
+  {
+   "platform": "youtube",
+   "title": "Laxmi Puja Special Aarti | Diwali Aarti | Laxmi Mata Aarti | Laxmi Puja Aarti, Jai Laxmi Mata Aarti",
+   "url": "https://www.youtube.com/watch?v=AADQgukqhbg",
+   "rank": 1,
+   "list_size": 50,
+   "author": "Chanda Pop Songs",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 537000,
+    "likes": 2380,
+    "comments": 106,
+    "image": "https://i.ytimg.com/vi/AADQgukqhbg/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 58.6,
+    "_velocity": 100.0,
+    "_engagement_pct": 17.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5b6fd9be7d50"
+  },
+  {
+   "platform": "x",
+   "title": "#DUUUVAL",
+   "url": "https://twitter.com/search?q=#DUUUVAL",
+   "rank": 16,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 61.5,
+    "_velocity": 70.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 49.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "16372f6393fc"
+  },
+  {
+   "platform": "youtube",
+   "title": "Automating Nether Stars - Sky Factory Season 7 EP 9",
+   "url": "https://www.youtube.com/watch?v=74-bQlbqkdU",
+   "rank": 19,
+   "list_size": 50,
+   "author": "SSundeePlus",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 339000,
+    "likes": 26400,
+    "comments": 1770,
+    "image": "https://i.ytimg.com/vi/74-bQlbqkdU/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 37.9,
+    "_velocity": 64.0,
+    "_engagement_pct": 96.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 48.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a0421482d921"
+  },
+  {
+   "platform": "x",
+   "title": "Jalen Carter",
+   "url": "https://twitter.com/search?q=Jalen%20Carter",
+   "rank": 17,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 59.0,
+    "_velocity": 68.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 47.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "6ac712bd8bcb"
+  },
+  {
+   "platform": "memes",
+   "title": "Anakin Skywalker Gen Z Male Rage Memes",
+   "url": "https://knowyourmeme.com/memes/anakin-skywalker-gen-z-male-rage-memes",
+   "rank": 6,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/695/Political_Prequel_Memes_banner.jpg",
+    "_group_size": 12,
+    "_reach_pct": 54.5,
+    "_returning": true,
+    "_velocity": 72.6,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 47.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "097fcb4c4c2f"
+  },
+  {
+   "platform": "reddit",
+   "title": "Abandoned 36 hours after birth due to Treacher Collins syndrome and rejected again as an adult, Jono Lancaster dedicated his life to traveling the world to support children with facial differences",
+   "url": "https://www.reddit.com/r/interesting/comments/1xrntos/abandoned_36_hours_after_birth_due_to_treacher/",
+   "rank": 9,
+   "list_size": 25,
+   "author": "r/popular /u/Main_Locksmith_2543",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://preview.redd.it/jmrgjdcq8k0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=416acd1a15c115601becffb32b4fd05067a0bc51",
+    "_group_size": 40,
+    "_reach_pct": 56.4,
+    "_velocity": 68.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 46.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "bca43f0c1cb1"
+  },
+  {
+   "platform": "x",
+   "title": "NO AMNESTY",
+   "url": "https://twitter.com/search?q=NO%20AMNESTY",
+   "rank": 18,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 56.4,
+    "_velocity": 66.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 46.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a83a0d082796"
+  },
+  {
+   "platform": "memes",
+   "title": "Big Chungus",
+   "url": "https://knowyourmeme.com/memes/big-chungus",
+   "rank": 7,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/027/843/chungcover.jpg",
+    "_group_size": 12,
+    "_reach_pct": 45.5,
+    "_returning": true,
+    "_velocity": 80.6,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 46.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "2c15eefc9f1b"
+  },
+  {
+   "platform": "reddit",
+   "title": "Air Quality in Delhi Yesterday Night",
+   "url": "https://www.reddit.com/r/memes/comments/1xrlt9e/air_quality_in_delhi_yesterday_night/",
+   "rank": 8,
+   "list_size": 15,
+   "author": "r/memes /u/Uchiha_Madara_Nipple",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/4mare8rrlj0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 64.1,
+    "_velocity": 53.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 45.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0a3cd16b7116"
+  },
+  {
+   "platform": "x",
+   "title": "Wonder Woman",
+   "url": "https://twitter.com/search?q=Wonder%20Woman",
+   "rank": 19,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 53.8,
+    "_velocity": 64.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 44.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "ce9ed79f9a7c"
+  },
+  {
+   "platform": "youtube",
+   "title": "Visionquest Episode 8 Finale Trailer Welcome To Avengers Doomsday",
+   "url": "https://www.youtube.com/watch?v=2PKHfC3wn1U",
+   "rank": 11,
+   "list_size": 50,
+   "author": "Emergency Awesome",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 410000,
+    "likes": 4010,
+    "comments": 368,
+    "image": "https://i.ytimg.com/vi/2PKHfC3wn1U/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 44.8,
+    "_returning": true,
+    "_velocity": 88.0,
+    "_engagement_pct": 31.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 43.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "695aaa943fb9"
+  },
+  {
+   "platform": "youtube",
+   "title": "How Dream Built His Entire Career on a Bundle of Lies",
+   "url": "https://www.youtube.com/watch?v=HuVW00KwuaI",
+   "rank": 23,
+   "list_size": 50,
+   "author": "Mujin",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 471000,
+    "likes": 13500,
+    "comments": 1460,
+    "image": "https://i.ytimg.com/vi/HuVW00KwuaI/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 51.7,
+    "_velocity": 56.0,
+    "_engagement_pct": 58.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 43.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "44444eea6551"
+  },
+  {
+   "platform": "tiktok",
+   "title": "#bsf #fyp #fyp\u30b7 #fyp\u30b7\u309aviral #slideshow",
+   "url": "https://www.tiktok.com/@.shhey._01/video/7698464053282344205",
+   "rank": 11,
+   "list_size": 30,
+   "author": "@.shhey._01",
+   "summary_src": "Sound: original sound - zaysingss.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 3300000,
+    "likes": 330500,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7698464053282344205.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7698464053282344205?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 65.5,
+    "_velocity": 66.7,
+    "_engagement_pct": 20.7,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 43.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "f4fcdbc71b85"
+  },
+  {
+   "platform": "x",
+   "title": "James Gladstone",
+   "url": "https://twitter.com/search?q=James%20Gladstone",
+   "rank": 20,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 51.3,
+    "_velocity": 62.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 43.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d52a0561b69e"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Video by @unk0wn_secrets",
+   "url": "https://www.tiktok.com/@unk0wn_secrets/video/7682480464531115278",
+   "rank": 14,
+   "list_size": 30,
+   "author": "@unk0wn_secrets",
+   "summary_src": "Sound: original sound - lvhound.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 2500000,
+    "likes": 358600,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7682480464531115278.webp",
+    "embed": "https://www.tiktok.com/player/v1/7682480464531115278?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 55.2,
+    "_velocity": 56.7,
+    "_engagement_pct": 48.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 43.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b495cdd32178"
+  },
+  {
+   "platform": "youtube",
+   "title": "NEW MOVIE TRAILERS | 2026 - 2027",
+   "url": "https://www.youtube.com/watch?v=fcqXl1jaoCY",
+   "rank": 14,
+   "list_size": 50,
+   "author": "MovieGasm\u200d\u2024com",
+   "summary_src": "Film & Animation video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 558000,
+    "likes": 1170,
+    "comments": 59,
+    "image": "https://i.ytimg.com/vi/fcqXl1jaoCY/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 62.1,
+    "_returning": true,
+    "_velocity": 84.4,
+    "_engagement_pct": 0.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "2f063f41c72a"
+  },
+  {
+   "platform": "google_trends",
+   "title": "tutu atwell",
+   "url": "https://trends.google.com/trending?geo=US&search=tutu%20atwell",
+   "rank": 9,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Tutu Atwell blew golden opportunity to earn larger role Rams need someone to seize (via Ramblin' Fan)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 500,
+    "news_url": "https://ramblinfan.com/tutu-atwell-blew-golden-opportunity-earn-larger-role-rams-need-seize",
+    "news_title": "Tutu Atwell blew golden opportunity to earn larger role Rams need someone to seize",
+    "news_source": "Ramblin' Fan",
+    "_group_size": 10,
+    "_reach_pct": 44.4,
+    "_velocity": 68.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "fc9e5a83fc44"
+  },
+  {
+   "platform": "reddit",
+   "title": "Oldest trick in the book",
+   "url": "https://www.reddit.com/r/memes/comments/1xrs2y5/oldest_trick_in_the_book/",
+   "rank": 9,
+   "list_size": 15,
+   "author": "r/memes /u/EpicBlop_Gamer",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/854fvmi2dl0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 59.0,
+    "_velocity": 46.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "13a165006725"
+  },
+  {
+   "platform": "x",
+   "title": "Rams",
+   "url": "https://twitter.com/search?q=Rams",
+   "rank": 21,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 48.7,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "c97a84725083"
+  },
+  {
+   "platform": "youtube",
+   "title": "IMPOSSIBLE GUESSING RANKS (Rainbow Six Siege)",
+   "url": "https://www.youtube.com/watch?v=F35R9IKrzOc",
+   "rank": 9,
+   "list_size": 50,
+   "author": "Jynxzi",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 315000,
+    "likes": 6320,
+    "comments": 318,
+    "image": "https://i.ytimg.com/vi/F35R9IKrzOc/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 34.5,
+    "_velocity": 84.0,
+    "_engagement_pct": 44.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 42.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4c4a0dc756e5"
+  },
+  {
+   "platform": "linkedin",
+   "title": "LinkedIn asked people what they wanted to know about building Higgsfield AI ",
+   "url": "https://www.linkedin.com/posts/linkedin-news_activity-7524156706227113984--EB_",
+   "rank": 3,
+   "list_size": 10,
+   "author": "LinkedIn News",
+   "summary_src": "LinkedIn asked people what they wanted to know about building Higgsfield AI . Here are my honest answers:",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "_group_size": 4,
+    "_reach_pct": 33.3,
+    "_returning": true,
+    "_velocity": 80.4,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 41.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a38b272f2ea6"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Send this to boy mom \ud83e\udd29 #zombie #toys #lasertag #gamer",
+   "url": "https://www.tiktok.com/@thenestwyn/video/7703783072822594846",
+   "rank": 10,
+   "list_size": 30,
+   "author": "@thenestwyn",
+   "summary_src": "Sound: original sound - thenestwyn.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 3900000,
+    "likes": 48200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7703783072822594846.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7703783072822594846?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 69.0,
+    "_velocity": 70.0,
+    "_engagement_pct": 0.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 41.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "405a795d61fc"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Hall\u2019s Pumpkin Farm \ud83c\udf83 open now - nov 1st \ud83c\udf42 $15 for adults & $10 for kids, cornmaze \ud83c\udf3d included with entry ((: one of my fav fall activities \ud83d\udc97 **CASH ONLY**   #grapevine #pumpkinseason #pumpkinpatch #dfw #dateidea",
+   "url": "https://www.tiktok.com/@raspberryoatmilk/video/7692246271532223775",
+   "rank": 13,
+   "list_size": 30,
+   "author": "@raspberryoatmilk",
+   "summary_src": "Sound: original sound - castful01.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 2600000,
+    "likes": 293000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7692246271532223775.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7692246271532223775?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 58.6,
+    "_returning": true,
+    "_velocity": 61.0,
+    "_engagement_pct": 27.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 41.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cfd36294c81a"
+  },
+  {
+   "platform": "reddit",
+   "title": "My barely nutted drumstick",
+   "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrgaoj/my_barely_nutted_drumstick/",
+   "rank": 11,
+   "list_size": 25,
+   "author": "r/popular /u/GlacialDonut",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/z09bx63c2i0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 46.2,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 41.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cdd3938e0636"
+  },
+  {
+   "platform": "youtube",
+   "title": "Otendewa (feat. Jammin)",
+   "url": "https://www.youtube.com/watch?v=Ezx_4yQftGA",
+   "rank": 4,
+   "list_size": 50,
+   "author": "Flunky - Topic",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 28900,
+    "likes": 1660,
+    "comments": 77,
+    "image": "https://i.ytimg.com/vi/Ezx_4yQftGA/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 0.0,
+    "_returning": true,
+    "_velocity": 96.4,
+    "_engagement_pct": 82.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 40.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e78540b28db9"
+  },
+  {
+   "platform": "x",
+   "title": "Michael Wilson",
+   "url": "https://twitter.com/search?q=Michael%20Wilson",
+   "rank": 22,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 46.2,
+    "_velocity": 58.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 40.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "2166d0844e20"
+  },
+  {
+   "platform": "google_trends",
+   "title": "jet blast",
+   "url": "https://trends.google.com/trending?geo=US&search=jet%20blast",
+   "rank": 7,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Plane rolls over after being hit by blast from jet engines (via CNN)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 500,
+    "news_url": "https://www.cnn.com/2026/11/09/us/plane-rolls-over-jet-blast",
+    "news_title": "Plane rolls over after being hit by blast from jet engines",
+    "news_source": "CNN",
+    "_group_size": 10,
+    "_reach_pct": 33.3,
+    "_velocity": 76.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 40.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e98d580f6660"
+  },
+  {
+   "platform": "youtube",
+   "title": "Who Built This Place\u2026",
+   "url": "https://www.youtube.com/watch?v=HOUmR4MW0VY",
+   "rank": 17,
+   "list_size": 50,
+   "author": "CaseOh",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 215000,
+    "likes": 8730,
+    "comments": 940,
+    "image": "https://i.ytimg.com/vi/HOUmR4MW0VY/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 27.6,
+    "_velocity": 68.0,
+    "_engagement_pct": 69.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 40.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cd05b61d7098"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Part 1 | Scooby-Doo and the Alien Invaders (2000) #fyp #scoobydooandthealieninvaders",
+   "url": "https://www.tiktok.com/@daphneblake_is.my.queen/video/7689537390934805790",
+   "rank": 17,
+   "list_size": 30,
+   "author": "@daphneblake_is.my.queen",
+   "summary_src": "Sound: original sound - daphneblake_is.my.queen.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1700000,
+    "likes": 286100,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7689537390934805790.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7689537390934805790?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 44.8,
+    "_velocity": 46.7,
+    "_engagement_pct": 65.5,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 40.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "98319de31e59"
+  },
+  {
+   "platform": "google_trends",
+   "title": "what time is the voice on tonight",
+   "url": "https://trends.google.com/trending?geo=US&search=what%20time%20is%20the%20voice%20on%20tonight",
+   "rank": 4,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "\u2018The Voice\u2019 season 30 Live Shows: How to watch free tonight (via Cleveland.com)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 500,
+    "news_url": "https://www.cleveland.com/tv/2026/11/the-voice-season-30-live-shows-how-to-watch-free-tonight.html",
+    "news_title": "\u2018The Voice\u2019 season 30 Live Shows: How to watch free tonight",
+    "news_source": "Cleveland.com",
+    "_group_size": 10,
+    "_reach_pct": 22.2,
+    "_velocity": 88.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "6e6be5fda7a7"
+  },
+  {
+   "platform": "youtube",
+   "title": "PLAYING 'DONT SPLASH' ON ROBLOX WAS A TERRIBLE IDEA ft. SCOTT KRESS",
+   "url": "https://www.youtube.com/watch?v=7hl2e-h1xR4",
+   "rank": 25,
+   "list_size": 50,
+   "author": "StinkyAsher",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 241000,
+    "likes": 12100,
+    "comments": 1680,
+    "image": "https://i.ytimg.com/vi/7hl2e-h1xR4/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 31.0,
+    "_velocity": 52.0,
+    "_engagement_pct": 79.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7c0d61a1c715"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Bro was NOT ready. \ud83d\ude05\ud83d\ude2d (via chugstv_/IG) #prank #funny #fail #highway #wow",
+   "url": "https://www.tiktok.com/@houseofhighlights/video/7705885291671719182",
+   "rank": 15,
+   "list_size": 30,
+   "author": "@houseofhighlights",
+   "summary_src": "Sound: original sound - houseofhighlights.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "views": 2100000,
+    "likes": 248200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7705885291671719182.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7705885291671719182?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 51.7,
+    "_velocity": 53.3,
+    "_engagement_pct": 41.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "f979301bd421"
+  },
+  {
+   "platform": "youtube",
+   "title": "He Cannot Be TACKLED! Wheel of MUT! Ep. #13",
+   "url": "https://www.youtube.com/watch?v=r142GbGiUZU",
+   "rank": 15,
+   "list_size": 50,
+   "author": "MMG",
+   "summary_src": "Sports video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 186000,
+    "likes": 7520,
+    "comments": 250,
+    "image": "https://i.ytimg.com/vi/r142GbGiUZU/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 24.1,
+    "_velocity": 72.0,
+    "_engagement_pct": 65.5,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "631838d2cf4e"
+  },
+  {
+   "platform": "x",
+   "title": "Poch",
+   "url": "https://twitter.com/search?q=Poch",
+   "rank": 23,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 43.6,
+    "_velocity": 56.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "038a6727db35"
+  },
+  {
+   "platform": "tiktok",
+   "title": "\ud83d\udd25 \u041f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u043d\u0430 2\u20133 \u0434\u043d\u044f 1. \u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0439 \u043f\u0440\u043e\u0444\u0438\u043b\u044c * \u043f\u043e\u0441\u0442\u0430\u0432\u044c \u0430\u0432\u0430\u0442\u0430\u0440\u043a\u0443; * \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0439 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0438\u043a \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435; * \u0432\u044b\u0431\u0435\u0440\u0438 \u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0443 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u044d\u0434\u0438\u0442\u044b \u043f\u043e \u00ab\u041b\u0435\u0434\u0438 \u0411\u0430\u0433\u00bb). 2. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0441\u0432\u043e\u0435\u0439 \u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 * \u0438\u0449\u0438 \u043d\u0443\u0436\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0438\u0441\u043a; * \u0441\u043c\u043e\u0442\u0440\u0438 \u0438\u0445 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e, \u0430 \u043d\u0435 \u043f\u0440\u043e\u043b\u0438\u0441\u0442\u044b\u0432\u0430\u0439 \u0441\u0440\u0430\u0437\u0443; * \u0441\u0442\u0430\u0432\u044c \u043b\u0430\u0439\u043a\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0442\u043e\u043c\u0443, \u0447\u0442\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f; * \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0439 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e; * \u043f\u043e\u0434\u043f\u0438\u0441\u044b\u0432\u0430\u0439\u0441\u044f \u043d\u0430 \u0430\u0432\u0442\u043e\u0440\u043e\u0432, \u0447\u0435\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0445\u043e\u0447\u0435\u0448\u044c \u0432\u0438\u0434\u0435\u0442\u044c. 3. \u041d\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0439 \u044d\u0442\u043e \u0432 \u043c\u0430\u0440\u0430\u0444\u043e\u043d \u041d\u0435 \u043d\u0443\u0436\u043d\u043e \u0437\u0430 \u043e\u0434\u0438\u043d \u0447\u0430\u0441 \u043b\u0430\u0439\u043a\u0430\u0442\u044c 300 \u0432\u0438\u0434\u0435\u043e \u043f\u043e\u0434\u0440\u044f\u0434 \ud83d\ude2d \u041b\u0443\u0447\u0448\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f TikTok \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u0445\u043e\u0434\u043e\u0432 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f. 4. \u041f\u043e\u0442\u043e\u043c \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439 \u0441\u0432\u043e\u0451 \u0415\u0441\u043b\u0438 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 \u0434\u043b\u044f \u044d\u0434\u0438\u0442\u043e\u0432, \u043f\u0435\u0440\u0432\u044b\u0435 \u0440\u043e\u043b\u0438\u043a\u0438 \u043b\u0443\u0447\u0448\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u0438\u043c\u0435\u043d\u043d\u043e \u0432 \u044d\u0442\u043e\u0439 \u0442\u0435\u043c\u0435, \u0447\u0442\u043e\u0431\u044b \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u043b\u0438 \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439 \u0441\u0438\u0433\u043d\u0430\u043b \u043e \u0442\u0432\u043e\u0435\u0439 \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u0438. \u041d\u0435 \u0441\u043e\u0432\u0435\u0442\u0443\u044e: \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u044c \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u044b/\u043b\u0430\u0439\u043a\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u043e\u0442\u043e\u0432 \u0438\u2026",
+   "url": "https://www.tiktok.com/@melstroqbdh/video/7695835149023448326",
+   "rank": 19,
+   "list_size": 30,
+   "author": "@melstroqbdh",
+   "summary_src": "Sound: original sound - aerffections.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1200000,
+    "likes": 208700,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7695835149023448326.webp",
+    "embed": "https://www.tiktok.com/player/v1/7695835149023448326?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 37.9,
+    "_returning": true,
+    "_velocity": 45.4,
+    "_engagement_pct": 72.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "23a8b7e20606"
+  },
+  {
+   "platform": "memes",
+   "title": "Ethan Klein Cheating Controversy H3 Affair Scandal",
+   "url": "https://knowyourmeme.com/memes/events/ethan-klein-cheating-controversy-h3-affair-scandal",
+   "rank": 8,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/665/Ethan_Klein_Cheating_Controversy_banner.jpg",
+    "_group_size": 12,
+    "_reach_pct": 36.4,
+    "_velocity": 65.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 39.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5cc19d8636fe"
+  },
+  {
+   "platform": "reddit",
+   "title": "I hate cheaters and cheating",
+   "url": "https://www.reddit.com/r/memes/comments/1xrj18k/i_hate_cheaters_and_cheating/",
+   "rank": 10,
+   "list_size": 15,
+   "author": "r/memes /u/The_BB_Bear",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/leok4dm8si0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 53.8,
+    "_velocity": 40.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4a5173c27b80"
+  },
+  {
+   "platform": "youtube",
+   "title": "Kevin Gates - Coffee Grounds",
+   "url": "https://www.youtube.com/watch?v=Nj16VkEACBA",
+   "rank": 13,
+   "list_size": 50,
+   "author": "kevingatesTV",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 97400,
+    "likes": 5660,
+    "comments": 508,
+    "image": "https://i.ytimg.com/vi/Nj16VkEACBA/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 6.9,
+    "_velocity": 76.0,
+    "_engagement_pct": 86.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d1071b5b92b1"
+  },
+  {
+   "platform": "youtube",
+   "title": "\u0950 \u091c\u092f \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092e\u093e\u0924\u093e \u0906\u0930\u0924\u0940 | Om Jai Lakshmi Mata Aarti | Laxmi Ji Ki Aarti | \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u0906\u0930\u0924\u0940 | Lakshmi Song",
+   "url": "https://www.youtube.com/watch?v=w4y3jmtFJHg",
+   "rank": 28,
+   "list_size": 50,
+   "author": "Bhajan India",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 825000,
+    "likes": 1780,
+    "comments": 83,
+    "image": "https://i.ytimg.com/vi/w4y3jmtFJHg/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 75.9,
+    "_velocity": 46.0,
+    "_engagement_pct": 3.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "ccdde41e79f1"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Third quarter was delayed to capture the corgi \ud83d\ude02 (\ud83d\udcfa CBS) #nflfootball #funny",
+   "url": "https://www.tiktok.com/@espn/video/7705894194782489870",
+   "rank": 16,
+   "list_size": 30,
+   "author": "@espn",
+   "summary_src": "Sound: original sound - espn.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "views": 1800000,
+    "likes": 244000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7705894194782489870.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7705894194782489870?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 48.3,
+    "_velocity": 50.0,
+    "_engagement_pct": 44.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "69952689f47d"
+  },
+  {
+   "platform": "reddit",
+   "title": "Read",
+   "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
+   "rank": 12,
+   "list_size": 25,
+   "author": "r/popular /u/Dev1412",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/mhm3ehzv4i0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 41.0,
+    "_velocity": 56.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 38.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "296d0c6b3e51"
+  },
+  {
+   "platform": "x",
+   "title": "Puka",
+   "url": "https://twitter.com/search?q=Puka",
+   "rank": 24,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 41.0,
+    "_velocity": 54.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 37.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "67ef59e0ce9a"
+  },
+  {
+   "platform": "google_trends",
+   "title": "junior - c\u00facuta",
+   "url": "https://trends.google.com/trending?geo=US&search=junior%20-%20c\u00facuta",
+   "rank": 3,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Cu\u00e1ndo juegan Junior vs. C\u00facuta por Liga BetPlay: equipo, fecha, hora y TV en vivo (via ESPN Deportes)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 500,
+    "news_url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17488974/junior-vs-cucuta-fecha-18-liga-betplay-equipo-fecha-hora-y-tv-en-vivo",
+    "news_title": "Cu\u00e1ndo juegan Junior vs. C\u00facuta por Liga BetPlay: equipo, fecha, hora y TV en vivo",
+    "news_source": "ESPN Deportes",
+    "_group_size": 10,
+    "_reach_pct": 11.1,
+    "_velocity": 92.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 36.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "844314f0fe6f"
+  },
+  {
+   "platform": "youtube",
+   "title": "I Built a clan base as a solo in Rust...",
+   "url": "https://www.youtube.com/watch?v=1aYGZCO6rmo",
+   "rank": 29,
+   "list_size": 50,
+   "author": "Willjum",
+   "summary_src": "Gaming video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 374000,
+    "likes": 11100,
+    "comments": 767,
+    "image": "https://i.ytimg.com/vi/1aYGZCO6rmo/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 41.4,
+    "_velocity": 44.0,
+    "_engagement_pct": 55.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 36.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3f8811da7a04"
+  },
+  {
+   "platform": "x",
+   "title": "Marvel",
+   "url": "https://twitter.com/search?q=Marvel",
+   "rank": 25,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 38.5,
+    "_velocity": 52.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 36.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "51e51d019704"
+  },
+  {
+   "platform": "youtube",
+   "title": "Top 50 Christmas Songs of All Time\ud83c\udf84Best Christmas Songs Playlist",
+   "url": "https://www.youtube.com/watch?v=7KNUYh9Xh1c",
+   "rank": 26,
+   "list_size": 50,
+   "author": "Christmas Songs and Carols - Love to Sing",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 476000,
+    "likes": 1570,
+    "comments": 107,
+    "image": "https://i.ytimg.com/vi/7KNUYh9Xh1c/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 55.2,
+    "_returning": true,
+    "_velocity": 59.5,
+    "_engagement_pct": 10.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 36.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7c1f64597788"
+  },
+  {
+   "platform": "youtube",
+   "title": "Becoming a VAMPIRE to Escape GIRLS ONLY PRISON..",
+   "url": "https://www.youtube.com/watch?v=NPFJZad75Tg",
+   "rank": 27,
+   "list_size": 50,
+   "author": "Cash",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 428000,
+    "likes": 4400,
+    "comments": 554,
+    "image": "https://i.ytimg.com/vi/NPFJZad75Tg/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 48.3,
+    "_velocity": 48.0,
+    "_engagement_pct": 34.5,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e85c59c26668"
+  },
+  {
+   "platform": "reddit",
+   "title": "Corgi escapes during NFL games and embarrasses multiple grown men",
+   "url": "https://www.reddit.com/r/funny/comments/1xrrozn/corgi_escapes_during_nfl_games_and_embarrasses/",
+   "rank": 13,
+   "list_size": 25,
+   "author": "r/popular /u/Cultural_Fall_3255",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 35.9,
+    "_velocity": 52.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b67b47746275"
+  },
+  {
+   "platform": "reddit",
+   "title": "We believe you",
+   "url": "https://www.reddit.com/r/memes/comments/1xrnp7i/we_believe_you/",
+   "rank": 11,
+   "list_size": 15,
+   "author": "r/memes /u/Electronic_Lab5486",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/0fqfhhmd7k0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 48.7,
+    "_velocity": 33.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "efd84507a6dd"
+  },
+  {
+   "platform": "x",
+   "title": "Lanterns",
+   "url": "https://twitter.com/search?q=Lanterns",
+   "rank": 26,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 35.9,
+    "_velocity": 50.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 35.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a322328e46ab"
+  },
+  {
+   "platform": "youtube",
+   "title": "Avengers Doomsday Weird Marketing | VisionQuest Final Trailer | X-Men Cast Update | NR Podcast",
+   "url": "https://www.youtube.com/watch?v=fc5Ohn0Q-OM",
+   "rank": 8,
+   "list_size": 50,
+   "author": "New Rockstars",
+   "summary_src": "Entertainment video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 108000,
+    "likes": 1950,
+    "comments": 193,
+    "image": "https://i.ytimg.com/vi/fc5Ohn0Q-OM/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 13.8,
+    "_velocity": 86.0,
+    "_engagement_pct": 41.4,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 34.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "22a2aad860af"
+  },
+  {
+   "platform": "memes",
+   "title": "Code Rot Filter Yep Its Code Rotted Indeed",
+   "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+   "rank": 9,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/661/coderotcover.jpg",
+    "_group_size": 12,
+    "_reach_pct": 27.3,
+    "_velocity": 60.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 34.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7d3945e47c3d"
+  },
+  {
+   "platform": "x",
+   "title": "Man of Tomorrow",
+   "url": "https://twitter.com/search?q=Man%20of%20Tomorrow",
+   "rank": 27,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 33.3,
+    "_velocity": 48.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 33.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "eca7a9cc05ad"
+  },
+  {
+   "platform": "reddit",
+   "title": "challenger",
+   "url": "https://www.reddit.com/r/comics/comments/1xrqlsx/challenger/",
+   "rank": 14,
+   "list_size": 25,
+   "author": "r/popular /u/theycantalk",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/xad5qt0q0l0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 30.8,
+    "_velocity": 48.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 32.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "dc238e56c9be"
+  },
+  {
+   "platform": "x",
+   "title": "DC Studios",
+   "url": "https://twitter.com/search?q=DC%20Studios",
+   "rank": 28,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 30.8,
+    "_velocity": 46.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 32.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "32e45f5c17f0"
+  },
+  {
+   "platform": "reddit",
+   "title": "Tech bros will be tech bros",
+   "url": "https://www.reddit.com/r/memes/comments/1xs0kwu/tech_bros_will_be_tech_bros/",
+   "rank": 12,
+   "list_size": 15,
+   "author": "r/memes /u/MahmoudAO",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/cl79kb06ym0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 43.6,
+    "_velocity": 26.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 31.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0b57e3cce036"
+  },
+  {
+   "platform": "tiktok",
+   "title": "#hk #hellokitty #cafe #dateidea",
+   "url": "https://www.tiktok.com/@ouhwhois_she/video/7689140069629824269",
+   "rank": 23,
+   "list_size": 30,
+   "author": "@ouhwhois_she",
+   "summary_src": "Sound: original sound - relatable_pjo.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 837000,
+    "likes": 190100,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7689140069629824269.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7689140069629824269?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 24.1,
+    "_velocity": 26.7,
+    "_engagement_pct": 79.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 31.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0a5a373d81bb"
+  },
+  {
+   "platform": "tiktok",
+   "title": "#fyp #sza #birthday #blowthisup? @SZA",
+   "url": "https://www.tiktok.com/@coralinewybiejones._/video/7705788226711129375",
+   "rank": 25,
+   "list_size": 30,
+   "author": "@coralinewybiejones._",
+   "summary_src": "Sound: original sound - coralinewybiejones._.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 660600,
+    "likes": 187100,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7705788226711129375.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7705788226711129375?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 17.2,
+    "_velocity": 20.0,
+    "_engagement_pct": 100.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 31.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b8538bf54a4d"
+  },
+  {
+   "platform": "google_trends",
+   "title": "cj beach",
+   "url": "https://trends.google.com/trending?geo=US&search=cj%20beach",
+   "rank": 5,
+   "list_size": 25,
+   "author": "",
+   "summary_src": "Country Singer CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show (via Yahoo)",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "search_volume": 200,
+    "news_url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/country-singer-cj-beach-dead-184545992.html",
+    "news_title": "Country Singer CJ Beach Dead at 22 Following Tragic Car Crash Just Hours After His Final Show",
+    "news_source": "Yahoo",
+    "_group_size": 10,
+    "_reach_pct": 0.0,
+    "_velocity": 84.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 31.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "0dc4d97d0ea8"
+  },
+  {
+   "platform": "youtube",
+   "title": "Fatt Smaxk - Nov 8th [Official Music Video]",
+   "url": "https://www.youtube.com/watch?v=oRzM6PKg29g",
+   "rank": 22,
+   "list_size": 50,
+   "author": "Fatt Smaxk",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 44900,
+    "likes": 2360,
+    "comments": 135,
+    "image": "https://i.ytimg.com/vi/oRzM6PKg29g/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 3.4,
+    "_velocity": 58.0,
+    "_engagement_pct": 75.9,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 30.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "75086d543744"
+  },
+  {
+   "platform": "x",
+   "title": "Lauren Boebert",
+   "url": "https://twitter.com/search?q=Lauren%20Boebert",
+   "rank": 29,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 28.2,
+    "_velocity": 44.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 30.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "77e1dd8592ae"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Good morning, New Yorkers \ud83c\uddfa\ud83c\uddf8\u2600\ufe0f wishing everyone a happy weekend! It\u2019s going to be a beautiful sunny day in the city, the kind that makes NYC feel extra alive. Perfect weather to step outside, explore, and fall in love with these streets all over again \u2728 Here are 5 iconic spots from my video you need to see\ud83d\udc47 1\ufe0f\u20e3 Steinway Tower \ud83c\udfd9\ufe0f One of the skinniest skyscrapers in the world, this tower is a true architectural masterpiece. Its elegant design and \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e slim silhouette make it stand out even in NYC\u2019s famous skyline 2\ufe0f\u20e3 Louis Vuitton 5th Avenue \ud83d\udecd\ufe0f This flagship store is not just shopping\u2014it\u2019s an experience. Known for its bold window displays and luxury vibe, it\u2019s a must-see stop on Fifth Avenue 3\ufe0f\u20e3 Chrysler Building \u2728 An Art Deco icon that never goes out of style. Its crown and detai\u2026",
+   "url": "https://www.tiktok.com/@united.stats.of.a/video/7689135770782780702",
+   "rank": 24,
+   "list_size": 30,
+   "author": "@united.stats.of.a",
+   "summary_src": "Sound: original sound - travelusa_withme.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 667800,
+    "likes": 77200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7689135770782780702.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7689135770782780702?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 20.7,
+    "_velocity": 23.3,
+    "_engagement_pct": 37.9,
+    "_spread": 50.0,
+    "_platforms_in_cluster": 3
+   },
+   "virality": 30.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5bf2ad904fcb"
+  },
+  {
+   "platform": "memes",
+   "title": "Meximutt O Algo",
+   "url": "https://knowyourmeme.com/memes/meximutt-o-algo",
+   "rank": 10,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/656/Screenshot_2026-10-21_152120.png",
+    "_group_size": 12,
+    "_reach_pct": 18.2,
+    "_velocity": 55.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 30.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b9bd26796840"
+  },
+  {
+   "platform": "reddit",
+   "title": "I love modern headlights",
+   "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xs236i/i_love_modern_headlights/",
+   "rank": 15,
+   "list_size": 25,
+   "author": "r/popular /u/LarsVG18",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/bklxnn5k7n0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 25.6,
+    "_velocity": 44.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 30.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e83d63bf22d3"
+  },
+  {
+   "platform": "tiktok",
+   "title": "\u042d\u0434\u0438\u0442 \u043d\u0435 \u043c\u043e\u0439 \ud83d\udcf1 \u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0435\u0432 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0432 TikTok? \u041f\u0440\u043e\u0433\u0440\u0435\u0432 \u2014 \u044d\u0442\u043e \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u043e\u0439 \u0438 \u0435\u0451 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u043c \u043f\u0435\u0440\u0435\u0434 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u043c \u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430. \u2022 \u0418\u0437\u0443\u0447\u0430\u0439 \u0432\u0438\u0434\u0435\u043e \u0432 \u0441\u0432\u043e\u0435\u0439 \u043d\u0438\u0448\u0435 \u2022 \u041d\u0430\u0445\u043e\u0434\u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u2022 \u0412\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0439 \u0441 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u043c \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u2022 \u041f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0439 \u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0443 \u0441\u0432\u043e\u0435\u0433\u043e \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 \u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u2014 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u2728 #\u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u044b #rec #\u043a\u0430\u043a\u043f\u0440\u043e\u0433\u0440\u0435\u0442\u044c\u0430\u043a\u043a\u0430\u0443\u043d\u0442 #\u043f\u0440\u043e\u0433\u0440\u0435\u0432\u0430\u043a\u043a\u0430 #\u043f\u0440\u043e\u0433\u0440\u0435\u0432\u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 #\u043f\u0440\u043e\u0433\u0440\u0435\u0432 #fyp #\u0441\u0441\u044b\u043b\u043a\u0430 #\u044d\u0434\u0438\u0442 #\u043c\u0435\u043d\u0442\u0430\u043b\u0438\u0441\u0442 #\u043f\u0430\u0442\u0440\u0438\u043a\u0434\u0436\u0435\u0439\u043d",
+   "url": "https://www.tiktok.com/@trojan6720/video/7699144299006397727",
+   "rank": 21,
+   "list_size": 30,
+   "author": "@trojan6720",
+   "summary_src": "Sound: original sound - trojan6720.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1000000,
+    "likes": 159900,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7699144299006397727.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7699144299006397727?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 27.6,
+    "_velocity": 33.3,
+    "_engagement_pct": 58.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 29.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "eb76364f6952"
+  },
+  {
+   "platform": "youtube",
+   "title": "Overload",
+   "url": "https://www.youtube.com/watch?v=yR_jvunFIJI",
+   "rank": 24,
+   "list_size": 50,
+   "author": "Sean Rii - Topic",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 99600,
+    "likes": 3630,
+    "comments": 127,
+    "image": "https://i.ytimg.com/vi/yR_jvunFIJI/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 10.3,
+    "_velocity": 54.0,
+    "_engagement_pct": 62.1,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 29.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b2f1375a598e"
+  },
+  {
+   "platform": "x",
+   "title": "McVay",
+   "url": "https://twitter.com/search?q=McVay",
+   "rank": 30,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 25.6,
+    "_velocity": 42.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 29.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "9110f0f64493"
+  },
+  {
+   "platform": "youtube",
+   "title": "2 Hour Top Christmas Songs of All Time \ud83c\udf84 Best Christmas Music Playlist 2027 \ud83c\udf85 Merry Christmas Songs",
+   "url": "https://www.youtube.com/watch?v=a8Eo7m-tpb0",
+   "rank": 7,
+   "list_size": 50,
+   "author": "Winter Glow Christmas",
+   "summary_src": "People & Blogs video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 117000,
+    "likes": 352,
+    "comments": 10,
+    "image": "https://i.ytimg.com/vi/a8Eo7m-tpb0/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 17.2,
+    "_velocity": 88.0,
+    "_engagement_pct": 6.9,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 29.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "131d38472bca"
+  },
+  {
+   "platform": "linkedin",
+   "title": "The creator economy is booming \u2014 and it\u2019s taking over Paris this week",
+   "url": "https://www.linkedin.com/posts/linkedin-news_activity-7524131437260763137-nCeS",
+   "rank": 4,
+   "list_size": 10,
+   "author": "LinkedIn News",
+   "summary_src": "The creator economy is booming \u2014 and it\u2019s taking over Paris this week. LinkedIn data shows that professional creators have grown by 60% globally since 2024; that number jumps to 62% in France. I\u2019m feeling that extra 2pp energy on the ground here at Paris Creator Week. (Nerd joke!) Thousands of creators, agencies, brands and platforms descended on the Halles de Villette this week to talk about\u2026",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "_group_size": 4,
+    "_reach_pct": 0.0,
+    "_returning": true,
+    "_velocity": 74.5,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a81bbba66838"
+  },
+  {
+   "platform": "reddit",
+   "title": "Resident Evil 2 warned us about falling for CCP spies",
+   "url": "https://www.reddit.com/r/memes/comments/1xs3x1h/resident_evil_2_warned_us_about_falling_for_ccp/",
+   "rank": 13,
+   "list_size": 15,
+   "author": "r/memes /u/GrindBastard1986",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/fmax80ydkn0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 38.5,
+    "_velocity": 20.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "ff0d30be4d8f"
+  },
+  {
+   "platform": "youtube",
+   "title": "Almas Gemelas",
+   "url": "https://www.youtube.com/watch?v=VPeSDr4oNEY",
+   "rank": 20,
+   "list_size": 50,
+   "author": "El Trono De Mexico - Topic",
+   "summary_src": "Music video.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 172000,
+    "likes": 1380,
+    "comments": 2,
+    "image": "https://i.ytimg.com/vi/VPeSDr4oNEY/hqdefault.jpg",
+    "_group_size": 30,
+    "_reach_pct": 20.7,
+    "_velocity": 62.0,
+    "_engagement_pct": 27.6,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "238e1871916a"
+  },
+  {
+   "platform": "tiktok",
+   "title": "I\u2019m Spider-man \ud83d\ude02",
+   "url": "https://www.tiktok.com/@babybiskitjohns/video/7705563687314132254",
+   "rank": 18,
+   "list_size": 30,
+   "author": "@babybiskitjohns",
+   "summary_src": "Sound: original sound - babybiskitjohns.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1600000,
+    "likes": 121000,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7705563687314132254.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7705563687314132254?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 41.4,
+    "_velocity": 43.3,
+    "_engagement_pct": 13.8,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "7b277a3ffb83"
+  },
+  {
+   "platform": "x",
+   "title": "Supergirl",
+   "url": "https://twitter.com/search?q=Supergirl",
+   "rank": 31,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 23.1,
+    "_velocity": 40.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "a7d73ed82a67"
+  },
+  {
+   "platform": "reddit",
+   "title": "Russell Brand Sentenced To 10 Years In Prison",
+   "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
+   "rank": 16,
+   "list_size": 25,
+   "author": "r/popular /u/Other-Bother-6762",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 23.1,
+    "_velocity": 40.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 28.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "fc08a9ee684e"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Video by @jollyuser_",
+   "url": "https://www.tiktok.com/@jollyuser_/video/7690506857382677773",
+   "rank": 26,
+   "list_size": 30,
+   "author": "@jollyuser_",
+   "summary_src": "Sound: original sound - icouldshowume.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 571200,
+    "likes": 136700,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7690506857382677773.webp",
+    "embed": "https://www.tiktok.com/player/v1/7690506857382677773?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 13.8,
+    "_velocity": 16.7,
+    "_engagement_pct": 93.1,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 27.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3dea252ac088"
+  },
+  {
+   "platform": "x",
+   "title": "Beane",
+   "url": "https://twitter.com/search?q=Beane",
+   "rank": 32,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 20.5,
+    "_velocity": 38.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 26.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b69ff52fffa7"
+  },
+  {
+   "platform": "reddit",
+   "title": "TIL that Whoopi Goldberg's real name is Caryn Johnson, and she adopted the last name \"Goldberg\" at her mother's suggestion because a Jewish-sounding name gave her a better chance of making it in Hollywood.",
+   "url": "https://www.reddit.com/r/todayilearned/comments/1xre4s7/til_that_whoopi_goldbergs_real_name_is_caryn/",
+   "rank": 17,
+   "list_size": 25,
+   "author": "r/popular /u/Ok_Kaleidoscope_5837",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 20.5,
+    "_velocity": 36.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 26.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "64d2fe07e159"
+  },
+  {
+   "platform": "memes",
+   "title": "Nvidia Ceo Jensen Huang Chinese Spy Cheating Controversy",
+   "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+   "rank": 11,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/742/honeypottedcover.jpg",
+    "_group_size": 12,
+    "_reach_pct": 9.1,
+    "_velocity": 50.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 25.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3df1dd2a7318"
+  },
+  {
+   "platform": "x",
+   "title": "DACA",
+   "url": "https://twitter.com/search?q=DACA",
+   "rank": 33,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 17.9,
+    "_velocity": 36.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 25.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "813e3facbb9b"
+  },
+  {
+   "platform": "reddit",
+   "title": "It always notices. Every single time",
+   "url": "https://www.reddit.com/r/memes/comments/1xrwdai/it_always_notices_every_single_time/",
+   "rank": 14,
+   "list_size": 15,
+   "author": "r/memes /u/MahmoudAO",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/gw0o34ur6m0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 33.3,
+    "_velocity": 13.3,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 25.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "2ead7a0dd4c4"
+  },
+  {
+   "platform": "reddit",
+   "title": "The birds have had enough.",
+   "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrfdxi/the_birds_have_had_enough/",
+   "rank": 18,
+   "list_size": 25,
+   "author": "r/popular /u/coloradotaxguy",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/18sciv09uh0i1.png",
+    "_group_size": 40,
+    "_reach_pct": 17.9,
+    "_velocity": 32.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 24.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "b6a0e82fbb5e"
+  },
+  {
+   "platform": "x",
+   "title": "Big Bend",
+   "url": "https://twitter.com/search?q=Big%20Bend",
+   "rank": 34,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 15.4,
+    "_velocity": 34.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 23.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3b65d6df1bf9"
+  },
+  {
+   "platform": "tiktok",
+   "title": "19 Genius salt Hacks Every Household Needs to Know! #lifehacks #clean #tip #tipsandtricks #lifetips",
+   "url": "https://www.tiktok.com/@simply.happier4/video/7702114708375031062",
+   "rank": 20,
+   "list_size": 30,
+   "author": "@simply.happier4",
+   "summary_src": "Sound: original sound - simply.happier4.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1100000,
+    "likes": 54800,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7702114708375031062.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7702114708375031062?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 34.5,
+    "_velocity": 36.7,
+    "_engagement_pct": 10.3,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 23.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "140b89e62046"
+  },
+  {
+   "platform": "x",
+   "title": "Josh Allen",
+   "url": "https://twitter.com/search?q=Josh%20Allen",
+   "rank": 35,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 12.8,
+    "_velocity": 32.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 22.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "17cacce30e2a"
+  },
+  {
+   "platform": "reddit",
+   "title": "We all are not safe from a honeypot",
+   "url": "https://www.reddit.com/r/SipsTea/comments/1xrjfv0/we_all_are_not_safe_from_a_honeypot/",
+   "rank": 19,
+   "list_size": 25,
+   "author": "r/popular /u/Matt_LawDT",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/t97zlbr8wi0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 15.4,
+    "_velocity": 28.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 22.4,
+   "tier": "Watch",
+   "why": [],
+   "uid": "e973c2677238"
+  },
+  {
+   "platform": "tiktok",
+   "title": "#xyzbca #viralvideo #relatable #fyp",
+   "url": "https://www.tiktok.com/@user0685332144/video/7697054813208464671",
+   "rank": 28,
+   "list_size": 30,
+   "author": "@user0685332144",
+   "summary_src": "Sound: original sound - zhirelle.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 353500,
+    "likes": 81400,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7697054813208464671.webp",
+    "embed": "https://www.tiktok.com/player/v1/7697054813208464671?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 6.9,
+    "_velocity": 10.0,
+    "_engagement_pct": 86.2,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 22.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "4609ec00ca75"
+  },
+  {
+   "platform": "tiktok",
+   "title": "reminiscing i guess",
+   "url": "https://www.tiktok.com/@sabrifye/video/7700732303634418958",
+   "rank": 27,
+   "list_size": 30,
+   "author": "@sabrifye",
+   "summary_src": "Sound: original sound - wispccore.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 376700,
+    "likes": 79900,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7700732303634418958.webp",
+    "embed": "https://www.tiktok.com/player/v1/7700732303634418958?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 10.3,
+    "_velocity": 13.3,
+    "_engagement_pct": 75.9,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 22.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "9ba0d9542f6f"
+  },
+  {
+   "platform": "reddit",
+   "title": "Get the look",
+   "url": "https://www.reddit.com/r/memes/comments/1xrh9lw/get_the_look/",
+   "rank": 15,
+   "list_size": 15,
+   "author": "r/memes /u/EverSoInfinite",
+   "summary_src": "Top of r/memes today on Reddit.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.redd.it/btvdds06bi0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 28.2,
+    "_velocity": 6.7,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 21.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "24d38c019870"
+  },
+  {
+   "platform": "memes",
+   "title": "Fortnite Pirate Shop Token Pirate Coin",
+   "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+   "rank": 12,
+   "list_size": 20,
+   "author": "Know Your Meme",
+   "summary_src": "Meme entry surfacing on Know Your Meme's front page today.",
+   "published_hint": "",
+   "is_meme": true,
+   "metrics": {
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/057/737/Screenshot_2026-11-09_162055.png",
+    "_group_size": 12,
+    "_reach_pct": 0.0,
+    "_velocity": 45.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 21.2,
+   "tier": "Watch",
+   "why": [],
+   "uid": "60827e33fe27"
+  },
+  {
+   "platform": "x",
+   "title": "Dezz",
+   "url": "https://twitter.com/search?q=Dezz",
+   "rank": 36,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 10.3,
+    "_velocity": 30.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 21.1,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3518ea617b63"
+  },
+  {
+   "platform": "reddit",
+   "title": "They treated those immigrants poorly too.",
+   "url": "https://www.reddit.com/r/MurderedByWords/comments/1xrfbds/they_treated_those_immigrants_poorly_too/",
+   "rank": 20,
+   "list_size": 25,
+   "author": "r/popular /u/c-k-q99903",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/knet75blth0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 12.8,
+    "_velocity": 24.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 20.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d297a600afe5"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Creamy Parmesan Garlic Beef Bowtie Pasta Ingredients: 1 lb ground beef 3 teaspoons olive oil 5-6 cloves garlic, minced 1 small onion, finely chopped 1 teaspoon Worcestershire sauce  1 teaspoon Italian seasoning  1/2 teaspoon smoked paprika  3 tablespoons butter 3 cups beef broth 8 oz Bowtie Pasta 1 cup freshly grated Parmesan cheese 3/4 cup half and half (or whole milk) 1/2 teaspoon salt (adjust to taste) 1/4 teaspoon black pepper 1/2 teaspoon red pepper flakes 1-2 tablespoons fresh parsley, finely chopped Directions: Directions: Heat olive oil in a large skillet over medium-high heat. Add ground beef and cook until browned, breaking it apart as it cooks. Once browned, drain any excess fat if necessary. Add the chopped onion and garlic to the beef. Cook for 2-3 minutes until the onion is s\u2026",
+   "url": "https://www.tiktok.com/@315justme/video/7691533111737322782",
+   "rank": 22,
+   "list_size": 30,
+   "author": "@315justme",
+   "summary_src": "Sound: Shining Star.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 1000000,
+    "likes": 25200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7691533111737322782.webp",
+    "embed": "https://www.tiktok.com/player/v1/7691533111737322782?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 31.0,
+    "_velocity": 30.0,
+    "_engagement_pct": 6.9,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 19.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "3a8a3acc3eef"
+  },
+  {
+   "platform": "x",
+   "title": "Peacemaker",
+   "url": "https://twitter.com/search?q=Peacemaker",
+   "rank": 37,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 7.7,
+    "_velocity": 28.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 19.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "acc2d7d8d713"
+  },
+  {
+   "platform": "reddit",
+   "title": "A true samurai knows when to stay his blade",
+   "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xrgp85/a_true_samurai_knows_when_to_stay_his_blade/",
+   "rank": 21,
+   "list_size": 25,
+   "author": "r/popular /u/Phoenix-909",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 10.3,
+    "_velocity": 20.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 18.6,
+   "tier": "Watch",
+   "why": [],
+   "uid": "5737f6bac35c"
+  },
+  {
+   "platform": "x",
+   "title": "Justice League",
+   "url": "https://twitter.com/search?q=Justice%20League",
+   "rank": 38,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 5.1,
+    "_velocity": 26.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 18.3,
+   "tier": "Watch",
+   "why": [],
+   "uid": "d9284942ecbf"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Welcome to the United States of America\ud83c\uddfa\ud83c\uddf8 Just 1 week until America\u2019s 250th Birthday! \ud83c\udf89\u2728 From spectacular fireworks and patriotic celebrations to parades, concerts, festivals and special events across the country, it\u2019s one of the most exciting times to visit the USA\u2764\ufe0f\ud83e\udd0d\ud83d\udc99 Now step into New York City \ud83d\uddfd\u2728 The city that never sleeps, where iconic landmarks, incredible architecture and unforgettable energy come together around every corner \ud83d\udccd10 Must-Visit Locations in NYC 1\ufe0f\u20e3 Statue of Liberty \ud83d\uddfd The ultimate symbol of freedom and one of America\u2019s most famous landmarks 2\ufe0f\u20e3 Central Park \ud83c\udf33 Escape the city\u2019s hustle with beautiful paths, lakes, and iconic views 3\ufe0f\u20e3 Times Square \u2728 Bright lights, giant billboards and nonstop energy day and night 4\ufe0f\u20e3 Brooklyn Bridge \ud83c\udf09 Walk across for breathtakin\u2026",
+   "url": "https://www.tiktok.com/@usatravelvideo0/video/7694624980423773471",
+   "rank": 30,
+   "list_size": 30,
+   "author": "@usatravelvideo0",
+   "summary_src": "Sound: original sound - realalinabruse.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 312700,
+    "likes": 35300,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7694624980423773471.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7694624980423773471?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 0.0,
+    "_velocity": 3.3,
+    "_engagement_pct": 31.0,
+    "_spread": 50.0,
+    "_platforms_in_cluster": 3
+   },
+   "virality": 17.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "c058ec927cb1"
+  },
+  {
+   "platform": "x",
+   "title": "Skydance",
+   "url": "https://twitter.com/search?q=Skydance",
+   "rank": 39,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 2.6,
+    "_velocity": 24.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 16.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "55b64db7f2d5"
+  },
+  {
+   "platform": "reddit",
+   "title": "2006:Boss",
+   "url": "https://www.reddit.com/r/MemeVideos/comments/1xre3yo/2006boss/",
+   "rank": 22,
+   "list_size": 25,
+   "author": "r/popular /u/HotVeterinarian4716",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "",
+    "_group_size": 40,
+    "_reach_pct": 7.7,
+    "_velocity": 16.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 16.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "2d6e41df6a0e"
+  },
+  {
+   "platform": "x",
+   "title": "DJ Moore",
+   "url": "https://twitter.com/search?q=DJ%20Moore",
+   "rank": 40,
+   "list_size": 50,
+   "author": "",
+   "summary_src": "Trending topic on X in the United States right now.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "tweet_volume": 0,
+    "_group_size": 40,
+    "_reach_pct": 0.0,
+    "_velocity": 22.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 15.5,
+   "tier": "Watch",
+   "why": [],
+   "uid": "c912316fe021"
+  },
+  {
+   "platform": "reddit",
+   "title": "Diabetes can finally be cured permanently!",
+   "url": "https://www.reddit.com/r/interesting/comments/1xrieh0/diabetes_can_finally_be_cured_permanently/",
+   "rank": 23,
+   "list_size": 25,
+   "author": "r/popular /u/Negative_1by12_aura",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/i2tglo7wli0i1.png",
+    "_group_size": 40,
+    "_reach_pct": 5.1,
+    "_velocity": 12.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 14.8,
+   "tier": "Watch",
+   "why": [],
+   "uid": "dc5ddc91d3fb"
+  },
+  {
+   "platform": "reddit",
+   "title": "Say hello to Starbuck's New Braised Short Rib Grilled Cheese",
+   "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrv3bd/say_hello_to_starbucks_new_braised_short_rib/",
+   "rank": 24,
+   "list_size": 25,
+   "author": "r/popular /u/MightMightNot",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/o6qfyyc5yl0i1.jpeg",
+    "_group_size": 40,
+    "_reach_pct": 2.6,
+    "_velocity": 8.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 12.9,
+   "tier": "Watch",
+   "why": [],
+   "uid": "af45227d95f7"
+  },
+  {
+   "platform": "reddit",
+   "title": "Delhi\u2019s AQI Reportedly Hits a World Record: 2,374+",
+   "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrh3a6/delhis_aqi_reportedly_hits_a_world_record_2374/",
+   "rank": 25,
+   "list_size": 25,
+   "author": "r/popular /u/Fun-Garbage-1386",
+   "summary_src": "Top of r/popular today on Reddit.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "image": "https://i.redd.it/8u3zuy6d9i0i1.png",
+    "_group_size": 40,
+    "_reach_pct": 0.0,
+    "_velocity": 4.0,
+    "_engagement_pct": 50.0,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 11.0,
+   "tier": "Watch",
+   "why": [],
+   "uid": "f4b8cf3e6c73"
+  },
+  {
+   "platform": "tiktok",
+   "title": "Pumpkin Patch\ud83c\udf42\ud83c\udf41\ud83e\udd0e #OOTD #fall #outfitinspo #pumpkinpatch #BestFriends",
+   "url": "https://www.tiktok.com/@las.amixs.dm/video/7697433609606548749",
+   "rank": 29,
+   "list_size": 30,
+   "author": "@las.amixs.dm",
+   "summary_src": "Sound: original sound - whimsigothiic.",
+   "published_hint": "",
+   "is_meme": false,
+   "metrics": {
+    "views": 340700,
+    "likes": 38200,
+    "image": "https://cdn.endless.software/public-trends/tiktok/7697433609606548749.jpeg",
+    "embed": "https://www.tiktok.com/player/v1/7697433609606548749?embed_from=oembed&music_info=1&description=1",
+    "_group_size": 30,
+    "_reach_pct": 3.4,
+    "_velocity": 6.7,
+    "_engagement_pct": 24.1,
+    "_spread": 0.0,
+    "_platforms_in_cluster": 1
+   },
+   "virality": 7.7,
+   "tier": "Watch",
+   "why": [],
+   "uid": "cb631005e6d7"
+  }
+ ],
+ "qualified_uids": [
+  "9d26d9253074",
+  "a9c21d053779",
+  "e78540b28db9",
+  "e92c7e9c7007",
+  "36fdf73e36b1",
+  "8f1362a78ed5",
+  "598c293c3db7",
+  "60ea9ad290af",
+  "c4378eaa5f85",
+  "5827fad972fa",
+  "0503f4af0ab9",
+  "7c9b9584e665",
+  "4b8a8241c2bb",
+  "917b003deed0",
+  "5bf2ad904fcb",
+  "c058ec927cb1",
+  "475a82bae453",
+  "044927db0f50",
+  "2a73ad76908d",
+  "46f438c9e8f2",
+  "9c37d4e51bb2",
+  "09e7229fc6e9",
+  "1db6ac73877b",
+  "01fbff896ff4",
+  "c4aa4054c34d",
+  "638bdbf35cb0",
+  "7d4fa1fed82a",
+  "e100f0e0dec8",
+  "61d6ac9632c3",
+  "7b8d338ec237",
+  "18ab34999320",
+  "2ddf059a9479",
+  "dc38fbf548d9",
+  "53dcdc8ef6c7",
+  "9572f83bbe82",
+  "c9ebbad0c93f",
+  "d0e52eca57a6",
+  "69428704cad9",
+  "b3cfc50fbf77"
+ ],
+ "clusters": [
+  {
+   "uids": [
+    "60ea9ad290af",
+    "5bf2ad904fcb",
+    "c058ec927cb1",
+    "61d6ac9632c3"
+   ],
+   "platforms": [
+    "reddit",
+    "tiktok",
+    "youtube"
+   ],
+   "size": 4,
+   "label": "\ud83c\udfaePLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 4\ud83c\udfae",
+   "shared_terms": [
+    "beautiful",
+    "city",
+    "famous",
+    "iconic",
+    "must",
+    "nyc",
+    "park",
+    "step"
+   ],
+   "common_tokens": [
+    "iconic",
+    "every",
+    "until",
+    "must",
+    "famous",
+    "step"
+   ],
+   "max_virality": 53.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "dab2b77787c6",
+    "53dcdc8ef6c7"
+   ],
+   "platforms": [
+    "google_trends",
+    "x"
+   ],
+   "size": 2,
+   "label": "bills schedule",
+   "shared_terms": [
+    "bills"
+   ],
+   "common_tokens": [
+    "bills"
+   ],
+   "max_virality": 55.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c4378eaa5f85",
+    "5827fad972fa",
+    "7c9b9584e665",
+    "4b8a8241c2bb",
+    "4380fb69c467",
+    "f4fcdbc71b85",
+    "98319de31e59",
+    "eb76364f6952",
+    "b8538bf54a4d",
+    "4609ec00ca75"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 10,
+   "label": "A journey through a world beyond reality \ud83c\udf0c\ud83c\udff0\u2728 #darkfantasy #fyp #nostalgia #fantasygame #aesthetic",
+   "shared_terms": [
+    "doo",
+    "fyp",
+    "relatable",
+    "scooby"
+   ],
+   "common_tokens": [
+    "relatable",
+    "scooby",
+    "doo"
+   ],
+   "max_virality": 76.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "475a82bae453"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Jags",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 70.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7b8d338ec237"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Pack your bags",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 70.0,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "c9ebbad0c93f"
+   ],
+   "platforms": [
+    "linkedin"
+   ],
+   "size": 1,
+   "label": "If you\u2019re trying to make a pivot, but the market keeps trying to hand you a role like the one you're leaving, ",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 70.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c4aa4054c34d"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Do you also still keep the original box your cat came in, or have you thrown it away?",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 69.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d0e52eca57a6"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Snow Leopard Paws At You",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 69.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "044927db0f50"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Jordan Davis",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 68.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2a73ad76908d"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Massie",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 67.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e92c7e9c7007"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Aeon \u2605 Aha Character Trailer: \"Let the Die Fly\" | Honkai: Star Rail",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 67.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "0503f4af0ab9",
+    "f979301bd421",
+    "69952689f47d"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 3,
+   "label": "I turned her frown upside down #downsyndrome #Siblings #wholesome #viral #funny",
+   "shared_terms": [
+    "funny"
+   ],
+   "common_tokens": [
+    "funny"
+   ],
+   "max_virality": 67.0,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "18ab34999320",
+    "e25e18c47af6"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 2,
+   "label": "Nobody can agree on anything",
+   "shared_terms": [
+    "agree"
+   ],
+   "common_tokens": [
+    "agree"
+   ],
+   "max_virality": 66.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "638bdbf35cb0"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Me_irl",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 66.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "69428704cad9"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Frutiger Aero Yams",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 66.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "46f438c9e8f2"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Howie",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 65.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9c37d4e51bb2"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Jaguars",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 64.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7d4fa1fed82a"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Bullish for $APPL \ud83d\ude80",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a9c21d053779"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "T1 vs BLG | WORLDS 2026 | Semis Day 2",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2ddf059a9479"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "this is controversy manifest",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "36fdf73e36b1"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "The Legend of Zelda: Ocarina of Time",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "09e7229fc6e9"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Gunn",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 63.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b3cfc50fbf77",
+    "097fcb4c4c2f"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 2,
+   "label": "Memes",
+   "shared_terms": [
+    "memes"
+   ],
+   "common_tokens": [
+    "memes"
+   ],
+   "max_virality": 61.9,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "917b003deed0"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Video by @_hhazza",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 61.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "1db6ac73877b"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Fable 5.2",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 61.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "8f1362a78ed5"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "We are not qualified for this...",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 61.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "dc38fbf548d9"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "syracuse vs indiana",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 61.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9572f83bbe82"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "cavaliers vs hornets",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 61.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e100f0e0dec8"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "My grandma turned 105",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 60.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "598c293c3db7"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "The Strokes - Lonely in the Future (Official Video)",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 60.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "01fbff896ff4"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Hegseth",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 60.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9d26d9253074"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Salish's 12 Games of Christmas | Official Trailer | Netflix",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 60.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c7ff3cb0a231"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Jensen wants to go deep \ud83e\udd40\ud83e\udd40",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 59.6,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "5c01fb002ccc"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "SUIATSU",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 59.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "afdcb4e6823c"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Superman",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 58.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "39f72aab7d8c"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "grizzlies vs raptors",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 58.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "ab0d14103f4d"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Clarice Phelps",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 57.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "f3166ebcb3ac"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Carson Beck",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 57.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "5ce4d0da896d"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Video by @zachscenic",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 56.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d382999cda51"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Mrbeast Chill Out Crashout Edits",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 56.7,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "44799e62b329"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Internet gives, internet takes.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 56.2,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "9956e2794e69"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Eagles",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 56.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7ec2edfb376b",
+    "af45227d95f7"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 2,
+   "label": "George Luca's Wife Couldn't Afford Food on School Trips. So Their Museum Now Sells $2 grilled Cheese Sandwiches",
+   "shared_terms": [
+    "cheese",
+    "grilled"
+   ],
+   "common_tokens": [
+    "grilled",
+    "cheese"
+   ],
+   "max_virality": 55.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a652d7d72601",
+    "a81bbba66838"
+   ],
+   "platforms": [
+    "linkedin"
+   ],
+   "size": 2,
+   "label": "One of my favorite parts of Paris Creator Week was getting to spend time with the creators who are shaping thi",
+   "shared_terms": [
+    "creator",
+    "paris",
+    "week"
+   ],
+   "common_tokens": [
+    "creator",
+    "paris",
+    "week"
+   ],
+   "max_virality": 54.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "cbb14ec111cf"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "TikTok video by @nbcthevoice",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 54.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "5b6fd9be7d50",
+    "b8d0629810a9",
+    "ccdde41e79f1"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 3,
+   "label": "\u0950 \u091c\u092f \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092e\u093e\u0924\u093e \u0906\u0930\u0924\u0940 | Om Jai Lakshmi Mata Aarti | ANURADHA PAUDWAL | \u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092e\u093e\u0924\u093e \u0915\u0940 \u0906\u0930\u0924\u0940",
+   "shared_terms": [
+    "aarti",
+    "jai",
+    "lakshmi",
+    "laxmi",
+    "mata",
+    "om jai lakshmi mata"
+   ],
+   "common_tokens": [
+    "jai",
+    "aarti",
+    "mata",
+    "laxmi",
+    "lakshmi"
+   ],
+   "max_virality": 54.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "588b6bbcb2a3"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Ojomo",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 54.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "6933be76e880"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Kash Doll - I'm The Prize (feat. Ebony Riley) [Official Music Video]",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 53.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "fc8eabb94179"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "claudia sheinbaum",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 53.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "1e53b357279d"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "#horse #horseshoe #horsecare #farrier #tiktokgrowthchallenge",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 52.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d76214329f8a"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "President Volodymyr Zelensky has announced that Russian forces used North Korean KN-23 ballistic missiles in an overnight strike on a key Ukrainian energy facility, with air defenses able to intercept only four of 36 ballistic missiles due to an acute shortage of Patriot interceptors",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 52.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "565640dbcf01"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Malfoid Female Draco Malfoy",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 52.2,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "666955dc7e07"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Batman",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 51.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "272587f7263d"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Snyder",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 50.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7f089b548a9a"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Bro sacrifice his forehead for this",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 49.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "4b941e94bbee"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Reality mimics fiction",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 49.2,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "16372f6393fc"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "#DUUUVAL",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 49.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a0421482d921"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Automating Nether Stars - Sky Factory Season 7 EP 9",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 48.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "6ac712bd8bcb"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Jalen Carter",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 47.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "bca43f0c1cb1"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Abandoned 36 hours after birth due to Treacher Collins syndrome and rejected again as an adult, Jono Lancaster dedicated his life to traveling the world to support children with facial differences",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 46.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a83a0d082796"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "NO AMNESTY",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 46.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2c15eefc9f1b"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Big Chungus",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 46.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "0a3cd16b7116"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Air Quality in Delhi Yesterday Night",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 45.8,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "ce9ed79f9a7c"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Wonder Woman",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 44.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "22a2aad860af",
+    "695aaa943fb9"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 2,
+   "label": "Visionquest Episode 8 Finale Trailer Welcome To Avengers Doomsday",
+   "shared_terms": [
+    "avengers",
+    "doomsday",
+    "visionquest"
+   ],
+   "common_tokens": [
+    "doomsday",
+    "avengers",
+    "visionquest"
+   ],
+   "max_virality": 43.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "44444eea6551"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "How Dream Built His Entire Career on a Bundle of Lies",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 43.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d52a0561b69e"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "James Gladstone",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 43.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b495cdd32178"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Video by @unk0wn_secrets",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 43.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2f063f41c72a"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "NEW MOVIE TRAILERS | 2026 - 2027",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "fc9e5a83fc44"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "tutu atwell",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "13a165006725"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Oldest trick in the book",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.3,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "c97a84725083"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Rams",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "4c4a0dc756e5"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "IMPOSSIBLE GUESSING RANKS (Rainbow Six Siege)",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 42.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a38b272f2ea6"
+   ],
+   "platforms": [
+    "linkedin"
+   ],
+   "size": 1,
+   "label": "LinkedIn asked people what they wanted to know about building Higgsfield AI ",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 41.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "405a795d61fc"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Send this to boy mom \ud83e\udd29 #zombie #toys #lasertag #gamer",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 41.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "cfd36294c81a",
+    "0a5a373d81bb",
+    "cb631005e6d7"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 3,
+   "label": "Hall\u2019s Pumpkin Farm \ud83c\udf83 open now - nov 1st \ud83c\udf42 $15 for adults & $10 for kids, cornmaze \ud83c\udf3d included with entry ((: one of my fav fall activities \ud83d\udc97 **CASH ONLY**   #grapevine #pumpkinseason #pumpkinpatch #dfw #dateidea",
+   "shared_terms": [
+    "dateidea",
+    "fall",
+    "pumpkin",
+    "pumpkinpatch"
+   ],
+   "common_tokens": [
+    "dateidea",
+    "pumpkin",
+    "pumpkinpatch",
+    "fall"
+   ],
+   "max_virality": 41.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "cdd3938e0636"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "My barely nutted drumstick",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 41.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e78540b28db9"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Otendewa (feat. Jammin)",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 40.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2166d0844e20"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Michael Wilson",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 40.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e98d580f6660"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "jet blast",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 40.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "cd05b61d7098"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Who Built This Place\u2026",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 40.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "6e6be5fda7a7"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "what time is the voice on tonight",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 39.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7c0d61a1c715"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "PLAYING 'DONT SPLASH' ON ROBLOX WAS A TERRIBLE IDEA ft. SCOTT KRESS",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 39.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "631838d2cf4e"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "He Cannot Be TACKLED! Wheel of MUT! Ep. #13",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 39.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "038a6727db35"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Poch",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 39.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "23a8b7e20606"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "\ud83d\udd25 \u041f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u043d\u0430 2\u20133 \u0434\u043d\u044f 1. \u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0439 \u043f\u0440\u043e\u0444\u0438\u043b\u044c * \u043f\u043e\u0441\u0442\u0430\u0432\u044c \u0430\u0432\u0430\u0442\u0430\u0440\u043a\u0443; * \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0439 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0438\u043a \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435; * \u0432\u044b\u0431\u0435\u0440\u0438 \u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0443 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u044d\u0434\u0438\u0442\u044b \u043f\u043e \u00ab\u041b\u0435\u0434\u0438 \u0411\u0430\u0433\u00bb). 2. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0441\u0432\u043e\u0435\u0439 \u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 * \u0438\u0449\u0438 \u043d\u0443\u0436\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0438\u0441\u043a; * \u0441\u043c\u043e\u0442\u0440\u0438 \u0438\u0445 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e, \u0430 \u043d\u0435 \u043f\u0440\u043e\u043b\u0438\u0441\u0442\u044b\u0432\u0430\u0439 \u0441\u0440\u0430\u0437\u0443; * \u0441\u0442\u0430\u0432\u044c \u043b\u0430\u0439\u043a\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0442\u043e\u043c\u0443, \u0447\u0442\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f; * \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0439 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e; * \u043f\u043e\u0434\u043f\u0438\u0441\u044b\u0432\u0430\u0439\u0441\u044f \u043d\u0430 \u0430\u0432\u0442\u043e\u0440\u043e\u0432, \u0447\u0435\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0445\u043e\u0447\u0435\u0448\u044c \u0432\u0438\u0434\u0435\u0442\u044c. 3. \u041d\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0439 \u044d\u0442\u043e \u0432 \u043c\u0430\u0440\u0430\u0444\u043e\u043d \u041d\u0435 \u043d\u0443\u0436\u043d\u043e \u0437\u0430 \u043e\u0434\u0438\u043d \u0447\u0430\u0441 \u043b\u0430\u0439\u043a\u0430\u0442\u044c 300 \u0432\u0438\u0434\u0435\u043e \u043f\u043e\u0434\u0440\u044f\u0434 \ud83d\ude2d \u041b\u0443\u0447\u0448\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f TikTok \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u0445\u043e\u0434\u043e\u0432 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u043d\u044f. 4. \u041f\u043e\u0442\u043e\u043c \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439 \u0441\u0432\u043e\u0451 \u0415\u0441\u043b\u0438 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 \u0434\u043b\u044f \u044d\u0434\u0438\u0442\u043e\u0432, \u043f\u0435\u0440\u0432\u044b\u0435 \u0440\u043e\u043b\u0438\u043a\u0438 \u043b\u0443\u0447\u0448\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u0438\u043c\u0435\u043d\u043d\u043e \u0432 \u044d\u0442\u043e\u0439 \u0442\u0435\u043c\u0435, \u0447\u0442\u043e\u0431\u044b \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u043b\u0438 \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439 \u0441\u0438\u0433\u043d\u0430\u043b \u043e \u0442\u0432\u043e\u0435\u0439 \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u0438. \u041d\u0435 \u0441\u043e\u0432\u0435\u0442\u0443\u044e: \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u044c \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u044b/\u043b\u0430\u0439\u043a\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u043e\u0442\u043e\u0432 \u0438\u2026",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 39.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "5cc19d8636fe",
+    "3df1dd2a7318"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 2,
+   "label": "Ethan Klein Cheating Controversy H3 Affair Scandal",
+   "shared_terms": [
+    "cheating",
+    "controversy"
+   ],
+   "common_tokens": [
+    "controversy",
+    "cheating"
+   ],
+   "max_virality": 39.0,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "4a5173c27b80"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "I hate cheaters and cheating",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 38.8,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "d1071b5b92b1"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Kevin Gates - Coffee Grounds",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 38.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "296d0c6b3e51"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Read",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 38.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "67ef59e0ce9a"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Puka",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 37.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "844314f0fe6f"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "junior - c\u00facuta",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 36.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "3f8811da7a04"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "I Built a clan base as a solo in Rust...",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 36.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "51e51d019704"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Marvel",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 36.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "131d38472bca",
+    "7c1f64597788"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 2,
+   "label": "Top 50 Christmas Songs of All Time\ud83c\udf84Best Christmas Songs Playlist",
+   "shared_terms": [
+    "christmas",
+    "playlist",
+    "songs"
+   ],
+   "common_tokens": [
+    "songs",
+    "christmas",
+    "playlist"
+   ],
+   "max_virality": 36.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e85c59c26668"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Becoming a VAMPIRE to Escape GIRLS ONLY PRISON..",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b67b47746275"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Corgi escapes during NFL games and embarrasses multiple grown men",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "efd84507a6dd"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "We believe you",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.4,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "a322328e46ab"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Lanterns",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 35.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7d3945e47c3d"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Code Rot Filter Yep Its Code Rotted Indeed",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 34.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "eca7a9cc05ad"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Man of Tomorrow",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 33.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "dc238e56c9be"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "challenger",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 32.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "32e45f5c17f0"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "DC Studios",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 32.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "0b57e3cce036"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Tech bros will be tech bros",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 31.9,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "0dc4d97d0ea8"
+   ],
+   "platforms": [
+    "google_trends"
+   ],
+   "size": 1,
+   "label": "cj beach",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 31.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "75086d543744"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Fatt Smaxk - Nov 8th [Official Music Video]",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 30.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "77e1dd8592ae"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Lauren Boebert",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 30.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b9bd26796840"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Meximutt O Algo",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 30.1,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "e83d63bf22d3"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "I love modern headlights",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 30.0,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b2f1375a598e"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Overload",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 29.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9110f0f64493"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "McVay",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 29.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "ff0d30be4d8f"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Resident Evil 2 warned us about falling for CCP spies",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "238e1871916a"
+   ],
+   "platforms": [
+    "youtube"
+   ],
+   "size": 1,
+   "label": "Almas Gemelas",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "7b277a3ffb83"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "I\u2019m Spider-man \ud83d\ude02",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "a7d73ed82a67"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Supergirl",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "fc08a9ee684e"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Russell Brand Sentenced To 10 Years In Prison",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 28.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "3dea252ac088"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Video by @jollyuser_",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 27.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "b69ff52fffa7"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Beane",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 26.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "64d2fe07e159"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "TIL that Whoopi Goldberg's real name is Caryn Johnson, and she adopted the last name \"Goldberg\" at her mother's suggestion because a Jewish-sounding name gave her a better chance of making it in Hollywood.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 26.2,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "813e3facbb9b"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "DACA",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 25.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2ead7a0dd4c4"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "It always notices. Every single time",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 25.0,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "b6a0e82fbb5e"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "The birds have had enough.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 24.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "3b65d6df1bf9"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Big Bend",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 23.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "140b89e62046"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "19 Genius salt Hacks Every Household Needs to Know! #lifehacks #clean #tip #tipsandtricks #lifetips",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 23.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "17cacce30e2a"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Josh Allen",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 22.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "e973c2677238"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "We all are not safe from a honeypot",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 22.4,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "9ba0d9542f6f"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "reminiscing i guess",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 22.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "24d38c019870"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Get the look",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 21.5,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "60827e33fe27"
+   ],
+   "platforms": [
+    "memes"
+   ],
+   "size": 1,
+   "label": "Fortnite Pirate Shop Token Pirate Coin",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 21.2,
+   "any_meme": true
+  },
+  {
+   "uids": [
+    "3518ea617b63"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Dezz",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 21.1,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d297a600afe5"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "They treated those immigrants poorly too.",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 20.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "3a8a3acc3eef"
+   ],
+   "platforms": [
+    "tiktok"
+   ],
+   "size": 1,
+   "label": "Creamy Parmesan Garlic Beef Bowtie Pasta Ingredients: 1 lb ground beef 3 teaspoons olive oil 5-6 cloves garlic, minced 1 small onion, finely chopped 1 teaspoon Worcestershire sauce  1 teaspoon Italian seasoning  1/2 teaspoon smoked paprika  3 tablespoons butter 3 cups beef broth 8 oz Bowtie Pasta 1 cup freshly grated Parmesan cheese 3/4 cup half and half (or whole milk) 1/2 teaspoon salt (adjust to taste) 1/4 teaspoon black pepper 1/2 teaspoon red pepper flakes 1-2 tablespoons fresh parsley, finely chopped Directions: Directions: Heat olive oil in a large skillet over medium-high heat. Add ground beef and cook until browned, breaking it apart as it cooks. Once browned, drain any excess fat if necessary. Add the chopped onion and garlic to the beef. Cook for 2-3 minutes until the onion is s\u2026",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 19.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "acc2d7d8d713"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Peacemaker",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 19.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "5737f6bac35c"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "A true samurai knows when to stay his blade",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 18.6,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "d9284942ecbf"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Justice League",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 18.3,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "55b64db7f2d5"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "Skydance",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 16.9,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "2d6e41df6a0e"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "2006:Boss",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 16.7,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "c912316fe021"
+   ],
+   "platforms": [
+    "x"
+   ],
+   "size": 1,
+   "label": "DJ Moore",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 15.5,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "dc5ddc91d3fb"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Diabetes can finally be cured permanently!",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 14.8,
+   "any_meme": false
+  },
+  {
+   "uids": [
+    "f4b8cf3e6c73"
+   ],
+   "platforms": [
+    "reddit"
+   ],
+   "size": 1,
+   "label": "Delhi\u2019s AQI Reportedly Hits a World Record: 2,374+",
+   "shared_terms": [],
+   "common_tokens": [],
+   "max_virality": 11.0,
+   "any_meme": false
+  }
+ ]
+}
